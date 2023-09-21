@@ -3,7 +3,7 @@ name: Package patch MPQ
 on:
   push:
     branches:
-      - 'main'
+      - 'test'
 
 jobs:
   package-patch-mpq:
@@ -24,7 +24,7 @@ jobs:
           cache-dependency-path: 'patch/.github/workflows/package.yml'
 
       - name: Build
-        run: npx haax@0.1.13 build ./patch ./patch-A.MPQ inPlace
+        run: npx haax@0.1.13 build ./patch ./patch-Z.MPQ inPlace
 
       - name: Bump version and push tag
         id: tag_version
