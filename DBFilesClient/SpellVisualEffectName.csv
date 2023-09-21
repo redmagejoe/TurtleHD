@@ -1,0 +1,1641 @@
+id,name,fileName,areaEffectSize,scale
+1,"zzOLD__FireShield_Cast_Base","Particles\FireShield_Cast_Base.mdl",4,1
+2,"FireBolt Impact Chest","Spells\FireBolt_ImpactDD_Med_Chest.mdx",4,1
+3,"zzOLD__Heal","Spells\Heal\Heal.mdl",4,1
+4,"zzOLD__HealCast","Spells\HealCast\HealCast.mdl",4,1
+6,"Teleport In","Spells\TeleportIn\TeleportIn.mdx",4,1
+10,"zzOLD__Teleport Cast","Spells\TeleportCast\TeleportCast.mdl",4,1
+11,"Footstep Spray Snow Run","Particles\FootstepSpraySnow.mdl",4,1
+12,"Footstep Spray Snow Walk","Particles\FootstepSpraySnowWalk.mdl",4,1
+14,"HARDCODED Loot Art","Particles\LootFX.mdl",0,1
+17,"Shadow Precast Low Hand","Spells\Shadow_Precast_Low_Hand.mdx",4,1
+18,"zzOLD__Death Touch Cast","Spells\DeathTouchCast\DeathTouchCast.mdl",4,1
+20,"zzOLD__Heal Hands","Spells\HealHands\HealHands.mdl",4,1
+21,"HARDCODED Unit Level Up","Spells\LevelUp\LevelUp.mdl",0,1
+23,"zzOLD__FreezingFinger2_Impact_Head","Particles\FreezingFinger2_Impact_Head.MDL",0,1
+24,"zzOLD__FreezingFinger_Impact_Chest","Particles\FreezingFinger_Impact_Chest.MDL",0,1
+25,"zzOLD__FreezingFinger_Impact_Base","Particles\FreezingFinger_Impact_Base.MDL",0,1
+26,"zzOLD__FrostCastConeofCold","Particles\FrostCastConeofCold.MDL",0,1
+27,"zzOLD__Portal","Spells\Summon03\Summon03.mdl",0,1
+28,"zzOLD__Numb_Impact_Base","Particles\Numb_Impact_Base.MDL",0,1
+29,"zzOLD__FreezingCloud_Impact_Base","Particles\FreezingCloud_Impact_Base.MDL",0,1
+30,"zzOLD__Numb_Precast_Hand","Particles\Numb_Precast_Hand.MDL",0,1
+32,"zzOLD__FrostBolt Missle","Particles\FrostBolt_Missle.mdl",0,1
+33,"zzOLD__FrostBlast_Precast_Hand","Particles\FrostBlast_Precast_Hand.MDL",0,1
+34,"zzOLD__FrostBolt Impact","Particles\FrostBolt_Impact_Chest.mdl",0,1
+36,"zzOLD__Freeze_Impact_Base","Particles\Freeze_Impact_Base.MDL",0,1
+37,"zzOLD__Freeze_Impact_Chest","Particles\Freeze_Impact_Chest.MDL",0,1
+38,"zzOLD__FrostArmor_Impact_Head","Particles\FrostArmor_Impact_Head.MDL",0,1
+39,"zzOLD__FrostNova_Impact_Chest","Particles\FrostNova_Impact_Chest.MDL",0,1
+40,"zzOLD__FreezeNova_Impact_Chest","Particles\FreezeNova_Impact_Chest.MDL",0,1
+41,"zzOLD__FreezingFinger4_Impact_Head","Particles\FreezingFinger4_Impact_Head.mdl",0,1
+42,"zzOLD__StarStun_State_Head","Particles\StarStun.MDL",0,1
+43,"zzOLD__CorrodeArmor_Impact_Head","Particles\CorrodeArmor_Impact_Head.MDL",0,1
+44,"zzOLD__Slow Hands","Particles\Slow_Hands.mdl",0,1
+45,"Fire Precast Low Hand","Spells\Fire_Precast_Low_Hand.mdx",0,1
+46,"zzOLD__BurningBlast_Precast_Base","Particles\BurningBlast_Precast_Base.MDL",0,1
+47,"zzOLD__WallofFire_area","Particles\WallofFire_area.mdl",0,1
+48,"zzOLD__BoltofIce_Impact_Chest","Particles\BoltofIce_Impact_Chest.mdl",0,1
+49,"zzOLD__FrostBlast_Precast_Base","Particles\FrostBlast_Precast_Base.mdl",0,1
+50,"StunSwirl State Head","Spells\StunSwirl_State_Head.mdx",0,1
+51,"zzOLD__WalkofFire","Particles\WalkofFire_area.mdl",0,2
+53,"zzOLD__Frost_Precast_Base","Particles\Frost_Precast_Base.mdl",0,1
+54,"Ice Precast Uber Head","Spells\Ice_Precast_Uber_Head.mdx",0,1
+55,"Combat Blood Spurt Back Large Red","Particles\BloodSpurts\BloodSpurtLarge.mdx",10,1
+56,"zzOLD__BoltofFire_missle","Particles\BoltofFire_missle.mdl",0,1
+57,"zzOLD__FireShield_Impact_Base","Particles\FireShield_Impact_Base.mdl",0,1
+58,"zzOLD__Frost_Cast_Chest","Particles\Frost_Cast_Chest.mdl",0,1
+59,"zzOLD__Frost_Precast_Chest","Particles\Frost_Precast_Chest.mdl",0,1
+60,"zzOLD__Frost_Cast_Base","Particles\Frost_Cast_Base.mdl",0,1
+61,"zzOLD__Frost_Precast3_Base","Particles\Frost_Precast3_Base.mdl",0,1
+62,"zzOLD__Frost_Cast2_Base","Particles\Frost_Cast2_Base.mdl",0,1
+63,"zzOLD__Frost_Precast_Low_Hand","Particles\Frost_Precast_Low_Hand.mdl",0,1
+64,"zzOLD__Frost_Cast_Hand","Particles\Frost_Cast_Hand.mdl",0,1
+65,"zzOLD__BurningBlast_Cast_Base","Particles\BurningBlast_Cast_Base.mdl",0,1
+66,"zzOLD__FreezingFinger1_Impact_Head","Particles\FreezingFinger1_Impact_Head.mdl",0,1
+67,"zzOLD__FrostBlast_Cast_Base","Particles\FrostBlast_Cast_Base.mdl",0,1
+68,"zzOLD__FreezingFinger3_Impact_Head","Particles\FreezingFinger3_Impact_Head.mdl",0,1
+69,"zzOLD__CircleofFlame_area","Particles\CircleofFlame_area.mdl",0,1
+70,"Rejuvenation Impact Base","Spells\Rejuvenation_Impact_Base.mdx",0,1
+71,"zzOLD__Rejuvenation Impact Chest","Particles\NaturesTouch1_Impact_Chest.mdl",0,1
+72,"zzOLD__Nature_Precast_Base","Particles\Nature_Precast_Base.mdl",0,1
+73,"Nature Cast Hand","Spells\Nature_Cast_Hand.mdx",4,1
+74,"CallLightning Impact","Spells\CallLightning_Impact.mdx",4,1
+75,"zzOLD__FireShield_State_Base","Particles\FireShield_State_Base.mdl",0,0
+77,"zzOLD__CallStorm_PreCast_Base","Particles\CallStorm_PreCast_Base.mdl",0,1
+78,"zzOLD__LightningShield_Impact_Chest","Particles\LightningShield_Impact_Chest.mdl",0,1
+79,"EntanglingRoots_Impact_Base","Particles\EntanglingRoots_Impact_Base.mdl",4,1
+80,"EntanglingRoots State","Spells\EntanglingRoots_State.mdx",4,1
+81,"zzOLD__FrostCloud_Cast_Base","Particles\FrostCloud_Cast_Base.mdl",0,1
+82,"zzOLD__Nature_Cast_Base","Particles\Nature_Cast_Base.mdl",0,1
+83,"Ice ImpactDD Low Chest","Spells\Ice_ImpactDD_Low_Chest.mdx",4,1
+84,"zzOLD__IcePrison_State_Base","Particles\IcePrison_State.mdl",4,1
+85,"zzOLD__Resurrection_Impact_Base","Particles\Resurrection_Impact_Base.mdl",4,1
+86,"Defensive Stance Impact Chest","Spells\DefensiveStance_Impact_Chest.mdx",0,1
+87,"zzOLD__LightningShield_Cast_Base","Particles\LightningShield_Cast_Base.mdl",4,1
+88,"Lightning PreCast Low Hand","Spells\Lightning_PreCast_Low_Hand.mdx",0,1
+89,"Immolate Impact Chest","Spells\Immolate_Impact_Chest.mdx",4,1
+90,"SliceDice Impact Chest","Spells\SliceDice_Impact_Chest.mdx",4,1
+91,"zzOLD__BloodLust_Impact_Base","Particles\BloodLust_Impact_Base.mdl",4,1
+92,"zzOLD__Dismember_Impact_Chest","Particles\Dismember_Impact_Chest.mdl",0,1
+93,"ShieldBash Impact Chest","Spells\ShieldBash_Impact_Chest.mdx",0,1
+94,"BloodLust State Hand","Spells\BloodLust_State_Hand.mdx",0,1
+95,"zzOLD__BloodLust_Precast_Base","Particles\BloodLust_Precast_Base.mdl",0,1
+96,"zzOLD__Lightning_PreCast_Base","Particles\Lightning_PreCast_Base.mdl",0,1
+97,"Cripple State Chest","Spells\Cripple_State_Chest.mdx",0,1
+98,"zzOLD__Impale_Impact_Chest","Particles\Impale_Impact_Chest.mdl",0,1
+99,"Food HealEffect Base","Spells\Food_HealEffect_Base.mdx",0,1
+100,"Teleport","Spells\Teleport.mdx",4,1
+101,"HeadSplitter Impact Chest","Spells\HeadSplitter_Impact_Chest.mdx",0,1
+102,"Bloodlust Cast Hand","Spells\BloodLust_Cast_Hand.mdx",4,1
+103,"SummonPet PreCast Impact Base","Spells\SummonPet_Impact_Base.mdx",0,1
+104,"zzOLD__DismemberBlood_Impact_Chest","Particles\DismemberBlood_Impact_Chest.mdl",0,1
+105,"Footstep Spray Dirt Run","Particles\FootstepSprayDirt.mdl",4,1
+106,"Footstep Spray Dirt Walk","Particles\FootstepSprayDirtWalk.mdl",4,1
+107,"HARDCODED Breath Cold","Particles\ColdBreath.mdl",5,1
+108,"HARDCODED Breath Underwater","Particles\Bubbles.mdl",5,1
+109,"Combat Blood Spurt Front Small Red","Particles\BloodSpurts\BloodSpurt.mdl",11,1
+110,"Holy ImpactDD Uber Chest","Spells\Holy_ImpactDD_Uber_Chest.mdx",6,1
+117,"Ice Precast Low Hand","Spells\Ice_Precast_Low_Hand.mdx",6,1
+118,"zzOLD__Hit Splat Physical Big","Particles\BloodSpurts\HitSprite.mdx",0,1
+119,"Holy Precast Uber Hand","Spells\Holy_Precast_Uber_Hand.mdx",0,1
+120,"zzOLD__Hit Splat Holy Small","Particles\BloodSpurts\HitSprite.mdx",0,1
+121,"Ice Precast Med Hand","Spells\Ice_Precast_Med_Hand.mdx",6,1
+122,"Ice Precast High Base","Spells\Ice_Precast_High_Base.mdx",6,1
+123,"Holy Precast High Base","Spells\Holy_Precast_High_Base.mdx",6,1
+124,"Holy ImpactDD Med Chest","Spells\Holy_ImpactDD_Med_Chest.mdx",6,1
+125,"Holy ImpactDD High Chest","Spells\Holy_ImpactDD_High_Chest.mdx",6,1
+126,"Ice Precast High Hand","Spells\Ice_Precast_High_Hand.mdx",6,1
+127,"Ice Precast Uber Hand","Spells\Ice_Precast_Uber_Hand.mdx",6,1
+128,"Ice Precast Uber Base","Spells\Ice_Precast_Uber_Base.mdx",6,1
+129,"Holy ImpactDD Low Chest","Spells\Holy_ImpactDD_Low_Chest.mdx",6,1
+130,"Holy Precast Med Hand","Spells\Holy_Precast_Med_Hand.mdx",6,1
+131,"Holy Precast High Hand","Spells\Holy_Precast_High_Hand.mdx",6,1
+134,"zzOLD__Heal Precast Base","Particles\Heal_Precast_Base.mdl",0,1
+135,"Holy Precast Low Hand","Spells\Holy_Precast_Low_Hand.mdx",0,1
+136,"zzOLD__Heal Cast Base","Particles\Heal_cast_Base.mdl",0,1
+140,"zzOLD__Heal_Impact_Base","Particles\Heal_Impact_Base.mdl",0,1
+141,"zzOLD__Heal Precast Chest","Particles\Heal_Precast_Chest.mdl",0,1
+142,"zzOLD__HolySmite Impact","Particles\HolySmite_Impact_Chest.mdl",0,1
+143,"zzOLD__HolySmite Precast Base","Particles\HolySmite_Precast_Base.mdl",4,1
+144,"zzOLD__Restoration_Precast_Chest","Particles\Restoration_PreCast_Chest.mdl",0,1
+145,"zzOLD__Restoration_Precast_Base","Particles\Restoration_Precast_Base.mdl",0,1
+146,"Nature Precast Hand","Spells\Nature_PreCast_Low_Hand.mdx",0,1
+147,"Restoration Impact Base","Spells\Restoration_Impact_Base.mdx",0,0
+148,"Holy ImpactDD Uber Base","Spells\Holy_ImpactDD_Uber_Base.mdx",0,1
+149,"Shadow ImpactDD Low Chest","Spells\Shadow_ImpactDD_Low_Chest.mdx",0,1
+150,"Shadow ImpactDD Med Base","Spells\Shadow_ImpactDD_Med_Base.mdx",0,1
+151,"DeathCoil Missile","Spells\DeathCoil_Missile.mdx",0,1
+152,"zzOLD__Bloodlust_PreCast_Hand","Particles\Bloodlust_PreCast_Hand.mdl",0,1
+153,"PiercingStrike_Cast_Hand","Particles\PiercingStrike_Cast_Hand.mdl",0,1
+154,"zzOLD__BurningBlast_Impact","Particles\BurningBlast_Impact_Chest.mdl",0,1
+155,"zzOLD__HealSelf_Impact_Base","Particles\HealSelf_Impact_Base.mdl",0,1
+156,"zzOLD__HealSelf_PreCast_Hand","Particles\HealSelf_PreCast_Hand.mdl",4,1
+157,"LightningBolt Missile","Spells\LightningBolt_Missile.mdx",0,1
+158,"Slow Impact Base","Spells\Slow_Impact_Base.mdx",0,1
+159,"zzOLD__LogInEffect_Precast_Base","Particles\LoginFX.mdl",0,0
+160,"zzOLD__Corruption Impact Head","Particles\CorrodeArmor_Impact_Head.mdl",0,1
+161,"zzOLD__Power Word Shadow Impact","Particles\PWShadow_Impact.mdl",0,1
+162,"Invisibility Impact","Spells\Invisibility_Impact_Base.mdl",0,1
+163,"zzOLD__Invisibility PreCast Hands","Particles\Invisibility_PreCast_Hand.mdl",0,1
+164,"Combat Blood Spurt Front Large Red","Particles\BloodSpurts\BloodSpurtLarge.mdl",11,1
+167,"zzOLD__MoltenBlast_Impact","Particles\MoltenBlast_Impact.mdl",0,1
+168,"Brilliance Aura Base","Spells\BrillianceAura.mdl",4,1
+169,"SummonPet Cast Impact Base","Spells\SummonPet_Cast_Impact_Base.mdx",0,1
+170,"Summon Precast Hand","Spells\Summon_PreCast_Hand.mdx",4,1
+171,"Mining Pick","Spells\MiningPick_SpellObject.mdx",4,1
+172,"zzOLD__FrostNova_AE","Particles\FrostNova_AE_Impact.mdl",4,50
+173,"LightningShield Impact Base","Spells\LightningShield_Impact_Base.mdx",4,1
+174,"zzOLD__Fizzle Physical","Particles\Physical_Fizzle_Hand.mdl",6,1
+175,"zzOLD__Fizzle Holy","Particles\Holy_Fizzle_Hand.mdl",6,1
+176,"zzOLD__Fizzle Fire","Particles\Fire_Fizzle_Hand.mdl",6,1
+177,"zzOLD__Fizzle Nature","Particles\Nature_Fizzle_Hand.mdl",6,1
+178,"zzOLD__Fizzle Frost","Particles\Frost_Fizzle_Hand.mdl",6,1
+179,"zzOLD__Fizzle Shadow","Particles\Shadow_Fizzle_Hand.mdl",6,1
+180,"zzOLD__DivineSmite_Precast_Base","Particles\DivineSmite_Precast_Base.mdl",0,1
+181,"zzOLD__DivineSmite_Impact_Chest","Particles\DivineSmite_Impact_Chest.mdl",0,1
+182,"zzOLD__DivineSmite Impact Base","Particles\DivineSmite_Impact_Base.mdl",4,1
+183,"Combat Blood Spurt Front Small Green","Particles\BloodSpurts\BloodSpurtGreen.mdl",11,1
+184,"Combat Blood Spurt Front Large Green","Particles\BloodSpurts\BloodSpurtGreenLarge.mdl",11,1
+187,"FireShield Impact Head","Spells\FireShield_Impact_Head.mdx",4,1
+188,"FireBolt Missile Low","Spells\FireBolt_Missile_Low.mdx",4,1
+189,"zzOLD_Blessing Strength Impact Base","Spells\BlessingofStrength_Base.mdx",0,1
+190,"BlessingofStrength Base","Spells\BlessingofStrength_Base.mdx",0,1
+191,"BlessingofAgility Base","Spells\BlessingofAgility_Base.mdx",0,1
+192,"zzOLD__Blessing of Agility 3 Impact Base","Spells\BlessingofAgility_Base.mdx",0,1
+193,"BlessingofStamina Base","Spells\BlessingofStamina_Base.mdx",0,1
+194,"zzOLD__Blessing Stamina Impact Base 3","Spells\BlessingofStamina_Base.mdx",0,1
+195,"BlessingofProtection Base","Spells\BlessingofProtection_Base.mdx",0,1
+196,"zzOLD_Blessing Protection Impact Base 3","Spells\BlessingofProtection_Base.mdx",0,1
+197,"zzOLD__Holy Light Impact Base","Particles\HolyLight_Impact_Base.mdl",0,1
+198,"zzOLD__InnerFire Impact Base","Particles\InnerFire_Impact_Base.mdl",0,1
+200,"HARDCODED Footstep Water Run Spray","Particles\FootstepSprayWater.mdl",4,1
+201,"HARDCODED Footstep Water Walk Spray","Particles\FootstepSprayWaterWalk.mdl",4,1
+202,"zzOLD__Character Morph Effect","Particles\MorphFX.mdl",4,1
+205,"zzOLD__Frost_Precast_High_Hand","Particles\Frost_Precast_High_Hand.mdl",0,1
+206,"zzOLD__Frost_Precast_Med_Hand","Particles\Frost_Precast_Med_Hand.mdl",0,1
+207,"zzOLD__Frost_Precast_Uber_Hand","Particles\Frost_Precast_Uber_Hand.mdl",4,1
+208,"zzOLD__Frost_Precast_High_Base","Particles\Frost_Precast_High_Base.mdl",0,1
+210,"zzOLD__Frost_Precast_Uber_Base","Particles\Frost_Precast_Uber_Base.mdl",4,1
+211,"Holy Precast Uber Base","Spells\Holy_Precast_Uber_Base.mdx",4,1
+212,"Fire ImpactDD High Chest","Spells\Fire_ImpactDD_High_Chest.mdx",0,0
+213,"Fire ImpactDD High Base","Spells\Fire_ImpactDD_High_Base.mdx",0,1
+214,"Ice ImpactDD Med Chest","Spells\Ice_ImpactDD_Med_Chest.mdx",4,1
+215,"Swipe Caster","Spells\SwipeCaster.mdx",4,1
+216,"Ice ImpactDD Uber Chest","Spells\Ice_ImpactDD_Uber_Chest.mdx",0,1
+217,"Fire ImpactDD Low Chest","Spells\Fire_ImpactDD_Low_Chest.mdx",0,1
+218,"Fire ImpactDD Med Chest","Spells\Fire_ImpactDD_Med_Chest.mdx",0,1
+219,"Fire ImpactDD Uber Base","Spells\Fire_ImpactDD_Uber_Base.mdx",0,1
+220,"Fire ImpactDD Uber Chest","Spells\Fire_ImpactDD_Uber_Chest.mdx",0,1
+221,"Ice Precast High Head","Spells\Ice_Precast_High_Head.mdx",10,1
+222,"Holy ImpactDD High Base","Spells\Holy_ImpactDD_High_Base.mdx",10,1
+223,"DeathCoil Impact Chest","Spells\DeathCoil_Impact_Chest.mdx",0,1
+224,"Holy Missile Low","Spells\Holy_Missile_Low.mdx",10,1
+225,"Holy Missile Med","Spells\Holy_Missile_Med.mdx",10,1
+226,"Holy Missile High","Spells\Holy_Missile_High.mdx",0,1
+227,"Holy Missile Uber","Spells\Holy_Missile_Uber.mdx",10,1
+228,"BloodyExplosion","Spells\BloodyExplosion.mdx",10,1
+229,"Flamestrike ImpactDD Med Base","Spells\FlameStrike_ImpactDD_Med_Base.mdx",0,1
+230,"Poison ImpactDot Med Chest","Spells\Poison_ImpactDot_Med_Chest.mdx",10,1
+231,"Ice Missile Low","Spells\Ice_Missile_Low.mdx",10,1
+232,"Ice Missile Med","Spells\Ice_Missile_Med.mdx",0,1
+233,"Ice Missile High","Spells\Frostbolt.mdx",0,1
+234,"Ice Missile Uber","Spells\Ice_Missile_Uber.mdx",0,1
+235,"zzOLD__Ice ImpactDOT Low Base","Spells\Ice_ImpactDOT_Low.mdx",10,1
+236,"Poison StateDot Med Base","Spells\Poison_ImpactDot_Med_Base.mdx",10,1
+237,"FireStrike Missile Low","Spells\FireStrike_Missile_Low.mdx",0,0
+238,"FrostArmor Low Head","Spells\FrostArmor_Low_Head.mdx",10,1
+239,"Shadow ImpactBuff Base","Spells\Shadow_ImpactBuff_Base.mdx",10,1
+240,"Dispel Low Base","Spells\Dispel_Low_Base.mdx",10,1
+241,"DemonArmor Impact Head","Spells\DemonArmor_Impact_Head.mdx",10,1
+242,"Item - Potion Healing","Spells\PotionA_SpellObject.mdx",0,1
+243,"PotionB SpellObject","Spells\PotionB_SpellObject.mdx",0,1
+244,"HolyLight Low Head","Spells\HolyLight_Low_Head.mdx",10,1
+245,"LayonHands Low Chest","Spells\LayonHands_Low_Chest.mdx",10,1
+246,"LayonHands Low Head","Spells\LayonHands_Low_Head.mdx",10,1
+247,"HolyWordHeal Base","Spells\HolyWordHeal_Base.mdx",10,1
+248,"Greater Heal Low Base","Spells\GreaterHeal_Low_Base.mdx",10,1
+249,"Heal Low Base","Spells\Heal_Low_Base.mdx",10,1
+251,"Corruption State Base","Spells\Corruption_ImpactDot_Med_Base.mdx",10,1
+252,"Fire DOT State Chest","Spells\Fire_DOT_State_Chest.mdx",10,1
+253,"Nullify base","Spells\Nullify_base.mdx",10,1
+254,"ChainsofIce Low Base","Spells\ChainsofIce_Low_Base.mdx",4,1
+255,"Sleep State Head","Spells\Sleep_State_Head.mdx",10,1
+256,"Dynamite Lit","Spells\DynamiteA_SpellObject.mdx",10,1
+257,"Bomb Explosion","Spells\Bomb_ExplosionA.mdx",4,1
+258,"Dynamite Missile","Spells\DynamiteA_Missile.mdx",10,1
+259,"Frost Bolt Missile","Spells\Frostbolt.mdx",0,1
+260,"SealofMight Low Base","Spells\SealofMight_Low_Base.mdx",10,1
+261,"BurningSpirit Impact Base","Spells\BurningSpirit_Impact_Base.mdx",0,1
+262,"DivineShield Low Chest","Spells\DivineShield_Low_Chest.mdx",10,1
+263,"DivineShield Low Base","Spells\DivineShield_Low_Base.mdx",10,1
+264,"BurningIntellect Impact Base","Spells\BurningIntellect_Impact_Base.mdx",10,1
+265,"ArcaneIntellect Impact Base","Spells\ArcaneIntellect_Impact_Base.mdx",0,1
+266,"Taunt Head","Spells\Taunt_Head.mdx",0,1
+267,"Conjure Item","Spells\ConjureItem.mdx",0,0
+268,"Devotion Aura Base","Spells\DevotionAura_Base.mdx",0,1
+269,"Conjure Item Cast","Spells\ConjureItemCast.mdx",4,1
+270,"Soul Funnel Impact Chest","Spells\SoulFunnel_Impact_Chest.mdx",0,1
+271,"Mana Funnel Impact Chest","Spells\ManaFunnel_Impact_Chest.mdx",0,1
+272,"Magic PreCast Hand","Spells\Magic_PreCast_Hand.mdx",4,1
+273,"Rake","Spells\Rake.mdx",0,1
+274,"Anti-Shadow Impact Base","Spells\AntiShadow_Impact_Base.mdx",0,1
+276,"Bestow Disease Impact Chest","Spells\BestowDisease_Impact_Chest.mdx",0,1
+277,"Create Soulstone Cast","Spells\CreateSoulstone_Cast.mdx",0,1
+278,"RetributionAura Base","Spells\RetributionAura_Base.mdx",0,1
+279,"Resurrection Low Base","Spells\Resurrection_Low_Base.mdx",0,0
+280,"Polymorph Impact","Spells\Polymorph_Impact.mdx",4,1
+281,"LightningBolt Impact Chest","Spells\LightningBolt_Impact_Chest.mdx",0,1
+282,"Frost Nova Area","Spells\Frost_Nova_area.mdx",4,1
+284,"Frost Nova state","Spells\Frost_Nova_state.mdx",4,1
+285,"Immolate State","Spells\Immolate_State.mdx",10,1
+286,"Maul Impact","Spells\MaulImpact.mdx",0,1
+287,"Fire Precast Hand","Spells\Fire_Precast_Hand.mdx",0,0
+288,"Fire Cast Hand","Spells\Fire_Cast_Hand.mdx",0,0
+289,"Harm Undead Aura Base","Spells\HarmUndeadAura_Base.mdx",0,1
+290,"Maul Cast Base","Spells\MaulCasterBase.mdx",0,1
+291,"Nature Precast Chest","Spells\Nature_Precast_Chest.mdx",0,0
+292,"Flamestrike Area","Spells\Flamestrike_Area.mdx",0,1
+293,"Lightning Cast Hand","Spells\Lightning_Cast_Hand.mdx",0,0
+294,"HolySmite Low Chest","Spells\HolySmite_Low_Chest.mdx",0,1
+296,"LightningShield State Base","Spells\LightningShield_State_Base.mdx",0,0
+297,"Immolate State Base","Spells\Immolate_State_Base.mdx",0,1
+298,"Life Tap State Chest","Spells\Lifetap_State_Chest.mdx",0,1
+299,"Smash Impact Chest","Spells\Smash_Impact_Chest.mdx",0,0
+300,"ShadowWordDominate Chest","Spells\ShadowWordDominate_Chest.mdx",0,1
+301,"ShadowWordSilence Breath","Spells\ShadowWordSilence_Breath.mdx",0,1
+303,"Anti-Magic PreCast Hand","Spells\AntiMagic_PreCast_Hand.mdx",0,1
+304,"Anti-Magic State Base","Spells\AntiMagic_State_Base.mdx",0,1
+305,"ShadowWordPain Chest","Spells\ShadowWordPain_Chest.mdx",0,1
+306,"Magic Unlock","Spells\MagicUnlock.mdx",4,1
+307,"Dark Ritual PreCast Base","Spells\DarkRitual_PreCast_Base.mdx",0,1
+308,"ShadowWordFumble Head","Spells\ShadowWordFumble_Head.mdx",0,1
+309,"Detect Invisibility Impact Base","Spells\DetectInvis_Impact_Base.mdx",0,1
+310,"Detect Invisibility Impact Head","Spells\DetectInvis_Impact_Head.mdx",0,1
+311,"CurseofWeakness Head","Spells\CurseofWeakness_Head.mdx",0,1
+312,"CurseofFrailty Head","Spells\CurseofFrailty_Head.mdx",0,1
+313,"RemoveCurse Base","Spells\RemoveCurse_Base.mdx",0,1
+314,"NullifyDisease Base","Spells\NullifyDisease_Base.mdx",0,1
+315,"NullifyPoison Base","Spells\NullifyPoison_Base.mdx",0,1
+320,"RighteousFury Chest","Spells\RighteousFury_Chest.mdx",0,1
+321,"MoltenBlast Impact Chest","Spells\MoltenBlast_Impact_Chest.mdx",0,0
+322,"zzOLD_Slice and Dice","Particles\SliceDice_Impact_Chest.mdx",10,1
+323,"Swipe Impact","Spells\SwipeImpact.mdx",0,1
+325,"Faerie Fire Head State","Spells\FaerieFire.mdx",0,1
+326,"HolyProtection Chest","Spells\HolyProtection_Chest.mdx",0,1
+328,"LightningStorm Cloud State","Spells\LightningStorm_Cloud_State.mdx",0,1
+330,"Shock Missile","Spells\Shock_Missile.mdx",10,1
+331,"Shock Impact Chest","Spells\Shock_Impact_Chest.mdx",0,0
+332,"Chainlightning Impact Chest","Spells\ChainLightning_Impact_Chest.mdx",0,0
+333,"PrayerofHealing Chest","Spells\PrayerofHealing_Chest.mdx",0,1
+334,"Spirit Armor Impact Head","Spells\SpiritArmor_Impact_Head.mdx",0,0
+335,"Anti-Holy Impact Base","Spells\AntiHoly_Impact_Base.mdx",0,1
+336,"RighteousnessAura Base","Spells\RighteousnessAura_Base.mdx",0,1
+337,"BeastRageCaster","Spells\BeastRageCaster.mdx",0,1
+339,"BeastRage State Head","Spells\BeastRageState.mdx",0,1
+340,"Basic Strike","Spells\BasicStrike.mdx",0,1
+341,"Thorns Base","Spells\Thorns_Base.mdx",0,1
+342,"Thorns Low Chest","Spells\Thorns_Low_Chest.mdx",0,1
+343,"Taunt Cast Base","Spells\Taunt_Cast.mdx",0,1
+345,"ChallengingShout Cast Base","Spells\ChallengingShout_Cast_Base.mdx",0,1
+346,"InnerFire Base","Spells\InnerFire_Base.mdx",0,1
+347,"Learn Impact Base","Spells\Learn_Impact_Base.mdx",0,1
+348,"Mark of the Beast Impact Head","Spells\MarkofBeast_Impact_Head.mdx",0,1
+349,"ThunderClap Cast Base","Spells\ThunderClap_Cast_Base.mdx",4,0
+350,"Purge Impact Chest","Spells\Purge_Impact_Chest.mdx",0,0
+351,"Unyielding Will Impact Chest","Spells\Unyielding_Will_Impact_Chest.mdx",0,1
+354,"Undying Strength Impact Chest","Spells\Undying_Strength_Impact_Chest.mdx",0,1
+355,"Cyclone State","Spells\Cyclone_State.mdx",0,1
+356,"Slowing Strike Cast Hand","Spells\SlowingStrike_Cast_Hand.mdx",0,0
+357,"Slowing Strike Impact Chest","Spells\SlowingStrike_Impact_Chest.mdx",0,0
+358,"Slowing Strike Impact Base","Spells\SlowingStrike_Impact_Base.mdx",0,0
+360,"Astral Recall Impact Base","Spells\Astral_Recall_Impact_Base.mdx",0,0
+361,"Whirlwind Base","Spells\Whirlwind_State_Base.mdx",0,0
+362,"Arrow Fire","Item\ObjectComponents\Ammo\ArrowFireFlight_01.mdx",0,0
+363,"Arrow Ice","Item\ObjectComponents\Ammo\ArrowIceFlight_01.mdx",0,0
+365,"Fireball Missile Low","Spells\Fireball_Missile_Low.mdx",0,1
+367,"Invisibility Impact Chest","Spells\Invisibility_Impact_Chest.mdx",0,1
+368,"Recklessness Impact Chest","Spells\Recklessness_Impact_Chest.mdx",0,0
+370,"CounterSpell Impact Chest","Spells\CounterSpell_Impact_Chest.mdx",0,1
+371,"ShadowProtection Chest","Spells\ShadowProtection_Chest.mdx",0,0
+372,"ProtectionFromNature Chest","Spells\ProtectionFromNature_Chest.mdx",0,0
+373,"ProtectionFromFire Chest","Spells\ProtectionFromFire_Chest.mdx",0,0
+374,"ResistFrost Chest","Spells\ResistFrost_Chest.mdx",0,0
+375,"BattleShout Cast Base","Spells\BattleShout_Cast_Base.mdx",0,0
+376,"IntimidatingShout Cast Base","Spells\IntimidatingShout_Cast_Base.mdx",0,0
+377,"DemoralizingShout Cast Base","Spells\DemoralizingShout_Cast_Base.mdx",0,0
+378,"Strike Cast Base","Spells\Strike_Cast_Chest.mdx",0,0
+379,"FinishingBlow Impact Chest","Spells\Feint_Impact_Chest.mdx",0,0
+380,"SinisterStrike Base Cast","Spells\SinisterStrike_Base_Cast.mdx",0,0
+381,"Kick Impact Chest","Spells\Kick_Chest_Impact.mdx",0,1
+389,"Vanish Cast Base","Spells\Vanish_Cast_Base.mdx",0,0
+392,"Magic Cast Hand","Spells\Magic_Cast_Hand.mdx",0,1
+393,"Item - Bread","Spells\Item_Bread.mdx",0,0
+394,"BackStab Impact Chest","Spells\BackStab_Impact_Chest.mdx",0,1
+396,"BackStab Cast Base","Spells\BackStab_Cast_Base.mdx",0,1
+397,"Gouge Precast State Hand","Spells\Gouge_Precast_State_Hand.mdx",0,0
+398,"Blizzard Impact Base","Spells\Blizzard_Impact_Base.mdx",0,0
+399,"Arcane Missile","Spells\Arcane_Missile.mdx",0,0
+401,"Arcane Impact Chest","Spells\Magic_Impact_Chest.mdx",0,0
+402,"Sap Impact Head","Spells\Sap_Impact_Chest.mdx",0,1
+403,"Sap Cast Base","Spells\Sap_Cast_Base.mdx",0,1
+404,"Cheap Shot Impact","Spells\CheapShot_Impact_Chest.mdx",0,0
+405,"Arcane Missile Lvl 1","Spells\Arcane_Missile_Lvl1.mdx",0,0
+406,"Arcane Missile Lvl 2","Spells\Arcane_Missile_Lvl2.mdx",0,0
+407,"Arcane Missile Lvl 3","Spells\Arcane_Missile_Lvl3.mdx",0,0
+408,"Arcane Missile Lvl 4","Spells\Arcane_Missile_Lvl4.mdx",0,0
+409,"Polymorph Impact Base","Spells\Polymorph_Impact_Base.mdx",0,0
+410,"HolyLight Impact Head","Spells\HolyLight_Impact_Head.mdx",0,0
+411,"Totem Cleansing SpellObject","Spells\TotemB_SpellObject.mdx",0,0
+412,"HolyWord Fortitude Impact Base","Spells\HolyWord_Fortitude_Impact_Base.mdx",0,0
+413,"ShadowWordBefuddle Head","Spells\ShadowWordBefuddle_Head.mdx",0,0
+414,"Renew Base","Spells\Renew_Base.mdx",0,0
+415,"Renew Chest","Spells\Renew_Chest.mdx",0,0
+416,"Strike Impact Chest","Spells\Strike_Impact_Chest.mdx",0,1
+417,"Item - Tankard","Spells\TankardA_SpellObject.mdx",0,0
+420,"Flamestrike Impact Base","Spells\Flamestrike_Impact_Base.mdx",4,1
+421,"Ice Cast Low Hand","Spells\Ice_Precast_Low_Hand.mdx",0,1
+422,"MageArmor Impact Head","Spells\MageArmor_Impact_Head.mdx",0,0
+423,"Lesser Heal Impact Base","Spells\LesserHeal_Base.mdx",0,0
+424,"FireShieldFinal Impact Head","Spells\FireShieldFinal_Impact_Head.mdx",0,0
+425,"FireWard Impact Chest","Spells\FireWard_Impact_Chest.mdx",0,0
+426,"FrostWard Impact Chest","Spells\FrostWard_Impact_Chest.mdx",0,0
+427,"Seal Of Might Impact Base","Spells\SealOfMight_Impact_Base.mdx",0,0
+428,"Seal Of Wrath Impact Base","Spells\SealOfWrath_Impact_Base.mdx",0,0
+429,"Seal Of Fury Impact Base","Spells\SealOfFury_Impact_Base.mdx",0,1
+430,"Seal Of Salvation Impact Base","Spells\SealOfSalvation_Impact_Base.mdx",0,0
+431,"Seal Of Wisdom Impact Base","Spells\SealOfWisdom_Impact_Base.mdx",0,0
+432,"Seal Of Protection Impact Base","Spells\SealOfProtection_Impact_Base.mdx",0,0
+433,"MoltenBlast Missile Lvl2","Spells\MoltenBlast_Missile_Lvl2.mdx",0,0
+434,"MoltenBlast Missile lvl3","Spells\MoltenBlast_Missile_Lvl3.mdx",0,0
+435,"Healing Aura Base","Spells\HealingAura_Base.mdx",0,1
+436,"Mind Rot Head Impact","Spells\MindRot_Head.mdx",0,0
+437,"FarSight Impact Base","Spells\FarSight_Impact_Base.mdx",0,0
+438,"Purify Base","Spells\Purify_Base.mdx",0,0
+439,"Turn Undead Cast","Spells\TurnUndead_Impact.mdx",0,0
+440,"Flare Cast Base","Spells\Flare_Cast_Base.mdx",0,0
+441,"Resistance Aura Base","Spells\ResistanceAura_Base.mdx",0,1
+442,"Fist Of Justice Cast","Spells\FistOfJustice_Cast_Base.mdx",0,0
+444,"Fist of justice Impact chest","Spells\FistOfJustice_Impact_Chest.mdx",0,1
+445,"Exorcism Impact Chest","Spells\Exorcism_Impact_Chest.mdx",0,0
+446,"Purge New Impact Chest","Spells\Purge_New_Impact_Chest.mdx",0,0
+447,"Holy Ward Impact","Spells\HolyWard_Impact_Chest.mdx",0,0
+448,"Rain Of Fire Impact Base","Spells\RainOfFire_Impact_Base.mdx",0,0
+449,"Fire Resistance Impact Base","Spells\FireResistance_Impact_Base.mdx",0,0
+450,"Nature Resistance Impact Base","Spells\NatureResistance_Impact_Base.mdx",0,1
+451,"ArcaneSpirit Impact Base","Spells\ArcaneSpirit_Impact_Base.mdx",0,0
+452,"Fear Impact Head","Spells\Fear_Impact_Chest.mdx",0,0
+453,"Fear State","Spells\Fear_State_Head.mdx",0,0
+454,"Cleanse Base","Spells\Clense_Base.mdx",0,0
+455,"BloodBoil_Impact_Chest.mdx","Spells\BloodBoil_Impact_Chest.mdx",0,0
+456,"Curse Of Tongues Impact Chest","Spells\CurseOfTongues_Impact.mdx",0,0
+457,"Curse Of Tongues State Chest","Spells\CurseOfTongues_State_Chest.mdx",0,0
+458,"Cleave Impact Chest","Spells\Cleave_Impact_Chest.mdx",0,1
+459,"Shadow Ward Impact Chest","Spells\ShadowWard_Impact_Chest.mdx",0,1
+460,"Shield Wall Impact Base","Spells\ShieldWall_Impact_Base.mdx",0,0
+461,"SpellBreak Cast Base","Spells\SpellBreak_Cast_Base.mdx",0,0
+462,"Cripple State Base","Spells\Cripple_State_Base.mdx",0,1
+463,"Balance Of Nature Impact Base","Spells\BalanceOfNature_Impact_Base.mdx",0,1
+464,"Demon Breath Impact Head","Spells\DemonBreath_Impact_Head.mdx",0,0
+465,"Fireworks Red Dots","Spells\Fireworks_Red_01.mdx",4,0
+466,"Pathfind Cast Head","Spells\Pathfind_Cast_Head.mdx",0,1
+467,"ManaInfuse Base","Spells\ManaInfuse_Base.mdx",0,0
+468,"Waterbreathing Impact Base","Spells\Waterbreathing_Impact_Base.mdx",0,0
+469,"BeastSoothe State Head","Spells\BeastSoothe_State_Head.mdx",0,0
+470,"Pestilence Impact Chest","Spells\Pestilence_Impact_Chest.mdx",0,0
+474,"Cripple Impact Base","Spells\Cripple_Impact_Base.mdx",0,1
+475,"MarkofWild Impact Head","Spells\MarkofWild_Impact_Head.mdx",0,1
+476,"BurningSpirit Impact Head","Spells\BurningSpirit_Impact_Head.mdx",0,0
+477,"Spell Object : Smithing Hammer","Spells\SpellObject_SmithingHammer.mdx",0,0
+478,"Disarm Impact Chest","Spells\Disarm_Impact_Chest.mdx",0,0
+479,"Sunder Impact Chest","Spells\Sunder_Impact_Chest.mdx",0,0
+480,"SavageBlow Impact Chest","Spells\SavageBlow_Impact_Chest.mdx",0,0
+481,"DecisiveStrike Impact Chest","Spells\DecisiveStrike_Impact_Chest.mdx",0,0
+482,"Beast Call Impact Head","Spells\BeastCall_Impact_Head.mdx",0,0
+502,"FireBlast Impact Chest","Spells\FireBlast_Impact_Chest.mdx",0,0
+503,"Fireball Missile High","Spells\Fireball_Missile_High.mdx",0,0
+522,"Maim Impact Chest","Spells\Maim_Impact_Chest.mdx",0,0
+523,"Shot: Fire Missile","Spells\FireShot_Missile.mdx",0,0
+524,"Shot: Frost Missile","Spells\FrostShot_Missile.mdx",0,0
+525,"Shot: Blinding Missile","Spells\BlindingShot_Missile.mdx",0,0
+526,"Blinding Shot Impact Chest","Spells\BlindingShot_Impact.mdx",0,0
+527,"Multi Shot Impact Chest","Spells\MultiShot_Impact.mdx",0,0
+528,"Shot: Multi Missile","Spells\MultiShot_Missile.mdx",0,0
+529,"Maul Cast Bears","Spells\Maul.mdx",11,1
+532,"Combat Blood Spurt Front Small Black","Particles\BloodSpurts\BloodSpurtBlack.mdx",11,1
+533,"Combat Blood Spurt Front Large Black","Particles\BloodSpurts\BloodSpurtBlackLarge.mdx",11,1
+534,"Combat Blood Spurt Back Small Red","Particles\BloodSpurts\BloodSpurt.mdx",10,1
+535,"Combat Blood Spurt Back Small Green","Particles\BloodSpurts\BloodSpurtGreen.mdx",10,1
+536,"Combat Blood Spurt Back Small Black","Particles\BloodSpurts\BloodSpurtBlack.mdx",10,1
+537,"Combat Blood Spurt Back Large Green","Particles\BloodSpurts\BloodSpurtGreenLarge.mdx",10,1
+538,"Combat Blood Spurt Back Large Black","Particles\BloodSpurts\BloodSpurtBlackLarge.mdx",10,1
+539,"Curse of Mannoroth Impact Head","Spells\CurseofMannoroth_Head.mdx",0,1
+540,"ShadowStrike Impact Chest","Spells\ShadowStrike_Impact_Chest.mdx",0,1
+542,"Sap State Head","Spells\Sap_State_Head.mdx",0,1
+543,"Demoralizing Shout Impact Head","Spells\DemoralizingShout_Impact_Head.mdx",0,0
+544,"Intimidating Shout Impact Head","Spells\IntimidatingShout_Impact_Head.mdx",0,0
+545,"Ribbon Trail","Spells\RibbonTrail.mdx",0,0
+546,"Sprint Cast Base","Spells\Sprint_Cast_Base.mdx",0,0
+547,"Inner Rage Impact Chest","Spells\InnerRage_Impact_Chest.mdx",0,0
+548,"Shadow ImpactDD Med Chest","Spells\Shadow_ImpactDD_Med_Chest.mdx",0,1
+565,"Druid Morph Impact","Spells\DruidMorph_Impact_Base.mdx",0,0
+585,"Nightmare Impact Base","Spells\Nightmare_Impact_Base.mdx",4,1
+586,"Summon Water Elemental Impact","Spells\WaterElemental_Impact_Base.mdx",0,0
+587,"MoltenBlast Missile lvl1","Spells\MoltenBlast_Missile.mdx",0,1
+588,"Fire Blast Impact Chest","Spells\Fire_ImpactDD_Chest.mdx",0,0
+589,"Eviscerate Impact Chest","Spells\Eviscerate_Impact_Chest.mdx",0,1
+590,"Eviscerate Cast Hands","Spells\Eviscerate_Cast_Hands.mdx",0,1
+591,"Distract Impact Chest","Spells\Distract_Impact_Chest.mdx",0,0
+592,"Kidney Shot Cast Base","Spells\KidneyShot_Base_Cast.mdx",0,0
+593,"Retribution Aura Red Base","Spells\RetributionAuraRed_Base.mdx",0,0
+594,"Net State","Spells\Net_State.mdx",0,0
+595,"Web State","Spells\Web_State.mdx",0,0
+596,"Seal of Sacrifice Impact Base","Spells\SealOfSacrifice_Impact_Base.mdx",0,0
+614,"Flamestrikesmall Impact Base","Spells\FlamestrikeSmall_Impact_Base.mdx",0,0
+615,"Ice Armor Low Head","Spells\IceArmor_Low_Head.mdx",0,0
+616,"FrostArmorEffect Impact Chest","Spells\FrostArmorEffect_Impact_Chest.mdx",0,0
+617,"Divine Bubble Impact Base","Spells\DivineBubble_Low_Base.mdx",0,0
+618,"Missile: Web","Spells\Web_Missile.mdx",0,0
+619,"Bind Impact Base","Spells\Bind_Impact_Base.mdx",0,0
+620,"Poison ImpactDot Med Base","Spells\Poison_ImpactDot_Med_Base.mdx",10,1
+621,"Bloody Explosion Green Impact","Spells\BloodyExplosionGreen.mdx",0,0
+622,"Spell Object: Wrench","Spells\SpellObject_Wrench.mdx",0,0
+623,"Shadow Precast Uber Hand","Spells\Shadow_Precast_Uber_Hand.mdx",4,1
+624,"Shadow ImpactDD High Chest","Spells\Shadow_ImpactDD_High_Chest.mdx",0,1
+625,"Cone of Cold Hand","Spells\ConeofCold_Hand.mdx",0,1
+626,"DruidMorph Aqua Impact Base","Spells\DruidMorph_Aqua_Impact_Base.mdx",0,0
+627,"HellFire Impact Caster Base","Spells\HellFire_Impact_Caster_Base.mdx",0,0
+628,"HellFire Impact Base","Spells\HellFire_Impact_Base.mdx",0,1
+629,"HolyWord Shield Impact Base","Spells\HolyWordShield_Base.mdx",0,0
+630,"HolyWord Shield State Base","Spells\HolyWordShield_State_Base.mdx",0,0
+631,"Curse of Elements Impact Head","Spells\CurseElements_Impact_Head.mdx",0,0
+632,"Fire ImpactDD Chest","Spells\Fire_ImpactDD_Chest.mdx",0,0
+634,"Charge Trail Cast","Spells\ChargeTrail.mdx",0,0
+654,"Curse Of Agony Head Impact","Spells\CurseofAgony_Head.mdx",0,1
+655,"HolyWordShield State Chest","Spells\HolyWordShield_State_Chest.mdx",0,0
+674,"HolyDivineShield State Base","Spells\HolyDivineShield_State_Base.mdx",0,0
+675,"Missile: GooBolt","Spells\GooBolt_Missile_Low.mdx",0,0
+694,"LightningStreak Missile","Spells\LightningStreak_Missile.mdx",0,0
+714,"Fire Nova Area","Spells\FireNova_Area.mdx",0,0
+715,"Fire Nova State","Spells\FireNova_State.mdx",0,1
+716,"Grounding Totem Impact","Spells\GroundingTotem_Impact.mdx",0,0
+717,"Ghost_state","Spells\Ghost_state.mdx",0,0
+718,"Mana Shield State Base","Spells\ManaShield_State_Base.mdx",0,0
+719,"Dampen Magic Impact Base","Spells\DampenMagic_Impact_Base.mdx",0,0
+720,"Amplify Magic Impact Base","Spells\AmplifyMagic_Impact_Base.mdx",0,0
+734,"ArcaneExplosion Base","Spells\ArcaneExplosion_Base.mdx",0,1
+735,"ArcaneExplosion Impact Chest","Spells\ArcaneExplosion_Impact_Chest.mdx",0,0
+754,"Environment Damage Drowing Bubbles","Particles\Bubbles.mdx",0,0
+794,"Life Tap Impact","Spells\LifeTap.mdx",0,0
+814,"Shadow Precast Uber Base","Spells\Shadow_Precast_Uber_Base.mdx",4,1
+834,"Unholy Shield State Base","Spells\ShadowShield_State_Base.mdx",0,0
+835,"Curse of Recklessness Impact Chest","Spells\CurseofRecklessness_Impact_Chest.mdx",0,0
+836,"Enslave Demon Impact Chest","Spells\EnslaveDemon_Impact_Chest.mdx",0,0
+837,"Enslave Demon Impact Head","Spells\EnslaveDemon_Impact_Head.mdx",0,0
+854,"Missile: Water Bolt","Spells\WaterBolt_Missile_Low.mdx",0,0
+855,"Banish Chest","Spells\Banish_Chest.mdx",0,0
+856,"Magic Stone Helmet Green","Spells\MagicStoneHelmet_Green.mdx",1,0
+874,"Magic Net State","Spells\MagicNet_State.mdx",0,0
+894,"Cone of Fire Hand","Spells\ConeofFire_Hand.mdx",0,1
+914,"Boulder Missile","Spells\Boulder_Missile.mdx",0,0
+915,"Seaforium Impact Base","Spells\Distract_Impact_Base.mdx",0,0
+934,"Spawn Impact Base","Spells\Spawn_Impact_Base.mdx",0,1
+954,"Summon Ritual Portal","Spells\Summon_Ritual.mdx",0,1
+955,"RitualSummoning PreCast Base","Spells\RitualSummoning_PreCast_Base.mdx",0,0
+974,"Bind2 Impact Base","Spells\Bind2_Impact_Base.mdx",0,0
+994,"Shackle Undead State Base","Spells\UnholyShackles_State_Base.mdx",0,1
+1014,"CycloneEarth State","Spells\CycloneEarth_State.mdx",0,1
+1015,"CycloneFire State","Spells\CycloneFire_State.mdx",0,0
+1016,"CycloneWater State","Spells\CycloneWater_State.mdx",0,0
+1034,"Slam Impact Chest","Spells\Slam_Impact_Chest.mdx",0,0
+1054,"Shadow ImpactDD Uber Chest","Spells\Shadow_ImpactDD_Uber_Chest.mdx",0,1
+1074,"Whirlwind Base (Non-World Space)","Spells\Whirlwind_State_Base.mdx",0,0
+1094,"Might Aura State Base","Spells\MightAura_Impact_Base.mdx",0,0
+1095,"Wisdom Aura State","Spells\WisdomAura_Impact_Base.mdx",0,0
+1114,"Faerie Fire Impact","Spells\FaerieFire_Impact.mdx",0,0
+1115,"RadiationGreen State","Spells\GreenGhost_state.mdx",0,0
+1134,"MagePortal: Stormwind","Spells\MagePortal_Stormwind.mdx",0,0
+1154,"Gouge Precast State Hand (Non World Space)","Spells\Gouge_Precast_State_Hand.mdx",0,0
+1174,"Fireworks Blue Dots","Spells\Fireworks_Blue_01.mdx",4,0
+1175,"Fireworks Green Dots","Spells\Fireworks_Green_01.mdx",4,0
+1176,"Fireworks Red White Blue Dots","Spells\Fireworks_RWB_01.mdx",4,0
+1177,"Fireworks Red Streaks","Spells\Fireworks_RedStreaks_01.mdx",4,1
+1178,"Fireworks Yellow Rose","Spells\Fireworks_YellowRose.mdx",4,0
+1179,"PyroBlast Missile","Spells\PyroBlast_Missile.mdx",0,1
+1180,"Missile: Wrench","Spells\Missile_Wrench.mdx",0,0
+1181,"MagePortal: Darnassus","Spells\MagePortal_Darnassus.mdx",0,0
+1182,"Water Bubble Chest State","Spells\WaterBubble.mdx",0,0
+1183,"Mount Impact","Spells\DruidMorph_Impact_Base.mdx",0,0
+1184,"Dash Impact Chest","Spells\Sprint_Impact_Chest.mdx",0,0
+1185,"HARDCODED Mount Poof","Spells\DruidMorph_Impact_Base.mdx",4,2
+1202,"Bubble Drunk","Spells\Bubble_Drunk.mdx",0,0
+1223,"HARDCODED Inebriated Bubbles","Spells\Bubble_Drunk.mdx",5,0
+1242,"Seduction State","Spells\Seduction_State_Head.mdx",0,1
+1262,"Shadow ImpactDoT Med Head","Spells\Shadow_ImpactDot_Med_Head.mdx",0,1
+1282,"DeathAndDecay Area Base","Spells\DeathAndDecay_Area_Base.mdx",0,1
+1302,"Clearcasting Impact Chest","Spells\Clearcasting_Impact_Chest.mdx",0,1
+1303,"DustCloud Land","Spells\DustCloud_Land.mdx",0,1
+1304,"BoneArmor Head","Spells\BoneArmor_Head.mdx",0,1
+1305,"MagePortal: Ironforge","Spells\MagePortal_Ironforge.mdx",0,0
+1306,"MagePortal: Orgrimmar","Spells\MagePortal_Ogrimmar.mdx",0,0
+1307,"MagePortal: Thunder Bluff","Spells\MagePortal_ThunderBluff.mdx",0,0
+1308,"MagePortal: Undercity","Spells\MagePortal_UnderCity.mdx",0,0
+1309,"Green Radiation Fog","Spells\GreenRadiationFog.mdx",0,1
+1322,"BoneArmor State Chest","Spells\BoneArmor_State_Chest.mdx",0,1
+1342,"Acid Breath","Spells\AcidBreath.mdx",0,1
+1343,"Scorch Low Chest","Spells\Scorch_Low_Chest.mdx",0,1
+1344,"Frost Breath","Spells\FrostBreath.mdx",0,1
+1345,"Flame Breath","Spells\FlameBreath.mdx",0,1
+1362,"DetectMagic Base","Spells\DetectMagic_Base.mdx",0,1
+1382,"Sense Demons Impact Head","Spells\SenseDemons_Impact_Head.mdx",0,1
+1402,"SoothingKiss Impact Head","Spells\SoothingKiss_Impact_Head.mdx",0,1
+1403,"Redemption Base","Spells\Redemption_Base.mdx",0,1
+1422,"HellFire Area Base","Spells\HellFire_Area_Base.mdx",0,1
+1423,"HellFire Impact Head","Spells\HellFire_Impact_Head.mdx",0,1
+1442,"MindBlast Head","Spells\MindBlast_Head.mdx",0,1
+1462,"ManaBurn Chest","Spells\ManaBurn_Chest.mdx",0,1
+1463,"FlashHeal Base","Spells\FlashHeal_Base.mdx",0,1
+1482,"Aspect of the Beast Impact Head","Spells\AspectBeast_Impact_Head.mdx",0,1
+1483,"Aspect Monkey Impact Head","Spells\AspectMonkey_Impact_Head.mdx",0,1
+1502,"Aspect Wolf Impact Head","Spells\AspectWolf_Impact_Head.mdx",0,1
+1503,"Aspect Snake Impact Head","Spells\AspectSnake_Impact_Head.mdx",0,1
+1522,"Shot: Poison Missile","Spells\PoisonShot_Missile.mdx",0,1
+1523,"Mana ImpactDot Chest","Spells\Mana_ImpactDot_Chest.mdx",0,1
+1524,"Shot: Mana Missile","Spells\ManaShot_Missile.mdx",0,1
+1542,"Enchant PreCast Hand","Spells\Enchant_PreCast_Hand.mdx",0,1
+1543,"Enchant Cast Hand","Spells\Enchant_Cast_Hand.mdx",0,1
+1544,"Disenchant PreCast Hands","Spells\DisEnchant_PreCast_Hand.mdx",0,1
+1545,"DisEnchant Cast Hands","Spells\DisEnchant_Cast_Hand.mdx",0,1
+1546,"Shot: Scorpid Sting","Spells\ScorpidShot_Missile.mdx",0,1
+1547,"Shot: Black Arrow","Spells\BlackShot_Missile.mdx",0,1
+1548,"Revive Pet Impact Base","Spells\RevivePet_Impact_Base.mdx",0,1
+1562,"Hunter's Mark Impact Chest","Spells\HuntersMark_Impact_Chest.mdx",0,1
+1563,"Hunter's Mark State Head","Spells\HuntersMark_Impact_Head.mdx",0,1
+1582,"Beast Lore Impact Base","Spells\BeastLore_Impact_Base.mdx",0,1
+1583,"Beast Lore Impact Head","Spells\BeastLore_Impact_Head.mdx",0,1
+1602,"Shot: Arcane Missile","Spells\ArcaneShot_Missile.mdx",0,1
+1603,"Shot: Arcane Volley","Spells\ArcaneVolley_Missile.mdx",0,1
+1604,"FreezingTrap","World\Goober\G_FreezingTrap.mdx",0,1
+1605,"FrostTrap","World\Goober\G_FrostTrap.mdx",0,1
+1606,"ExplosiveTrap","World\Goober\G_ExplosiveTrap.mdx",0,1
+1607,"ImmolationTrap","World\Goober\G_ImmolationTrap.mdx",0,1
+1608,"Rapid Fire Impact Base","Spells\RapidFire_Base.mdx",0,1
+1622,"Warhorse Impact Base","Spells\SummonWarHorse_Impact_Base.mdx",0,1
+1623,"Aspect Hawk Impact Head","Spells\AspectHawk_Impact_Head.mdx",0,1
+1624,"Flamestrike Impact","Spells\Flamestrike_Impact.mdx",0,1
+1625,"Poison Impact Chest","Spells\Poison_Impact_Chest.mdx",0,1
+1626,"Eagle Eye Impact Head","Spells\EagleEye_Impact_Head.mdx",0,1
+1642,"Sinister Strike Impact Chest","Spells\SinisterStrike_Impact_Chest.mdx",0,1
+1643,"Cleave Cast Base","Spells\Cleave_Cast_Base.mdx",0,1
+1644,"Blue Glow High","Spells\Enchantments\BlueGlow_High.mdx",0,1
+1645,"HARDCODED PetLoyalty Down Base","spells\loyaltydown_impact_base.mdx",0,1
+1646,"HARDCODED PetLoyalty Down Head","spells\loyaltydown_impact_head.mdx",1,1
+1647,"HARDCODED PetLoyalty Up Base","spells\loyaltyup_impact_base.mdx",0,1
+1648,"HARDCODED PetLoyalty Up Head","spells\loyaltyup_impact_head.mdx",1,1
+1649,"EarthShock Impact Chest","Spells\EarthShock_Impact_Chest.mdx",0,1
+1650,"Flame Shock Impact Chest","Spells\FlameShock_Impact_Chest.mdx",0,1
+1662,"ExposeArmor Head","Spells\ExposeArmor_Head.mdx",0,1
+1682,"SliceDice Chest","spells\slicedice_chest.mdx",0,1
+1702,"MagePortal: Blank","spells\mageportal_blank.mdx",0,1
+1703,"Shadow Precast Med Base","Spells\Shadow_Precast_Med_Base.mdx",4,1
+1722,"Holy Nova Impact Base","spells\holynova_impact_base.mdx",0,1
+1742,"Flame Breath 180","spells\flamebreath180.mdx",0,1
+1762,"Aspect Cheetah Impact Head","spells\aspectcheetah_impact_head.mdx",0,1
+1782,"Missile: Torch","spells\torch_missile.mdx",0,1
+1783,"Missile: Mug","spells\mug_missile.mdx",0,1
+1784,"First Aid Impact Base","spells\firstaid__impact_base.mdx",0,1
+1785,"First Aid Hand","spells\firstaid_hand.mdx",0,1
+1802,"Frost Trap Aura","spells\frosttrap_aura.mdx",0,1
+1822,"Arcane Shot Area","spells\arcaneshot_area.mdx",0,1
+1842,"Spell Object: Boomerang","spells\spellobject_boomerang.mdx",0,1
+1843,"Missile: Boomerang","spells\missile_boomerang.mdx",0,1
+1862,"Spell Object: Bomb","spells\spellobject_bomb.mdx",0,1
+1863,"Missile: Bomb","spells\missile_bomb.mdx",0,0
+1882,"Wrath Precast Hand","spells\wrath_precast_hand.mdx",0,1
+1883,"Wrath Impact Chest","spells\wrath_impact_chest.mdx",0,1
+1884,"Missile: Wrath","spells\wrath_missile.mdx",0,1
+1885,"Moonfire Impact Base","spells\moonfire_impact_base.mdx",0,0.5
+1886,"Spell Portal: Creature","spells\creature_spellportal.mdx",0,1
+1902,"Starfire Area","spells\starfire_area.mdx",0,1
+1922,"Tranquility Impact","spells\tranquility_impact_base.mdx",0,1
+1923,"Tranquility Area","spells\tranquility_area.mdx",0,1
+1942,"Thorns State Base","spells\thorns_state_base.mdx",0,1
+1943,"SpellPortal: Creature Blue","spells\creature_spellportal_blue.mdx",0,1
+1962,"Missile: Axe Copper","spells\missile_axe_copper.mdx",0,1
+1982,"Poison Shield Impact Chest","spells\poisonshield_state_base.mdx",0,1
+1983,"Ground Dust State","spells\grounddust.mdx",0,1
+1984,"Steam State","spells\steam.mdx",0,1
+1985,"Blink Impact Chest","spells\blink_impact_chest.mdx",0,1
+2002,"NoName Area","spells\noname_area.mdx",0,1
+2022,"Defensive Stance Impact Head","spells\defensivestance_impact_head.mdx",0,1
+2023,"Battle Stance Impact Head","spells\battlestance_impact_head.mdx",0,1
+2024,"Berzerker Stance Impact Head","spells\berzerkerstance_impact_head.mdx",0,1
+2042,"Missile: Ziggurat Spirit","spells\zig_missile.mdx",0,1
+2062,"Ghostly Strike Impact Chest","spells\ghostlystrike_impact_chest.mdx",0,1
+2082,"Mana Tide Infuse Base","spells\manatideinfuse_base.mdx",0,1
+2102,"Ice Block State","spells\icebarrier_state.mdx",0,1
+2103,"Ice Barrier State","spells\iceshield_state.mdx",0,1
+2122,"Arcane Power State Chest","spells\arcanepower_state_chest.mdx",0,1
+2123,"Inner Focus Impact Chest","spells\innerfocus_impact_chest.mdx",0,1
+2142,"Focused Casting State Chest","spells\focusedcasting_state_chest.mdx",0,1
+2162,"Piercing Howl Impact Head","spells\piercinghowl_impact_head.mdx",0,1
+2163,"Water Walking Impact Head","spells\waterwalking_impact_head.mdx",0,1
+2164,"Adrenaline Rush Cast Base","spells\adrenalinerush_cast_base.mdx",0,1
+2182,"Sweeping Strike Impact Chest","spells\sweepingstrike_impact_chest.mdx",0,1
+2202,"Death Wish State Hand","spells\deathwish_state_hand.mdx",0,1
+2203,"Presence of Mind Cast Base","spells\presenceofmind_cast_base.mdx",0,1
+2222,"ShadowSnare Base","Spells\Shadow_Snare_High_base.mdx",0,1
+2223,"Fear State Base","spells\fear_state_base.mdx",0,1
+2242,"Vampiric Embrace State Base","spells\vampiricembrace_state_base.mdx",0,1
+2262,"Missile: Flare","spells\missile_flare.mdx",0,1
+2282,"Lash Cast Base","spells\lash_cast_base.mdx",0,1
+2302,"Eyes of the Beast Impact Head","spells\eyesofbeast_impact_head.mdx",0,1
+2322,"Star Shards Impact Base","spells\starshards_impact_base.mdx",0,1
+2342,"Onyxia Impact Base","spells\onyxia_impact_base.mdx",0,1
+2362,"Infernal Impact Base","spells\infernal_impact_base.mdx",0,1
+2382,"Dragon Flame Breath","spells\dragonflamebreath.mdx",0,1
+2383,"Dragon Flame Breath 180","spells\dragonflamebreath180.mdx",0,1
+2402,"Soulstone Resurrection Base","spells\soulstoneresurrection_base.mdx",0,1
+2422,"Demonic Sacrifice Felhunter Chest","Spells\DemonicSacrifice_Felhunter_Chest.mdx",0,1
+2423,"Light Test","spells\lighttest.mdx",0,1
+2442,"Threat Reduce Impact Head","spells\threatreduce_impact_head.mdx",0,1
+2462,"Conflagrate Impact Chest","spells\conflagrate_impact_chest.mdx",0,1
+2482,"Skull Balls","Spells\Enchantments\SkullBalls.mdx",0,1
+2483,"Shadow ImpactDoT Med Chest","Spells\Shadow_ImpactDot_Med_Chest.mdx",0,1
+2502,"Heal Ragnaros State Chest","Spells\HealRag_State_Chest.mdx",0,1
+2503,"Ragnaros Fire Nova Area","Spells\Rag_FireNova_Area.mdx",0,1
+2522,"Shield Wall Warrior Impact Base","spells\shieldwallwar_impact_base.mdx",0,1
+2542,"Consecration Impact Base","spells\consecration_impact_base.mdx",0,1
+2562,"Deterrence State Base","Spells\Deterrence_State_Base.mdx",0,1
+2582,"Demonic Sacrifice Imp Chest","Spells\DemonicSacrifice_Imp_Chest.mdx",0,1
+2583,"Demonic Sacrifice Succubus Chest","Spells\DemonicSacrifice_Succubus_Chest.mdx",0,1
+2584,"Demonic Sacrifice Voidwalker Chest","Spells\DemonicSacrifice_Voidwalker_Chest.mdx",0,1
+2585,"Stoneform State Chest","Spells\Stoneform_State_Base.mdx",0,1
+2602,"Mana Shield State Chest","spells\manashield_state_chest.mdx",0,1
+2622,"Missile: Hammer","spells\missile_hammer.mdx",0,1
+2642,"Dragon Sand Breath","spells\corrosivesandbreath.mdx",0,1
+2662,"Missile: Snowball","spells\missile_snowball.mdx",0,1
+2663,"Snowball Impact Chest","spells\snowball_impact_chest.mdx",0,1
+2682,"Missile: Thorns","spells\missile_thorns.mdx",0,1
+2683,"DustNova Cast Base","spells\dustnova_cast_base.mdx",0,1
+2684,"RockyFrost Nova State","spells\rockyfrost_nova_state.mdx",0,1
+2702,"HARDCODED Meeting Stone Join","Spells\Bind_Impact_Base.mdx",0,0
+2722,"Confused State Head","spells\confused_state_head.mdx",0,1
+2723,"Chargestate","Spells\cfx_warrior_charge_state.mdx",0,1
+2724,"wpntrail","Spells\weapontrail_warriorfury.mdx",0,1
+2725,"whirlwind","Spells\cfx_warrior_whirlwind_castbase.mdx",0,1
+2727,"Piercing Howl","Spells\piercinghowl_cast_base.mdx",0,1
+2728,"berserker rage state base","Spells\cfx_warrior_berserkerrage_statebase.mdx",0,1
+2731,"Intimidating Shout","Spells\cfx_warrior_intimidatingshout_castbase.mdx",0,1
+2762,"Dragon Flame Breath Nefarian","spells\nefarianflamebreath.mdx",0,1
+2763,"Nefarian Breath Impact","spells\nefarianflamebreath_impact.mdx",0,1
+2782,"Vengeance State Hand","spells\vengeance_state_hand.mdx",0,1
+2802,"Nefarian State Base","spells\nefarian_state_base.mdx",0,1
+2803,"Nefarian Impact Base","spells\nefarian_impact_base.mdx",0,1
+2822,"Barkskin State Base","spells\barkshield_state_base.mdx",0,1
+2842,"Missile: Leather Ball","spells\missile_leatherball.mdx",0,1
+2843,"Levitate Impact Base","spells\levitate_impact_base.mdx",0,1
+2844,"LoyaltyDown Impact Base","spells\LoyaltyDown_Impact_Base.mdx",0,1
+2862,"Fire Reflect State Chest","spells\firereflect_state_chest.mdx",0,1
+2863,"Frost Reflect State Chest","spells\frostreflect_state_chest.mdx",0,1
+2864,"Shadow Reflect State Chest","spells\shadowreflect_state_chest.mdx",0,1
+2865,"Missile: Lightning Bolt (Ivus)","spells\lightningboltivus_missile.mdx",0,1
+2882,"Horde CTF Flag Chest","spells\hordectfflag_spell.mdx",0,1
+2883,"Alliance CTF Flag Chest","spells\alliancectfflag_spell.mdx",0,1
+2902,"Barkskin State Base (New)","spells\barkskin_state_base.mdx",0,1
+2922,"HARDCODED Reputation","Spells\ReputationLevelUp.mdx",0,1
+2942,"MovementImmunity Base","spells\movementimmunity_base.mdx",0,1
+2962,"Missile: Holy Hammer","spells\holy_hammer_missile.mdx",0,1
+2963,"Cat Mark State Head","Spells\CatMark.mdx",0,1
+2964,"Level Up","Spells\SpellLevelUp.mdx",0,1
+2965,"AbolishMagic Base","spells\abolishmagic_base.mdx",0,1
+2966,"HellFire FirePuff Caster Base","\spells\HellFire_FirePuff_Caster_Base.mdx",0,1
+2968,"Green Radiation Fog (Large)","Spells\LargeGreenRadiationFog.mdx",0,1
+2969,"Missle: Life Drain","\\guldan\drive2\projects\wow\finaldata\patch_1.7.0\data\spells\lifedrain_missile.mdx",0,1
+2970,"Web Spin","spells\webspin.mdx",0,1
+2971,"BaseFlagCapRed Impact Base","spells\baseflagcapred_impact_base.mdx",0,1
+2972,"Missile: BloodBolt","spells\bloodbolt_missile_low.mdx",0,1
+2973,"Banish Chest (Red)","spells\bloodbolt_chest.mdx",0,1
+2975,"**TEST*","\\guldan\drive2\projects\WoW\Data\Spells\AcidBreath.mdx",0,1
+2978,"Green Radiation Fog (Blue/Green - Magic)","SPELLS\LargeBlueGreenRadiationFog.mdx",0,1
+2979,"Gas Breath","spells\acidcloudbreath.mdx",0,0
+2980,"Acid Breath (Liquid)","spells\acidliquidbreath.mdx",0,1
+2981,"Parachute Wings Head","spells\parachute_wings_head.mdx",0,0
+2982,"Trick or Treat - Treat - Head","spells\trickortreat_treat_head.mdx",0,0
+2983,"Trick or Treat - Trick - Head","spells\trickortreat_trick_head.mdx",0,0
+2984,"Trick or Treat - Treat Head","spells\trickortreat_treat_head.mdx",0,0
+2985,"Trick or Treat - Trick Head","spells\trickortreat_trick_head.mdx",0,0
+2986,"Thunderclap Cast Base: 20 foot","spells\thunderclap_cast_base.mdx",0,20
+2987,"Retaliation State Base (Warrior)","Spells\Retaliation_State_Chest.mdx",0,1
+2988,"Firecrackers Thrown","Spells\Firecrackers_Thrown.mdx",0,1
+2989,"MoonBeam State Base","Spells\MoonBeam_Impact_Base.mdx",0,1
+2991,"Snowball Powder Impact","spells\SnowballPowdery_Impact_Base.mdx",0,1
+2992,"Snowball Powdery State","spells\SnowballPowdery_Impact_Base.mdx",0,1
+2993,"Sand Vortex Base","spells\SandVortex_State_Base.mdx",0,1
+2994,"Earth Burrow Cast","Spells\BurrowEarth_Brown_Missile.mdx",0,1
+2995,"Sandworm Attack Effect Ground Impact","spells\SandWorm_AttackEffects.mdx",0,1
+2996,"Holiday - Lunar Festival - Chest Firework Impact","spells\firework_romancandle_impact_chest_01.mdx",0,1
+2997,"Missile: Firework - Roman Candle","spells\firework_romancandle_missle_01.mdx",0,1
+2998,"Missile: SlimeLesser","spells\SlimeLesser_Missile.mdx",0,1
+2999,"Cthun Eye Beam","spells\CthuneEyeAttack.mdx",0,1
+3000,"Holiday - Lunar Festival - Elune's Candle Cast Hand","spells\romancandle_a_01.mdx",0,1
+3001,"Missile: SlimeLesserExplode","spells\SlimeLesserExplode_Missile.mdx",0,1
+3002,"Acid Burn Base","spells\AcidBurn.mdx",0,1
+3003,"Holiday - Lunar Festival - Right Hand Firework impact","spells\firework_romancandle_impact_chest_01.mdx",0,1
+3004,"Holiday - Lunar Festival - Left Hand Firework impact","spells\firework_romancandle_impact_chest_01.mdx",0,1
+3005,"Ice Prison State","spells\IcePrison_Base.mdx",0,1
+3006,"Missile: Shadow Bolt - Epic","spells\DeathBolt_Missile_Low.mdx",0,1
+3007,"Meteor Impact Base","spells\Meteor_Impact_Base.mdx",0,1
+3008,"Missile: Giant Boulder","spells\BoulderGiant_Missile.mdx",0,1
+3009,"Holiday - Valentine - Cupid's Bow","spells\holidays\valentines_spellobject_cupidsbow.mdx",0,1
+3010,"Holiday - Valentine - Cupid's Arrow Impact Chest","spells\holidays\valentines_cupidsarrow_impact_chest.mdx",0,1
+3011,"Holiday - Valentine - Missle, Cupid's Arrow","spells\holidays\valentines_cupidsarrow_missle.mdx",0,1
+3012,"Holiday - Valentine - Picnic Blanket","spells\holidays\valentines_blanket.mdx",0,1
+3013,"Holiday - Valentine - Flower Shower","spells\holidays\valentines_roseshower_impact_base.mdx",0,1
+3014,"Holiday - Valentine - Broken Heart Impact","spells\holidays\valentines_brokenheart.mdx",0,1
+3015,"Insect Swarm State Chest","Spells\InsectSwarm_State_Chest.mdx",0,1
+3016,"Holiday - Valentine - Heart State/Impact","spells\holidays\valentines_lookingforloveheart.mdx",0,1
+3021,"Flare Ground State","spells\flare_state_base.mdx",0,1
+3023,"Tugofwar - OLD Missile, Red Spice","world\generic\passivedoodads\tugofwar\tugofwar_redspicemissile.mdx",0,1
+3024,"Purple Ghost State","spells\purpleghost_state.mdx",0,1
+3026,"LightningBoltIvus Missile","Spells\LightningBoltIvus_Missile.mdx",0,1
+3027,"Acid Breath (45 yd)","spells\acidliquidbreath.mdx",0,45
+3028,"Holiday - Scourge Invasion, Purple Lightning","spells\naxxramasstrike_impactdd_med_base.mdx",0,1
+3029,"Naxxramas Strike","Spells\NaxxramasStrike_ImpactDD_Med_Base.mdx",0,1
+3030,"Missile: Deathbolt Missile","spells\deathbolt_missile_low.mdx",0,1
+3031,"Grobbulus Poison Cloud","Spells\Poison_Cloud_Grobbulus.mdx",0,1
+3035,"Shadow Fissure Base","Spells\Shadow_Fissure_Base.mdx",0,1
+3036,"Giant Insect Swarm Chest","Spells\GiantInsectSwarm_State_Chest.mdx",0,1
+3037,"Giant Insect Swarm State","Spells\GiantInsectSwarm_State_Ground.mdx",0,1
+3038,"Spike Low Base","Spells\Spike_Low_Base.mdx",0,1
+3039,"Spike Impact Base","Spells\Spike_Impact_Base.mdx",0,1
+3043,"Ice Nuke Missile","spells\IceNuke_Missile.mdx",0,1
+3044,"Ice Nuke Base","spells\IceNuke_Base_Impact.mdx",0,1
+3054,"Tugofwar - Red Spice Explosion","world\generic\passivedoodads\tugofwar\tugofwar_redspiceexplosion.mdx",0,1
+3055,"Tugofwar: Missile, Red Spice","world\generic\passivedoodads\tugofwar\tugofwar_redspicemissile.mdx",0,1
+3056,"Rocket Blast","spells\rocketblast.mdx",0,1
+3057,"Anti-Magic State Base (Blue)","spells\antimagic_state_blue.mdx",0,1
+3058,"Tugofwar - Red Dust Cloud aura","spells\reddustcloud.mdx",0,1
+3060,"Putrid Mushroom","world\goober\g_sporemushroom.mdx",0,1
+3061,"Missile: Net","Spells\Net_Missile.mdx",0,1
+3062,"Missile: Nightbane Bone","spells\nightbane_bone_missile.mdx",0,1
+3063,"New Effect","",0,1
+3064,"Missile: Infernal Ball","spells\Infernal_Ball.mdx",0,1
+3067,"Red Ghost State","spells\redghost_state.mdx",0,1
+3068,"Blessing of the Naaru Head","spells\giftofnaaru.mdx",0,1
+3069,"Abyssal Impact Base","spells\abyssal_impact_base.mdx",0,1
+3070,"Anti-Magic State Base (Red)","spells\antimagic_state_red.mdx",0,1
+3071,"Doomfire Spell Visual","World\Lordaeron\Stratholme\PassiveDoodads\FX\StratholmeFireSmokeEmberS.mdx",0,1
+3073,"Missile: Aegis","Spells\Aegis.mdx",0,1
+3074,"Ice Lance Missile","spells\ice_lance_missile.mdx",0,1
+3075,"Ice Lance Impact","spells\ice_lance_impact.mdx",0,1
+3076,"Force Field Effect","World\Kalimdor\DireMaul\ActiveDoodads\Doors\DireMaulBossForceField.mdx",0,1
+3078,"Mage Dragons Breath","spells\mage_dragons_breath.mdx",0,1
+3079,"Fel Armor Impact Head","spells\felarmor_impact_head.mdx",0,1
+3080,"test","spells\acidliquidbreath.mdx",0,1
+3081,"Ritual Arcane PreCast Base","spells\ritual_arcane_precast_base.mdx",0,1
+3082,"Exploding Stone Impact","spells\exploding_stone_impact.mdx",0,1
+3083,"Consecration Impact Base (0.5x)","spells\consecration_impact_base.mdx",0,0.5
+3084,"Banish (Purple) - 2.00","spells\banish_chest_purple.mdx",0,2
+3085,"Flame Patch (0.5x)","spells\archimonde_fire.mdx",1056964608,0.5
+3086,"Combat Blood Spurt Front Large Blue","particles\bloodspurts\bloodspurtbluelarge.mdx",0,1
+3087,"Silencing Shot Impact","spells\throatshot_impact_chest.mdx",0,1
+3088,"Missile: Rocket","spells\Missle_Rocket.mdx",0,1
+3089,"Shadowfury Cast Base","spells\shadowfury_impact_base.mdx",0,1
+3090,"Flame Patch","spells\archimonde_fire.mdx",0,1
+3091,"Zangarmarsh Arcane Impact","spells\zangarmarsh_arcane_impact.mdx",0,1
+3092,"Zangarmarsh Arcane Missile","spells\zangarmarsh_arcane_missile.mdx",0,1
+3093,"Black Stone Crystal State","world\generic\pvp\runes\pvp_rune_invis.mdx",0,1
+3095,"Cleave Cast Base Purple","spells\cleave_cast_base_purple.mdx",0,1
+3096,"Deadly Throw Impact Chest","spells\deadly_throw_impact_chest.mdx",0,1
+3097,"Shadow Strikes State Hand","spells\shadow_strikes_state_hand.mdx",0,1
+3098,"Arcane Explosion Base Boss","spells\arcaneexplosion_boss_base.mdx",0,1
+3099,"Barkskin State (0.25)","spells\barkskin_state_base.mdx",0,0.25
+3100,"Molten Armor Head","spells\molten_armor_head.mdx",0,1
+3101,"Item - Atiesh Equip Visual","Spells/Crow_Baked.mdx",0,1
+3103,"Scourge Summoning Runes","world\goober\g_scourgerunecirclecrystal.mdx",0,1
+3104,"Fire Ritual Base","spells\ritual_fire_precast_base.mdx",0,1
+3105,"Shadow Nova Cast - (4.00) (40yd)","spells\shadow_nova_area.mdx",0,4
+3106,"Flame Circle (3.00)","Spells\FlameCircleEffect.mdx",0,3
+3107,"Incinerate Missile","spells\incinerate_low_base.mdx",0,1
+3108,"Incinerate Impact","spells\incinerate_impact_base.mdx",0,1
+3109,"BloodLust Player Cast Head","spells\bloodlust_player_cast_head.mdx",0,1
+3110,"BloodLust Player State Head","spells\bloodlust_player_state_head.mdx",0,1
+3111,"Fel Flame Shock Impact Chest","spells\fel_flameshock_impact_chest.mdx",0,1
+3112,"Shadow Nova Cast","spells\shadow_nova_area.mdx",0,1
+3113,"Aimed Shot Impact","spells\aimedshot_impact_chest.mdx",0,1
+3114,"Rocket Launcher Precast","spells\RocketLauncher_PreCast.mdx",0,1
+3115,"WaterShield Impact Base","spells\watershield_impact_base.mdx",0,1
+3116,"WaterShield State Base","spells\watershield_state_base.mdx",0,1
+3117,"Earth Shield Impact","spells\earthshield_impact_base.mdx",0,1
+3118,"Earth Shield State","spells\earthshield_state_base.mdx",0,1
+3119,"Scorpid Sting Impact","spells\scorpidsting_impact_base.mdx",0,1
+3120,"ShadowGuard_State_Base","spells\shadowshield_state_base.mdx",0,1
+3121,"Tranquility Area (0.5x)","spells\tranquility_area.mdx",1056964608,0.5
+3122,"ShadowGuard Impact Base","spells\shadowshield_impact.mdx",0,1
+3123,"Soulshatter Impact Base","spells\soulshatter_impact.mdx",0,1
+3125,"Cloud: White","spells\whiteradiationfog.mdx",0,1
+3126,"Rocket Launcher Cast","spells\RocketLauncher_Cast.mdx",0,1
+3127,"Mutilate Impact","spells\mutilate_impact_chest.mdx",0,1
+3128,"Spell Reflection","spells\spellreflection_state_shield.mdx",0,1
+3129,"Ritual of Souls Base","spells\wellofsouls_base.mdx",0,1
+3130,"Shadow Strikes State","spells\shadow_strikes_state_hand.mdx",0,1
+3131,"Missile: Nightbane Fire","spells\nightbane_fire_missile.mdx",0,1
+3132,"Infernal Impact Base (3.00)","spells\infernal_impact_base.mdx",0,3
+3133,"Shadow Shield State Base","Spells\ShadowShield_State_Base.mdx",0,1
+3134,"Missile: Sonic Boom","Spells\SonicBoom_Missile_High.mdx",0,2
+3135,"Portal: Ritual of Summoning","world\generic\activedoodads\instanceportal\summon_ritual.mdx",0,1
+3136,"Missile: Abyssal Ball","spells\abyssal_ball.mdx",0,1
+3137,"Ice Barrier State Chest","spells\ice_barrier_state_chest.mdx",0,1
+3138,"Blessing of Protection State Chest","spells\blessingofprotection_chest.mdx",0,1
+3139,"Dreadlord Carrion Impact","spells\dreadlord_carrion_impact.mdx",0,1
+3140,"Dreadlord Carrion Swarm Cast","spells\dreadlord_carrion_swarm_cast.mdx",0,1
+3141,"Draenei Spirit Red","world\expansion01\doodads\auchindoun\passivedoodads\spirit_fx\draenei_spirit_red.mdx",0,1
+3142,"Missile: Infernal Ball (5.00)","spells\Infernal_Ball.mdx",0,5
+3143,"Nightbane Area Base","spells\nightbane_area_base.mdx",0,1
+3144,"Blessing of Spell Protection Base","spells\blessingofspellprotection_base.mdx",0,1
+3145,"Avenging Wrath Impact Base","spells\avengingwrath_impact_base.mdx",0,1
+3146,"Avenging Wrath State Chest","spells\avengingwrath_state_chest.mdx",0,1
+3147,"Seal of Blood Impact Base","spells\sealofblood_impact_base.mdx",0,1
+3148,"Divine illumination base","spells\divineillumination_base.mdx",0,1
+3149,"Smoke Flare (Blue)","spells\SmokeFlare_Blue.mdx",0,1
+3150,"Smoke Flare (Red)","spells\SmokeFlare_Red.mdx",0,1
+3151,"Smoke Flare (Green)","spells\SmokeFlare_Green.mdx",0,1
+3152,"Smoke Flare (Purple)","spells\SmokeFlare_Purple.mdx",0,1
+3153,"Smoke Flare (White)","spells\SmokeFlare_White.mdx",0,1
+3154,"Waterbreathing Impact Base (.25)","Spells\Waterbreathing_Impact_Base.mdx",0,0.25
+3155,"Seal of Righteousness Impact","spells\sealofrighteous_impact_base.mdx",0,1
+3156,"Sonic Wave Blast Down Cast","spells\sonicwave_cast_down.mdx",0,1
+3157,"MoonBeam (Blue)","spells\MoonBeamBlue_Impact_Base.mdx",0,1
+3158,"MoonBeam (Red)","spells\MoonBeamRed_Impact_Base.mdx",0,1
+3159,"Arcane Explosion Boss Base (.75)","spells\arcaneexplosion_boss_base.mdx",0,0.75
+3160,"Blessing Of Wisdom Base","spells\blessingofwisdom_base.mdx",0,1
+3161,"Seal of Command Impact","spells\sealofcommand_impact_base.mdx",0,1
+3162,"Cloud: Red","spells\redradiationfog.mdx",0,1
+3163,"Judgement Impact Chest","spells\judgement_impact_chest.mdx",0,1
+3164,"Water Elemental Impact Base","spells\waterelemental_impact_base.mdx",0,1
+3165,"Combat Blood Spurt Back Large Blue","particles\bloodspurts\bloodspurtbluelarge.mdx",0,1
+3166,"Cloud: Orange","spells\orangeradiationfog.mdx",0,1
+3167,"Cloud: Green","spells\greenradiationfog.mdx",0,1
+3168,"Ghost_state (Red)","spells\redghost_state.mdx",0,1
+3169,"Fel Fire Precast Hand","spells\fel_fire_precast_hand.m2",1065353216,1
+3170,"Red Radiation Fog","spells\redradiationfog.mdx",0,1
+3171,"Green Radiation Fog","spells\greenradiationfog.mdx",0,1
+3172,"Orange Radiation Fog","spells\orangeradiationfog.mdx",0,1
+3173,"Blue Radiation Fog","spells\blueradiationfog.mdx",0,1
+3174,"Black Radiation Fog","spells\blackradiationfog.mdx",0,1
+3175,"White Radiation Fog","spells\whiteradiationfog.mdx",0,1
+3176,"Sonic Wave Blast Cast","spells\sonicwave_cast.mdx",0,1
+3177,"Cloud: Blue","spells\blueradiationfog.mdx",0,1
+3178,"Cloud: Black","spells\blackradiationfog.mdx",0,1
+3180,"Seal of Vengeance Impact Base","spells\sealofvengeance_impact_base.mdx",0,1
+3181,"Magtheridon Cieling Chunk Impact","spells\MagtheradonCeilingChunk.mdx",0,1
+3182,"HolyShield_State_Base","spells\holyshield_state.mdx",0,1
+3183,"Heroism Cast","spells\heroism_cast.mdx",0,1
+3184,"Heroism State","spells\heroism_state.mdx",0,1
+3185,"ShadowWord Death Impact","spells\shadowword_death_impact.mdx",0,1
+3186,"Prayer of Mending Impact Head","spells\prayerofmending_impact_head.mdx",0,1
+3187,"Seal of Crusader Cast","spells\sealofcrusader_impact.mdx",0,1
+3188,"Victory Rush Impact","spells\victory_rush_impact.mdx",0,1
+3189,"Shadow Nova Cast - (2.00)","spells\shadow_nova_area.mdx",0,2
+3190,"Seal of Light Impact Base","spells\sealoflight_impact_base.mdx",0,1
+3191,"Circle of Renewal Impact","spells\circle_of_renewal_impact.mdx",0,1
+3192,"Symbol of Hope Impact Base","spells\symbolofhope_impact_base.mdx",0,1
+3193,"Missile: Abyssal Ball (5.00)","spells\abyssal_ball.mdx",0,5
+3194,"Frost Trap Aura (0.10)","Spells\FrostTrap_Aura.mdx",0,0.10000000149011612
+3195,"Missile: Saw Blade","spells\missile_sawblade.mdx",0,1
+3196,"Consume Magic Impact","spells\consume_magic_impact.mdx",0,1
+3197,"Upper Deck Promo Firework Cast","world\goober\g_promotion_purple.mdx",0,1
+3198,"Ground Rune (Blue)","World\Goober\G_RuneGroundBlue01.mdx",0,1
+3199,"Infernal Impact (5.00)","spells\infernal_impact.mdx",0,5
+3200,"Missile: Nightbane Bone Shards","spells\nightbane_bone_spurs.mdx",0,1
+3201,"SummonPet PreCast Impact Base (4.00)","Spells\SummonPet_Impact_Base.mdx",0,4
+3202,"Infernal Impact (2.00)","spells\infernal_impact.mdx",0,2
+3203,"Fel Fire Precast Hand Uber","spells\fel_fire_precast_uber_hand.mdx",0,1
+3204,"Flames (Stratholme Small)","world\lordaeron\stratholme\passivedoodads\fx\stratholmefiresmokeembers.mdx",0,1
+3205,"Missile: Abyssal Ball (2.00)","spells\abyssal_ball.mdx",0,2
+3207,"HARDCODED Resist Spell","spells\resist_immune_effect.mdx",0,1
+3208,"Arcane Torrent Cast (5x)","Spells\ArcaneTorrent.mdx",0,5
+3209,"Ice Ritual Precast Base","spells\ritual_frost_precast_base.mdx",0,1
+3210,"Pain Suppression","spells\painsuppression_state.mdx",0,1
+3212,"Missile: Infernal Ball (2.00)","spells\Infernal_Ball.mdx",0,2
+3213,"Gift of the water Spirit Base imapct","spells\giftwaterspirit_impact_base.mdx",0,1
+3214,"Shadow Mend Impact","spells\Shadow_Mend_Impact.mdx",0,1
+3215,"Rain of Fel Fire","Spells\Fel_RainOfFire_Impact_Base.mdx",0,1
+3216,"Broggok Poison Cloud","Spells\Poison_Cloud_Grobbulus.mdx",1056964608,0.5
+3217,"Ice Block State (0.50)","spells\icebarrier_state.mdx",1056964608,0.5
+3218,"Barkskin State (0.50)","spells\barkskin_state_base.mdx",0,0.5
+3219,"Combat Blood Spurt Front Small Blue","particles\bloodspurts\bloodspurtblue.mdx",0,1
+3220,"Fel Fireball Missile High","spells\fel_fireball_missile_high.mdx",0,1
+3221,"Fel Fire Impact Chest DD High","spells\fel_fire_impactdd_high_chest.mdx",0,1
+3222,"Mass Dispel","Spells\Mass_Dispell_Impact.mdx",0,1
+3223,"Fel Immolate Impact Chest","spells\fel_immolate_impact_chest.mdx",0,1
+3224,"Combat Blood Spurt Back Small Blue","particles\bloodspurts\bloodspurtblue.mdx",0,1
+3225,"Focused Casting State Chest (0.25)","spells\focusedcasting_state_chest.mdx",0,0.25
+3226,"Shades of Darkness Cast - 2.00","spells\shadesofdarkness_cast.mdx",1077936128,2
+3227,"Fel Fireblast Impact Chest","spells\fel_fireblast_impact_chest.mdx",0,1
+3228,"Arena - Gold Flag (Alliance)","spells\GoldArenaflag_spell.mdx",0,1.5
+3229,"Focused Casting State Chest (0.5)","spells\focusedcasting_state_chest.mdx",0,0.5
+3230,"Fel Flame Patch","spells\fel_archimonde_fire.mdx",0,1
+3231,"Fel Immolation","Spells\Fel_Immolate_State_Base.mdx",0,1
+3232,"Shadow Shield Impact Base","spells\shadowshield_impact.mdx",0,1
+3233,"Breath: Nightbane Smoke","spells\nightbane_breath.mdx",0,1
+3234,"Mass Dispell Impact","spells\Mass_Dispell_Impact.mdx",0,1
+3235,"Missile: Soul","spells\SoulShatter_Missile.mdx",0,1
+3236,"SoulShatter Cast","spells\SoulShatter_Cast.mdx",0,1
+3237,"Restoration Impact Base (8x)","Spells\Restoration_Impact_Base.mdx",0,8
+3238,"Fire Nova Area (0.25)","Spells\FireNova_Area.mdx",0,0.25
+3239,"Envenom Impact","spells\envenom_impact_chest.mdx",0,1
+3240,"LifeBloom Impact","spells\LifeBloom_Impact.mdx",0,1
+3241,"LifeBloom State","spells\LifeBloom_State.mdx",0,1
+3242,"Mangle Impact","spells\Mangle_Impact.mdx",0,1
+3243,"Lacerate Impact","spells\Lacerate_Impact.mdx",0,1
+3244,"Maim Impact","spells\Mame_Impact.mdx",0,1
+3245,"Force of Nature Impact","spells\forceofnature_impact.mdx",0,1
+3246,"Circle of Renewal Impact","spells\circle_of_renewal_impact.mdx",0,1
+3247,"Shock Missile [4.0]","Spells\Shock_Missile.mdx",0,4
+3248,"Fire Nova Area (2.00)","Spells\FireNova_Area.mdx",0,2
+3249,"Missile: Flare (Scale: x2)","spells\missile_flare.mdx",0,2
+3250,"Detect Invisibility and Stealth State","",1065353216,1
+3251,"PvP - Neutral Flag (Green)","Spells\NeutralCTFflag_spell.mdx",0,1
+3252,"Fel Flame Wreath","Spells\Fel_FlameCircleEffect.mdx",0,1
+3253,"Detect Invisibility State Head","spells\detectstealth_state_head.mdx",0,1
+3254,"Polymorph Scale 2","spells\polymorph_impact.mdx",0,2
+3255,"ArcaneExplosion Base (1.5x)","Spells\ArcaneExplosion_Base.mdx",0,1.5
+3256,"Missile: Meteor","spells\Meteor_Ball_Missile.mdx",0,1
+3257,"Hellfire Area Base (Scale 0.20)","Spells\HellFire_Area_Base.mdx",0,0.20000000298023224
+3258,"Quest - Seed of Revitalization - Entangling Roots Effect Big","spells\entanglingroots_state.mdx",0,35
+3259,"Quest - Seed of Revitalization - Giant Insect Swarm Effect Big","spells\giantinsectswarm_state_ground.mdx",0,1
+3260,"Quest - Seed of Revitalization - Lightning Cloud Effect Big","Spells\LightningStorm_Cloud_State.mdx",0,1.5
+3261,"Rampage State Head","spells\Rampage_State_Head.mdx",0,1
+3262,"Quest - Terokkar Forest - Mana Bomb Explosion Base","spells\arcaneexplosion_boss_base.mdx",0,2
+3263,"Fel Flame Breath (120) - 1.00","Spells\Fel_FlameBreath.mdx",0,1
+3264,"Banish (Red) - 2.00","spells\bloodbolt_chest.mdx",0,2
+3265,"World: Book Small 01","World\Generic\Human\Passive Doodads\Books\BookSmall01.mdx",0,1
+3266,"Quest - Ultris Explosion Cast - Huge Explosion","spells\fire_impactdd_uber_chest.mdx",0,10
+3267,"Misdirection Impact Head","spells\misdirection_impact_head.mdx",0,1
+3268,"Arena - Gold Flag (Horde)","spells\GoldHordeflag_spell.mdx",0,1.5
+3269,"Arena - Green Flag (Alliance)","spells\GreenArenaflag_spell.mdx",0,1.5
+3270,"Arena - Green Flag (Horde)","spells\GreenHordeflag_spell.mdx",0,1.5
+3271,"Brilliance Aura Base (3.00)","Spells\BrillianceAura.mdl",1065353216,3
+3272,"Fel Immolation State x2","spells\fel_immolate_state_base.mdx",0,2
+3273,"Spellbreaker Impact Chest","Spells\Zangarmarsh_Arcane_Impact.mdx",0,1
+3274,"Fel Flamestrike Impact Base","spells\fel_flamestrike_impact_base.mdx",0,1
+3275,"Water Bubble Chest State (Big)","spells\waterbubble.mdx",0,2
+3276,"Water Bubble State (Head) (Small)","spells\waterbubble.mdx",0,0.3499999940395355
+3277,"World: Book Medium 04","world\generic\human\passive doodads\books\bookmedium04.mdx",0,1
+3278,"Anti-Magic State - Head","spells\antimagic_state_base.mdx",0,0.800000011920929
+3279,"Ritual Arcane PreCast Base","spells\Ritual_Arcane_PreCast_Base.mdx",0,1
+3280,"Quest - Fel Fire Aura (Immolate) State","spells\fel_immolate_state_base.mdx",0,1
+3281,"Quest - Fel Fire (Fire Aura) State","spells\fel_lowpolyfireanim.mdx",0,0.25
+3282,"Quest - Fel Fire Aura (Archimonde Fire) State","spells\fel_archimonde_fire.mdx",0,0.25
+3283,"Quest - Infernal Ball State","spells\infernal_ball.mdx",0,1
+3284,"Hellfire FirePuff Caster Base (0.50)","spells\HellFire_FirePuff_Caster_Base.mdx",1056964608,0.5
+3285,"Shadow Fury Impact","spells\ShadowFury_Impact_Base.mdx",0,1
+3286,"Enslave Demon Impact Base","spells\enslavedemon_impact_base.mdx",0,1
+3287,"Fel Fireball State","spells\fel_fireball_missile_high.mdx",0,1
+3288,"Infernal Impact","spells\infernal_impact.mdx",0,1
+3289,"Quest - Cosmetic: Steam State","spells\steam.mdx",0,1
+3290,"Quest - Cosmetic: Water Bolt State","spells\waterbolt_missile_low.mdx",0,1.5
+3291,"Quest - Cosmetic: Blue Cyclone State","spells\cyclonewater_state.mdx",0,1
+3292,"Arcane Explosion (0.25)","Spells\ArcaneExplosion_Base.mdx",0,0.25
+3293,"Bloodmyst Crystal 3 (0.25)","World\Expansion01\Doodads\Bloodmyst\Crystals\BloodmystCrystal03.mdx",0,0.25
+3294,"Black Magic Precast Base","spells\BlackMagic_Precast_Base.mdx",0,1
+3295,"Quest - Cosmetic: Earthen Soul State","spells\boulder_missile.mdx",0,1.5
+3296,"Bloodmyst Crystal 3 (0.15)","World\Expansion01\Doodads\Bloodmyst\Crystals\BloodmystCrystal03.mdx",0,0.15000000596046448
+3297,"Missile: Ziggurat Spirit (Scale x4)","spells\zig_missile.mdx",0,4
+3298,"Fel Fire Nova Area","spells\fel_firenova_area.mdx",0,1
+3299,"Fel Fire Nova State","spells\fel_firenova_state.mdx",0,1
+3300,"Fel Firebolt Missile","spells\fel_firebolt_missile_low.mdx",0,1
+3301,"Endless Rage State","spells\endlessrage_state_head.mdx",0,1
+3302,"Arcane Lightning (1)","Spells\arcanelightning.mdx",0,0.6499999761581421
+3303,"Arcane Lightning (2)","Spells\arcanelightning01.mdx",0,0.6499999761581421
+3304,"Arcane Lightning (3)","Spells\arcanelightning02.mdx",0,0.6499999761581421
+3305,"Arcane Impact Chest (Scale x2)","Spells\Magic_Impact_Chest.mdx",0,2
+3306,"Shadow ImpactDD Uber Chest (Scale x2)","Spells\Shadow_ImpactDD_Uber_Chest.mdx",0,2
+3307,"Arcane Torrent Cast (0.5x)","Spells\ArcaneTorrent.mdx",0,0.5
+3308,"Rampage Impact Head","spells\endlessrage_impact_head.mdx",0,1
+3309,"Quest - Cosmetic: Fel Fire Aura (Cyrukh) (Left Hand)","spells\fel_lowpolyfireanim.mdx",0,0.15000000596046448
+3310,"Quest - Cosmetic: Fel Fire Aura (Cyrukh Right Hand)","spells\fel_lowpolyfireanim.mdx",0,0.15000000596046448
+3311,"Quest - Cosmetic: Fel Fire Aura (Cyrukh Head)","spells\fel_lowpolyfireanim.mdx",0,0.20000000298023224
+3312,"Quest - Infuse Infernal Soul","spells\fel_hellfire_impact_caster_base.mdx",0,1
+3313,"Banish (Purple) - 3.00","spells\banish_chest_purple.mdx",0,3
+3314,"Quest - Summon Pet Precast Base (Large 2x Size)","spells\summonpet_impact_base.mdx",0,2
+3315,"Dampen Magic Impact Base (1.5x)","Spells\DampenMagic_Impact_Base.mdx",0,1.5
+3316,"ArcaneExplosion Base (2.0x)","Spells\ArcaneExplosion_Base.mdx",0,2
+3317,"Arcane Power State Chest - 0.50","spells\arcanepower_state_chest.mdx",0,0.5
+3318,"Ghost_state (Purple)","spells\purpleghost_state.mdx",0,1
+3319,"Earth Burrow Cast (Scale x5)","Spells\BurrowEarth_Brown_Missile.mdx",0,5
+3320,"Water Elemental Impact Base (Scale x3)","spells\waterelemental_impact_base.mdx",0,3
+3321,"Missile: Water Bolt (Scale x3)","Spells\WaterBolt_Missile_Low.mdx",0,3
+3322,"Void Zone (0.10)","creature\portalofkathune\portalofkathune.mdx",0,0.10000000149011612
+3323,"Quest - Acid Breath Liquid (Small)","spells\acidliquidbreath.mdx",0,0.25
+3324,"The Beast Within State Base","spells\beastwithin_state_base.mdx",0,1
+3325,"Missile: Gold Glaive","World\ENVIRONMENT\DOODAD\GENERALDOODADS\NightElfWeapons\NE_Glaive02.mdx",0,1
+3326,"Fel Immolation (3x)","Spells\Fel_Immolate_State_Base.mdx",0,3
+3327,"Arcane Explosion (0.50)","Spells\ArcaneExplosion_Base.mdx",0,0.5
+3328,"Fel Flame Breath 180","spells\fel_flamebreath180.mdx",0,1
+3329,"Hellfire Raid Dust Impact Base","spells\HellfireRaid_Dust_Impact_Base.mdx",0,1
+3330,"Skull, Chattering","spells\skull.mdx",0,1
+3331,"Might Aura State Base - 7.00","Spells\MightAura_Impact_Base.mdx",0,7
+3332,"Fire Smoke Trail","spells\Fire_SmokeTrail.mdx",0,5
+3333,"Missile: Fire Shot - 2.00","spells\FireShot_Missile.mdx",0,2
+3334,"Flame Circle (1.35)","spells\flamecircleeffect.mdx",0,1.350000023841858
+3335,"Arcane Explosion Base Boss - 2.00","spells\arcaneexplosion_boss_base.mdx",0,2
+3336,"Quest - A Curse Upon Both of Your Clans (Large)","spells\endlessrage_state_head.mdx",0,5
+3337,"Ashbringer","Item\ObjectComponents\Weapon\Sword_2H_Ashbringer.mdx",0,1
+3338,"Missile: Shadow Bolt - Epic (0.50)","spells\DeathBolt_Missile_Low.mdx",0,0.5
+3339,"Missile: Aegis (0.50)","Spells\Aegis.mdx",0,0.5
+3340,"Blasted Lands Bone Pile","World\Azeroth\TheBlastedlands\PassiveDoodads\Bones\BlastedLandsBonePile02.mdx",0,1
+3341,"Enslave Demon Impact Head (2.5x)","Spells\EnslaveDemon_Impact_Head.mdx",0,2.5
+3342,"Enslave Demon Impact Chest (2.5x)","Spells\EnslaveDemon_Impact_Chest.mdx",0,2.5
+3344,"Chest 04 (0.5)","World\Generic\ActiveDoodads\Chest04\Chest04.mdx",0,0.5
+3345,"Acid Burn Base (0.5)","spells\AcidBurn.mdx",0,0.5
+3346,"Missile: Axe Outland Raid D06","spells\Missile_Axe_1HOutlandRaidD06.mdx",0,1
+3347,"Quest - Fel Fire Nova Cast (Huge)","spells\fel_firenova_area.mdx",0,5
+3348,"Steam Impact","spells\Steam.mdx",0,1
+3349,"Steam State","spells\Steam.mdx",0,1
+3350,"Quest - The Mark of Kael'Thas State","spells\fire_precast_uber_hand.mdx",0,1.5
+3351,"Quest - Low Poly Fire (State)","world\generic\pvp\fires\lowpolyfireanim.mdx",0,0.5
+3352,"Quest - Archimonde Fire Chest (State)","spells\archimonde_fire.mdx",0,0.75
+3353,"Shadow Nova Cast - (0.50)","spells\shadow_nova_area.mdx",0,0.5
+3354,"Arcane Breath","Spells\ArcaneBreath.mdx",0,1
+3355,"Flare Ground State (2.75x)","spells\flare_state_base.mdx",1076887552,2.75
+3356,"Fire Nova Area (0.75x)","Spells\FireNova_Area.mdx",0,0.75
+3357,"Banish (White)","spells\banish_chest_white.mdx",0,1
+3358,"Shadow Nova Cast - (0.10)","spells\shadow_nova_area.mdx",0,0.10000000149011612
+3359,"Bomb Explosion - (0.10)","Spells\Bomb_ExplosionA.mdx",0,0.10000000149011612
+3360,"Floating Mine","spells\floatingmine.mdx",0,1
+3361,"Floating Mine Pulse","spells\floatingminepulse.mdx",0,1
+3362,"Floating Mine (1.5x)","spells\floatingmine.mdx",0,1.5
+3363,"Floating Mine Pulse (1.5x)","spells\floatingminepulse.mdx",0,1.5
+3364,"Void Zone (0.25)","creature\portalofkathune\portalofkathune.mdx",0,0.25
+3365,"Quest - Ancient Draenei Warden State","world\expansion01\doodads\auchindoun\passivedoodads\spirit_fx\draenei_spirit_red.mdx",0,3
+3366,"Bottle (Green)","World\Generic\Human\Passive Doodads\Bottles\GreenBottle02.mdx",0,1
+3367,"Mug (Foaming)","World\Generic\Human\Passive Doodads\Mugs\MugFoam01.mdx",0,1
+3368,"Fel Fire Nova Area (1.5x)","spells\fel_firenova_area.mdx",1056964608,1.5
+3369,"Abyssal Impact Base (0.25)","spells\abyssal_impact_base.mdx",0,0.25
+3370,"Dark Shade","spells\darkshade.mdx",0,1
+3371,"Arcane Fire Weapon","Spells\Arcane_Fire_Weapon_Effect.mdx",0,1
+3372,"Quest - Psychedelic Ghost State (Large 2x Size)","spells\ghost_state2.mdx",0,2
+3373,"Arcane Fire Weapon (2.00)","Spells\Arcane_Fire_Weapon_Effect.mdx",0,2
+3374,"Defensive Stance Impact Chest (1.5x)","Spells\DefensiveStance_Impact_Chest.mdx",0,1.5
+3375,"Water Breath","spells\WaterLiquidBreath.mdx",0,1
+3376,"Missile: Sonic Boom (Small)","Spells\SonicBoom_Missile_High.mdx",0,1
+3377,"Fel Fire Nova Area (2x)","spells\fel_firenova_area.mdx",1073741824,2
+3378,"Fel Fire Shield Head","Spells\Fel_Fireshieldfinal_Impact_Head.mdx",0,1
+3379,"Hellfire Area Base  (7.00)","Spells\HellFire_Area_Base.mdx",0,7
+3380,"Abyssal Impact Base - 1.50","spells\abyssal_impact_base.mdx",0,1.5
+3381,"Flamestrike Impact Base (1.50)","Spells\Flamestrike_Impact_Base.mdx",0,1.5
+3382,"FlamestrikeSmall Impact Base (2.5)","Spells\FlamestrikeSmall_Impact_Base.mdx",0,2.5
+3383,"Wall Sword 01","World\Generic\Human\Passive Doodads\Weapons&Armor\WallSword01.mdx",0,1
+3384,"Bone Burrow Cast","Spells\BurrowEarth_BoneWaste_Missile.mdx",0,1
+3385,"Bone Burst (0.25)","Spells\BoneWorm_AttackEffects.mdx",0,0.25
+3386,"Quest - Netherstorm - WaterLiquidBreath Cast","spells\waterliquidbreath.mdx",0,1
+3388,"Dust Nova x2","spells\dustnova_cast_base.mdx",0,2
+3389,"Frost Nova Area (2.5x)","Spells\Frost_Nova_area.mdx",0,2.5
+3390,"Missile: Spear (Human 01)","World\Generic\Human\Passive Doodads\Weapons&Armor\HumanSpear01.mdx",0,1
+3391,"Quest - Thunderclap Cast Base (Huge)","spells\thunderclap_cast_base.mdx",0,4
+3392,"Water Breath (3.00)","spells\WaterLiquidBreath.mdx",0,3
+3393,"Aerie Boulder 03 (0.5)","World\Lordaeron\AeriePeaks\PassiveDoodads\Boulders\AerieBoulder03.mdx",0,0.5
+3394,"Ghost_state (Green)","spells\greenghost_state.mdx",0,1
+3395,"Magic Unlock (2x)","Spells\MagicUnlock.mdx",0,2
+3396,"Quest - Dark Glare (Small)","spells\cthuneeyeattack.mdx",0,0.25
+3397,"CycloneWater State (5x)","Spells\CycloneWater_State.mdx",0,5
+3398,"Missile: Boulder (4.00)","spells\boulder_missile.mdx",0,4
+3399,"Missile: Eye of Kilrogg","creature\spells\EyeOfKilrog.mdx",0,1
+3400,"Banish (Blue) - 0.25","spells\banish_chest_blue.mdx",0,0.25
+3401,"Banish (Green) - 0.25","Spells\Banish_Chest.mdx",0,0.25
+3402,"Banish (Red) - 0.25","spells\bloodbolt_chest.mdx",0,0.25
+3403,"Missile: Thorns (2x)","spells\missile_thorns.mdx",0,2
+3404,"Missile: Pine Cone","world\kalimdor\mulgore\passivedoodads\pinecone\pinecone.mdx",0,1
+3405,"Bone Burrow Cast - 0.25","Spells\BurrowEarth_BoneWaste_Missile.mdx",0,0.25
+3406,"Missile: Soul (x3)","spells\soulshatter_missile.mdx",0,3
+3407,"Fel Fireball Missile High (3.00)","spells\fel_fireball_missile_high.mdx",0,3
+3408,"Acid Breath (Liquid) (2x)","spells\acidliquidbreath.mdx",0,2
+3409,"Horde Banner","world\generic\pvp\battlefieldbanners\battlefieldbannerhorde.mdx",0,0.6000000238418579
+3410,"Feather (Red)","World\Generic\PassiveDoodads\Feathers\FeatherBigRed.mdx",0,1
+3411,"Fel Hellfire Impact","spells\fel_hellfire_impact_base.mdx",0,1
+3412,"Fel Hellfire Caster Cast Base","spells\fel_hellfire_impact_caster_base.mdx",0,1
+3413,"Feather (Red) - 2.00","World\Generic\PassiveDoodads\Feathers\FeatherBigRed.mdx",0,2
+3414,"Quest - The Mark of Vashj - Impact","spells\giftwaterspirit_impact_base.mdx",0,1
+3415,"Bottle (Blue)","World\Generic\Human\Passive Doodads\Bottles\Bottle01.mdx",0,1
+3416,"Acid Burn (Low-Poly)","Spells\Acidburn_Small.mdx",0,1
+3417,"Acid Burn (Low-Poly) 0.50","Spells\Acidburn_Small.mdx",0,0.5
+3418,"Acid Burn Black (Low-Poly) - 0.50","SPELLS\AcidBurn_Small_Black.mdx",0,0.5
+3419,"Acid Burn Red (Low-Poly) - 0.50","SPELLS\AcidBurn_Small_Red.mdx",0,0.5
+3420,"Bottle (Blue Fancy)","World\Expansion01\Doodads\Generic\BloodElf\Bottles\BE_Bottle01.mdx",0,1
+3421,"Acid Burn Yellow (Low-Poly) 0.50","Spells\AcidBurn_Small_Yellow.mdx",0,0.5
+3422,"Bottle (Frothy Smoke)","World\Generic\Human\Passive Doodads\Bottles\BottleSmoke.mdx",0,1
+3423,"Acid Burn Blue (Low-Poly) - 0.50","SPELLS\AcidBurn_Small_Blue.mdx",0,0.5
+3424,"Smoke Flare (Blue) - 3.00","spells\SmokeFlare_Blue.mdx",0,3
+3425,"Acid Burn Orange (Low-Poly) 0.50","Spells\AcidBurn_Small_Orange.mdx",0,0.5
+3426,"Acid Burn Purple (Low-Poly) - 0.50","Spells\AcidBurn_Small_Purple.mdx",0,0.5
+3427,"Boots (Human Brown Leather 02)","World\Generic\Human\Passive Doodads\Clothing\BootsLeatherBrown01.mdx",0,1
+3428,"Feather (Brown) - 2.00","World\Generic\PassiveDoodads\Feathers\FeatherBigBrown.mdx",0,2
+3429,"Feather (Blue) - 2.00","World\Generic\PassiveDoodads\Feathers\FeatherBigBlue.mdx",0,2
+3430,"Acid Burn Base (2x)","spells\AcidBurn.mdx",0,2
+3431,"Shock Missile [8.0]","Spells\Shock_Missile.mdx",0,8
+3432,"ArcaneExplosion Base (20yd)","Spells\ArcaneExplosion_Base.mdx",0,2.5
+3433,"Quest - Fumping Drum Missile","world\generic\tauren\passive doodads\drums\taurendrumsmall01.mdx",0,1
+3434,"Acid Burn Black","SPELLS\AcidBurn_Black.mdx",0,1
+3435,"Missile: Soul (x5)","spells\soulshatter_missile.mdx",0,5
+3436,"Hellfire Area Base (0.5 Scale)","spells\hellfire_area_base.mdx",0,0.5
+3437,"Acid Breath (Liquid) (x0.5)","spells\acidliquidbreath.mdx",0,0.5
+3438,"Seal Of Wrath Impact Base - 3.00","Spells\SealOfWrath_Impact_Base.mdx",0,3
+3439,"Ward: Fire Impact Chest - 5.00","Spells\FireWard_Impact_Chest.mdx",0,5
+3440,"Ritual Of Fire Precast - 2.00","spells\Ritual_Fire_PreCast_Base.mdx",0,2
+3441,"Meteor Impact Base Red","spells\Meteor_Impact_Base_Red.mdx",0,1
+3442,"Nightbane Area Base (0.50)","spells\nightbane_area_base.mdx",0,0.5
+3443,"Shadow Fissure Base (2.25)","Spells\Shadow_Fissure_Base.mdx",0,2.25
+3444,"Dark Ritual PreCast Base (2.25)","Spells\DarkRitual_PreCast_Base.mdx",0,2.25
+3445,"Fel Hellfire Puff","Spells\Fel_HellFire_FirePuff_Caster_Base.mdx",0,1
+3446,"Quest - Seed of Corruption State (Big) (1.25x)","spells\seedofcorruption_state.mdx",0,1.25
+3447,"Quest - Fire Reflect State (2x)","spells\firereflect_state_chest.mdx",0,2
+3448,"Consecration Impact Base (1.5x)","spells\consecration_impact_base.mdx",0,1.5
+3449,"Shadow Nova Cast (4.0)","spells\shadow_nova_area.mdx",0,4
+3450,"Fire Blast Impact Chest - 3.00","Spells\FireBlast_Impact_Chest.mdx",0,3
+3451,"Skull Test","World\Azeroth\Elwynn\PassiveDoodads\Skeleton\BattleGladeSkullHumanDark.mdx",0,3
+3452,"Dreadlord Carrion Swarm Cast (0.25)","spells\dreadlord_carrion_swarm_cast.mdx",0,0.25
+3453,"Darkmoon Vengeance Head State","Spells\DarkmoonVengeance_Impact_Head.mdx",0,1
+3454,"Darkmoon Vengeance Impact Chest","Spells\DarkmoonVengeance_Impact_Chest.mdx",0,1
+3455,"Missile: Mana Shot","Spells\ManaShot_Missile.mdx",0,1
+3456,"Ward: Holy Impact Chest","Spells\HolyWard_Impact_Chest.mdx",0,1
+3458,"Soulgrinder Ritual Visual ( in progress)","world\kalimdor\diremaul\activedoodads\nightmaresummoning\nightmarestone.mdx",0,2
+3459,"Soulgrinder Beam Precast","spells\shadow_precast_uber_hand.mdx",0,3
+3460,"Missile: Naga Lord Shell","spells\nagalordshell_missile.mdx",0,1
+3461,"Missile: Naga Lord Shell (2.5x)","spells\nagalordshell_missile.mdx",0,2.5
+3462,"Naga Lord Shell Impact","spells\nagalordshell_impact.mdx",0,1
+3463,"Otherwordly Portal","World\Expansion01\Doodads\TheExodar\Passivedoodads\Sky_Portal\Exodar_Sky_portal.mdx",0,0.3499999940395355
+3464,"Water Bubble Chest State (0.75x)","Spells\WaterBubble.mdx",0,0.75
+3465,"Seed Of Corruption State - 3.00","Spells\SeedOfCorruption_State.mdx",0,3
+3466,"Life Tap State Chest - 5.00","Spells\Lifetap_State_Chest.mdx",0,5
+3467,"Fel Flame Patch - 2.00","spells\fel_archimonde_fire.mdx",0,2
+3468,"Fel Hellfire Impact Base - 3.00","spells\fel_hellfire_impact_base.mdx",0,3
+3469,"Fel Immolate Impact Chest - 5.00","spells\fel_immolate_impact_chest.mdx",0,5
+3470,"Fel Low Poly Fire - 2.00","spells\Fel_LowPolyFireAnim.mdx",0,2
+3471,"Shell Shield State","Spells\ShellShield_State_Base.mdx",0,1
+3472,"Dreadlord Carrion Swarm Cast (0.50)","spells\dreadlord_carrion_swarm_cast.mdx",0,0.5
+3474,"Intervene Trail","spells\InterveneTrail.mdx",0,1
+3477,"Intervene Impact","spells\Intervene_Impact_Chest.mdx",0,1
+3478,"Flames (0.50 Scale)","world\lordaeron\stratholme\passivedoodads\fx\stratholmefiresmokeembers.mdx",0,0.5
+3479,"Crystal man visual - Chest","world\kalimdor\ungoro\passivedoodads\crystals\ungorocrystal_blue02.mdx",0,1
+3480,"Crystal man visual - hand","world\goober\g_jewelblue.mdx",0,1
+3481,"Crystal Man visual - base","creature\questobjects\creature_powercrystal.mdx",0,1
+3482,"Arcane Precast","spells\arcanebomb_missle.mdx",0,0.25
+3483,"Missile: Black Shot","spells\blackshot_missile.mdx",0,1
+3484,"Fel Fireblast Impact Chest (2.00)","spells\fel_fireblast_impact_chest.mdx",0,2
+3485,"Aura: Yellow","World\Generic\PassiveDoodads\ParticleEmitters\AuraYellow.mdx",0,1
+3486,"Aura: Red","World\Generic\PassiveDoodads\ParticleEmitters\AuraRed.mdx",0,1
+3487,"Aura: Green","World\Generic\PassiveDoodads\ParticleEmitters\AuraGreen.mdx",0,1
+3488,"Aura: Blue","World\Generic\PassiveDoodads\ParticleEmitters\AuraBlue.mdx",0,1
+3489,"Portal: Boss Shadow ","Spells\Creature_SpellPortal_LargeShadow.mdx",0,1
+3490,"Missile: Black Shot - 2.00","spells\blackshot_missile.mdx",0,2
+3491,"Stasis Field","spells\arcanebomb_missle.mdx",0,1
+3492,"Arcane Nova (Chest)","Spells\FireNova_Blue_Area.mdx",0,1
+3493,"Missile: Shadowbolt","Spells\Shadowbolt_Missile.mdx",0,1
+3494,"Impact: Shadowbolt","Spells\Shadowbolt_Chest_Impact.mdx",0,1
+3495,"Water Elemental Impact Base (2x)","spells\waterelemental_impact_base.mdx",0,2
+3496,"Item - Demonic Infusion Effect (Fel Fire 0.25 Base)","spells\fel_archimonde_fire.mdx",0,0.25
+3497,"Item - Demonic Infusion (0.25 LHand)","spells\fel_archimonde_fire.mdx",0,0.25
+3498,"Item - Demonic Infusion (0.25 RHand)","spells\fel_archimonde_fire.mdx",0,0.25
+3499,"Item - Demonic Infusion (0.25 LHand) Fel_FlameShock","spells\fel_flameshock_impact_chest.mdx",0,0.25
+3500,"Item - Demonic Infusion (0.25 RHand) Fel_FlameShock","spells\fel_flameshock_impact_chest.mdx",0,0.25
+3501,"Fire Nova: Blue","Spells\FireNova_Blue_Area.mdx",0,1
+3502,"Fire Nova State - Blue","Spells\FireNova_Blue_State.mdx",0,1
+3503,"Impact: Fire Blast - Blue","Spells\FireBlast_Blue_Impact_Chest.mdx",0,1
+3504,"Archimonde Fire - Blue","Spells\Archimonde_Blue_Fire.mdx",0,1
+3505,"Fel Fireblast Impact Base Large","spells\fel_fireblast_impact_chest.mdx",0,3
+3506,"Invisibility Cast","spells\invisibility.mdx",0,1
+3507,"Blessing of Freedom State","spells\BlessingofFreedom_State.mdx",0,1
+3508,"Blessing of Freedom Impact","spells\BlessingofFreedom_Impact.mdx",0,1
+3509,"Blessing of Might Base","spells\BlessingofMight_Base.mdx",0,1
+3510,"Blessing of Light Base","spells\BlessingofLight_Impact.mdx",0,1
+3511,"Blessing of Protection Impact","spells\BlessingofProtection_Impact.mdx",0,1
+3512,"Envenom Cast","spells\envenom_cast.mdx",0,1
+3513,"Blessing of Kings Base","spells\BlessingofKings_Base.mdx",0,1
+3514,"Blessing of Sacrifice Base","spells\BlessingofSacrifice_Impact.mdx",0,1
+3515,"Immolate Impact Chest (Blue)","spells\Immolate_Blue_Impact_Chest.mdx",0,1
+3516,"Flame Patch (Blue) - 2.00","spells\Archimonde_Blue_Fire.mdx",0,2
+3517,"Fire, Low Poly (Blue) - 2.00","spells\LowPolyFireAnim_Blue.mdx",0,2
+3518,"Hellfire Impact Base (Blue) - 3.00","spells\HellfIre_Blue_Impact_Base.mdx",0,3
+3519,"Shadow Precast Uber Hand - 3.00","Spells\Shadow_Precast_Uber_Hand.mdx",0,3
+3520,"Shadowbolt Chest Impact - 3.00","spells\Shadowbolt_Chest_Impact.mdx",0,3
+3521,"Shadow Strikes State - 5.00","spells\shadow_strikes_state_hand.mdx",0,5
+3522,"Missile: Fireball (Blue) - 2.00","spells\Fireball_Blue_Missile_High.mdx",0,2
+3523,"Fire Precast Hand High (Blue)","spells\Fire_Blue_PreCast_High_Hand.mdx",0,1
+3524,"Fire ImpactDD High Chest (Blue)","spells\Fire_Blue_ImpactDD_High_Chest.mdx",0,1
+3525,"FireBlast Impact Chest (Blue)","spells\FireBlast_Blue_Impact_Chest.mdx",0,1
+3526,"Hellfire FirePuff Caster Base (Blue)","spells\HellFire_Blue_FirePuff_Caster_Base.mdx",0,1
+3527,"Fire Precast Hand High (Blue) - 3.00","spells\Fire_Blue_PreCast_High_Hand.mdx",0,3
+3528,"Fel Low Poly Fire","spells\Fel_LowPolyFireAnim.mdx",0,1
+3529,"Arcane Reflect State Chest","spells\ArcaneReflect_State_Chest.mdx",0,1
+3530,"Poison Elemental Impact Base (5x)","spells\poisonelemental_impact_base.mdx",0,5
+3531,"Fire Precast Hand Blue","Spells\Fire_Blue_Precast_Hand.mdx",0,1
+3532,"Missile: Fireball (Blue)","spells\Fireball_Blue_Missile_High.mdx",0,1
+3533,"Anti-Magic State Base (Blue) - 2.00","spells\antimagic_state_blue.mdx",0,2
+3534,"Mine Cart","world\azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar01.mdx",0,1
+3535,"Quest - Confused State (2x)","spells\confused_state_head.mdx",0,2
+3536,"Quest - Purple Zzz's (Beast Soothe)","spells\beastsoothe_state_head.mdx",0,1.5
+3537,"Item - Big Meat","World\Generic\Human\Passive Doodads\Food&Utensils\TurkeyLeg.mdx",0,1
+3538,"Missile: Illidan's Glaive","spells\Illidan_Glave_Missile.mdx",0,1.350000023841858
+3539,"Arcane Power State Chest (3)","spells\arcanepower_state_chest.mdx",0,3
+3540,"Undead Fire Large","World\Generic\Human\Passive Doodads\Fire\UndeadFireLarge.mdx",0,1
+3541,"Wave: Water","Spells\Wave_Water.mdx",0,1
+3542,"Missile: Yellow Crystal","world\expansion01\doodads\silvermyst\crystals\silvermystcrystal01_yellow.mdx",0,0.5
+3543,"Crystal, Yellow Large","world\expansion01\doodads\silvermyst\crystals\silvermystcrystal03_yellow.mdx",0,1.5
+3544,"Ethereal Ring, Cannon","World\Expansion01\Doodads\Shattrath\Passivedoodads\Lighting\Ancient_D_Standing_Light.mdx",0,0.5
+3545,"Flame Circle (Blue)","spells\FlameCircleEffect_Blue.mdx",0,1
+3546,"Fire Precast Hand High (Blue) - 10.00","spells\Fire_Blue_PreCast_High_Hand.mdx",0,10
+3547,"Flame Circle (Blue) - 1.25","spells\FlameCircleEffect_Blue.mdx",0,1.25
+3548,"Quest - Oldie's Rotten Pumpkin Missile","world\lordaeron\scholomance\passivedoodads\diseasedpumpkin\diseasedpumpkin.mdx",0,1
+3549,"Flame Breath - 180 (Blue)","Spells\FlameBreath180_Blue.mdx",0,1
+3550,"Quest - Trope's Skull Barrage","world\expansion01\doodads\ghostlands\skulls\swath_skull.mdx",0,3
+3551,"Nightmare Stone State","World\Kalimdor\DireMaul\ActiveDoodads\NightmareSummoning\NightmareStone.mdx",0,1
+3552,"Quest - Oldie's Rotten Pumpkin Impact","Spells\Exploding_Stone_Impact.mdx",0,2
+3553,"Quest - Ichman's Blazing Fireball State","spells\archimonde_fire.mdx",0,1
+3554,"Quest - Dragonmaw Race: Mulverick's Great Balls Impact","Spells\LightningBoltIvus_Missile.mdx",0,1.5
+3555,"Immolate State Base (Blue)","Spells\Immolate_Blue_State_Base.mdx",0,1
+3557,"Flame Breath (Blue)","Spells\FlameBreath_Blue.mdx",0,1
+3558,"FlamestrikeSmall Impact Base (Blue) -  2.00","spells\FlamestrikeSmall_Blue_Impact_Base.mdx",0,2
+3559,"Portal: Boss Holy","spells\Creature_SpellPortalLarge_Yellow.mdx",0,1
+3560,"Acid Breath Liquid (0.25)","spells\acidliquidbreath.mdx",0,0.25
+3561,"FlamestrikeSmall Impact Base (Blue) -  3.00","spells\FlamestrikeSmall_Blue_Impact_Base.mdx",0,3
+3562,"Missile: Firebolt (Blue)","Spells\FireBolt_Blue_Missile_Low.mdx",0,1
+3563,"Fire Nova: Blue (0.50)","Spells\FireNova_Blue_Area.mdx",0,0.5
+3564,"Missile: Black Shot - 5.00","spells\blackshot_missile.mdx",0,5
+3565,"Shadow Nova Cast - 3.00","spells\shadow_nova_area.mdx",0,3
+3566,"Missile: Deathbolt Missile - 3.00","spells\deathbolt_missile_low.mdx",0,3
+3567,"Arcane Torrent Cast (2.5x)","Spells\ArcaneTorrent.mdx",0,2.5
+3568,"Arcane Power State Chest (5.00)","spells\arcanepower_state_chest.mdx",0,5
+3569,"Wave: Water (0.25)","Spells\Wave_Water.mdx",0,0.25
+3570,"Shades of Darkness Cast - 4.00","spells\shadesofdarkness_cast.mdx",0,4
+3571,"Missile: Black Shot - 3.00","spells\blackshot_missile.mdx",0,3
+3572,"Flame Patch (Blue) - 1.00","spells\Archimonde_Blue_Fire.mdx",0,1
+3573,"Brute Cologne","Spells\GreenGhost_state.mdx",0,1.25
+3574,"Crashing Wave: Poison","Spells\Missile_Wave_WaterGreen.mdx",0,1
+3575,"Crashing Wave: Water","Spells\Missile_Wave_Water.mdx",0,1
+3576,"Crashing Wave: Fire","Spells\Missile_Wave_Fire.mdx",0,1
+3577,"Fireworks Roman Candle Missile (x2)","spells\firework_romancandle_missle_01.mdx",0,2
+3578,"Level Up (No Sound)","Spells\LevelUpSpell\LevelUpSpell.mdx",0,1
+3579,"Aspect of the Wild Impact Head","spells\aspectwild_impact_head.mdx",0,1
+3580,"Starfire Area (1.5x)","spells\starfire_area.mdx",0,1.5
+3581,"Cosmetic - Illidari Fire (Fire Globes LH)","spells\fire_smoketrail.mdx",0,1
+3582,"Cosmetic - Illidari Fire (Fire Globes RH)","spells\fire_smoketrail.mdx",0,1
+3583,"Quest - Mark of Vash (Water Wave Missile 0.5)","spells\missile_wave_water.mdx",0,0.5
+3584,"Quest - Mark of Kael (Wave of Fire 0.25)","spells\missile_wave_fire.mdx",0,0.25
+3585,"Shadow Nova Cast - (1.50)","spells\shadow_nova_area.mdx",0,1.5
+3586,"Fire Nova Area (10.00)","Spells\FireNova_Area.mdx",0,10
+3587,"Missile: Boulder (2x)","Spells\Boulder_Missile.mdx",0,2
+3589,"Smoke Flare (Green) - 4.00","spells\smokeflare_green.mdx",0,4
+3590,"Starfire Area (2x)","spells\starfire_area.mdx",0,2
+3596,"Portal: Boss Arcane","Spells\Creature_SpellPortalLarge_Purple.mdx",0,1
+3597,"Portal: Boss Fire","spells\Creature_SpellPortalLarge_Red.mdx",0,1
+3598,"Portal: Boss Nature","spells\Creature_SpellPortalLarge_Green.mdx",0,1
+3599,"Portal: Boss Frost","spells\Creature_SpellPortalLarge_Blue.mdx",0,1
+3600,"Immolate State Base (Blue) - 2.00","Spells\Immolate_Blue_State_Base.mdx",0,2
+3601,"Bucket","World\Generic\Human\Passive Doodads\Buckets\Bucket.mdx",0,1
+3602,"Hellfire FirePuff Caster Base (Blue) (0.50)","spells\HellFire_Blue_FirePuff_Caster_Base.mdx",0,0.5
+3603,"Pumpkin (x0.5)","World\Goober\G_Pumpkin_02.mdx",0,0.5
+3604,"Bomb Explosion (x2)","Spells\Bomb_ExplosionA.mdx",0,2
+3605,"Bucket (x2.0, carried)","Item\ObjectComponents\Weapon\Misc_1H_Bucket_A_01.mdx",0,2
+3606,"Arcane Ward Impact Chest","spells\ArcaneWard_Impact_Chest.mdx",0,1
+3607,"Pumpkin Visual (x0.66)","world\azeroth\duskwood\passivedoodads\bush\pumpkin01.mdx",0,0.6600000262260437
+3608,"Arcane Bomb - 1.00","spells\arcanebomb_missle.mdx",0,1
+3609,"Arcane Bomb - 1.00","spells\arcanebomb_missle.mdx",0,1
+3614,"Bloody Explosion Green Impact (x2.0)","Spells\BloodyExplosionGreen.mdx",0,2
+3615,"Blessing of Salvation Impact","spells\blessingofsalvation_impact.mdx",0,1
+3617,"Flame Patch 2.0","spells\archimonde_fire.mdx",0,2
+3618,"Bucket (x1.0, carried)","Item\ObjectComponents\Weapon\Misc_1H_Bucket_A_01.mdx",0,1
+3619,"Missile: Skull - 2.00","World\Expansion01\Doodads\Ghostlands\Skulls\Swath_Skull.mdx",0,2
+3620,"Smoke - Ash Tree","World\Azeroth\BurningSteppes\PassiveDoodads\Smoke\AshTreeSmoke01.mdx",0,1
+3622,"Shield: Arcane Force (Dark)","Spells\ArcaneForceShield_Dark.mdx",0,1
+3623,"Shield: Arcane Force (Yellow)","Spells\ArcaneForceShield_Yellow.mdx",0,1
+3624,"Shield: Arcane Force (Red)","Spells\ArcaneForceShield_Red.mdx",0,1
+3625,"Shield: Arcane Force (Blue)","Spells\ArcaneForceShield_Blue.mdx",0,1
+3626,"Shield: Arcane Force (Green)","Spells\ArcaneForceShield_Green.mdx",0,1
+3627,"Shield: Arcane Force (Purple)","ArcaneForceShield_Purple.mdx",0,1
+3628,"Shield: Fire Force (Dark)","Spells\FireForceShield_Dark.mdx",0,1
+3629,"Shield: Fire Force (Purple)","Spells\FireForceShield_Purple.mdx",0,1
+3630,"Shield: Fire Force (Green)","Spells\FireForceShield_Green.mdx",0,1
+3631,"Shield: Fire Force (Blue)","Spells\FireForceShield_Blue.mdx",0,1
+3632,"Shield: Fire Force (Yellow)","Spells\FireForceShield_Yellow.mdx",0,1
+3633,"Shield: Fire Force (Red)","Spells\FireForceShield_Red.mdx",0,1
+3636,"Water Elemental Low Impact Base (x2)","spells\waterelementallow_impact_base.mdx",0,2
+3637,"Steam Burst Impact","Spells\WaterSteam_Impact.mdx",0,1
+3639,"Ghost_state (Multi-Color)","Spells\Ghost_state2.mdx",0,1
+3648,"Pumpkin Head, Flaming","World\Generic\PassiveDoodads\Oktoberfest\FlamingPumpkinHead.mdx",0,1
+3649,"Pumpkin Head, Flaming (x0.67)","World\Generic\PassiveDoodads\Oktoberfest\FlamingPumpkinHead.mdx",0,0.6700000166893005
+3651,"Incinerate Impact (Blue)","spells\incinerateblue_impact_base.mdx",0,1
+3652,"Incinerate Missile (Blue)","spells\incinerateblue_low_base.mdx",0,1
+3653,"Force Shield Fire (Red)","Spells\fireforceshield_red.mdx",0,1
+3654,"Force Shield Fire (Blue)","Spells\fireforceshield_blue.mdx",0,1
+3655,"Flame Patch (Blue) - 0.20","spells\Archimonde_Blue_Fire.mdx",0,0.20000000298023224
+3657,"Fire Nova Area (0.50)","Spells\FireNova_Area.mdx",0,0.5
+3658,"Pillar: Blue","spells\MoonBeamBlue_Impact_Base.mdx",0,1
+3661,"Missile: Fireball (Blue) 0.3","spells\Fireball_Blue_Missile_High.mdx",0,0.30000001192092896
+3662,"Flame Patch (Blue) - 0.5","spells\Archimonde_Blue_Fire.mdx",0,0.5
+3663,"Fel Flame Breath (120) - 0.33","spells\fel_flamebreath.mdx",0,0.33000001311302185
+3664,"Item - Tankard - HUGE","Spells\TankardA_SpellObject.mdx",0,2
+3665,"Wisp","Creature\Wisp\Wisp.mdx",0,1
+3666,"Wisp (x2.0)","Creature\Wisp\Wisp.mdx",0,2
+3671,"Arcane Power State Chest (2)","spells\arcanepower_state_chest.mdx",0,2
+3672,"Loot FX","particles\lootfx.mdx",0,1
+3677,"Flame Patch (0.3x)","spells\archimonde_fire.mdx",0,0.30000001192092896
+3681,"Flamestrike ImpactDD Med Base - 3.00","Spells\FlameStrike_ImpactDD_Med_Base.mdx",0,3
+3682,"Wave: Fire","spells\Missile_Wave_Fire.mdx",0,1
+3683,"Immolate State - 3.00","Spells\Immolate_State.mdx",0,3
+3684,"Fire Patch - 0.25","spells\Archimonde_Fire.mdx",0,0.25
+3685,"Cyclone State (5x)","Spells\Cyclone_State.mdx",0,5
+3690,"Flamestrike Impact (2x)","Spells\Flamestrike_Impact.mdx",0,2
+3691,"Water Elemental Impact Base (0.5x)","spells\waterelemental_impact_base.mdx",0,0.5
+3692,"Bucket, New","world\goober\g_water_buckets_03.mdx",0,1
+3693,"Army of the Dead Area Impact","Spells\SummonGhouls.mdx",0,1
+3694,"Druid Morph Impact (2.0)","Spells\DruidMorph_Impact_Base.mdx",0,2
+3695,"Death and Decay Ground Runes","Spells\DeathAndDecay_Area_Runes.mdx",0,1
+3703,"Carpet: Purple (Torn)","World\Lordaeron\Scholomance\PassiveDoodads\Candles\Scholme_PurpleRug.mdx",0,1
+3705,"Shadow Precast Uber Hand - 2.00","Spells\Shadow_Precast_Uber_Hand.mdx",0,2
+3706,"Small Smoke Flare, White","spells\SmokeFlare_White.mdx",0,0.5
+3707,"Rag Doll","world\generic\human\passive doodads\dolls\ragdoll01.mdx",0,1
+3712,"Keg","World\Generic\Dwarf\Passive Doodads\TavernStuff\AleKegSingle.mdx",0,1
+3713,"Headless Horseman Head - 1.50","Spells\HeadlessHorsemanHelmet.mdx",1056964608,1
+3714,"Force Shield Arcane (Purple)","spells\arcaneforceshield_purple.mdx",0,1
+3716,"Force Shield Arcane (Purple x3.00)","spells\arcaneforceshield_purple.mdx",0,3
+3717,"Force Shield Arcane (Purple x6.00)","spells\arcaneforceshield_purple.mdx",0,6
+3725,"Steam Impact, Billowing","Spells\WaterSteam_Impact.mdx",0,1
+3726,"Bloody Explosion Green Impact (x0.25)","Spells\BloodyExplosionGreen.mdx",0,0.25
+3727,"Rifle (x1.0, carried)","item\objectcomponents\weapon\firearm_2h_rifle_a_06.mdx",0,1
+3729,"Missile: Harpoon (Vrykul)","Spells\Harpoon_Fire_Missile.mdx",0,1
+3732,"B-Ball","Spells\Fireball_Blue_Missile_High.mdx",0,1
+3733,"CycloneFire State (0.5x)","Spells\CycloneFire_State.mdx",0,0.5
+3734,"Net Missile (0.5)","Spells\Net_State.mdx",0,0.5
+3739,"Pumpkin Head, Flaming (0.35)","World\Generic\PassiveDoodads\Oktoberfest\FlamingPumpkinHead.mdx",0,0.3499999940395355
+3740,"Earth Burrow Cast (Scale x2)","spells\burrowearth_brown_missile.mdx",0,2
+3741,"Flame Patch (0.15x)","spells\archimonde_fire.mdx",0,0.15000000596046448
+3743,"HolyDivineShield State Base (2x)","Spells\HolyDivineShield_State_Base.mdx",0,2
+3745,"Rain of Candy Impact Base","spells\rainofcandys_impact_base.mdx",0,2
+3747,"Shock Impact Chest - 2.00","Spells\Shock_Impact_Chest.mdx",0,2
+3748,"Fel Fire Nova Area (3x)","spells\fel_firenova_area.mdx",1077936128,3
+3749,"Fel Fire Precast Hand (0.5x)","spells\fel_fire_precast_hand.m2",1065353216,0.5
+3750,"FactoryEnergyCube - 1.00","World\Expansion01\Doodads\Generic\Draenei\TempestKeep\FactoryEnergyCube.mdx",0,1
+3751,"Banish (Purple) - 0.50","spells\banish_chest_purple.mdx",0,0.5
+3753,"Arcane Bomb - 5.00","spells\arcanebomb_missle.mdx",0,5
+3754,"Mug Hit (bounce)","spells\mug_missile_hitbounce.mdx",0,1
+3756,"Nature Precast Chest - 0.30","Spells\Nature_Precast_Chest.mdx",0,0.30000001192092896
+3757,"Invisibility Impact - 0.50","Spells\Invisibility_Impact_Chest.mdx",0,0.5
+3758,"Whirlwind Base (0.5x)","Spells\Whirlwind_State_Base.mdx",0,0.5
+3759,"Cyclone State (0.75x)","Spells\Cyclone_State.mdx",0,0.75
+3760,"Cyclone State (0.75x)","Spells\Cyclone_State.mdx",0,0.75
+3761,"Item - Broom, Magic","creature\broommount\broommount.mdx",0,1
+3763,"Druid Morph Impact (3.0)","Spells\DruidMorph_Impact_Base.mdx",0,3
+3764,"Fireworks Pink Heart","spells\valentinefirework.mdx",0,1
+3767,"Frost Breath - 5.00","Spells\FrostBreath.mdx",0,5
+3768,"Ice Block State - 2.00","spells\icebarrier_state.mdx",0,2
+3769,"Fel Flame Circle - 2.00","spells\Fel_FlameCircleEffect.mdx",0,2
+3770,"Fel Flame Patch - 4.00","spells\fel_archimonde_fire.mdx",0,4
+3771,"Fel Flame Patch - 0.50","spells\fel_archimonde_fire.mdx",0,0.5
+3772,"Ice Lance Missile - 3.00","spells\ice_lance_missile.mdx",0,3
+3773,"Arcane Bomb - 2.00","spells\arcanebomb_missle.mdx",0,2
+3774,"Fel Flame Patch - 0.25","spells\fel_archimonde_fire.mdx",0,0.25
+3775,"Fel Low Poly Fire - 0.50","spells\Fel_LowPolyFireAnim.mdx",0,0.10000000149011612
+3776,"Snow Rain - 2.00","Spells\ChristmasSnowRain.mdx",0,2
+3779,"Holiday - Christmas - Snowflakes","spells\christmassnowrain.mdx",0,1
+3780,"Ghost_state (Multi-Color 0.6x)","Spells\Ghost_state2.mdx",0,0.6000000238418579
+3781,"BloodyExplosion - 3.00","Spells\BloodyExplosion.mdx",0,3
+3782,"Scourge Summoning Runes (0.3)","world\goober\g_scourgerunecirclecrystal.mdx",0,0.30000001192092896
+3783,"Soul Funnel Impact Chest (6.0x)","Spells\SoulFunnel_Impact_Chest.mdx",0,6
+3784,"Soul Funnel Impact Chest (2.0x)","Spells\SoulFunnel_Impact_Chest.mdx",0,2
+3785,"Soul Funnel Impact Chest (4.0x)","Spells\SoulFunnel_Impact_Chest.mdx",0,4
+3786,"Blessing of Protection Base (Classic)","spells\Blessingofprotection_State_Classic.mdx",0,1
+3787,"Missile: Upper Deck Paper Airplane, Zeppelin","Creature\Paperairplane_Zeppelin\Paperairplane_Zeppelin.mdx",0,1
+3788,"Missile: Upper Deck Paper Airplane, Gyro","Creature\Paperairplane_Gyro\Paperairplane_Gyro.mdx",0,1
+3789,"Missile: Blood Elf Power Orb (Green) (x0.10)","world\expansion01\doodads\generic\bloodelf\powerorb\bloodelf_powerorb_green.mdx",0,0.10000000149011612
+3790,"Sunder Impact Chest - 2.00","Spells\Sunder_Impact_Chest.mdx",0,2
+3791,"Shattered Sun Banner","World\Expansion02\Doodads\Generic\Sunshatter\Banner\Sunshatter_Banner01.mdx",0,1
+3792,"LightningStorm Cloud Low State","Spells\LightningStorm_CloudLow_State.mdx",0,1
+3793,"Rocket, small","Spells\Missle_Rocket.mdx",0,0.5
+3796,"Fel Lightning PreCast Low Hand","Spells\Lightning_Fel_PreCast_Low_Hand.mdx",0,1
+3797,"Fel Lightning Cast Hand","Spells\Lightning_Fel_Cast_Hand.mdx",0,1
+3798,"Fel ChainLightning Impact Chest","Spells\ChainLightning_Fel_Impact_Chest.mdx",0,1
+3800,"Fel Seeping Gaseous Nova","spells\seepinggaseous_fel_nova.mdx",0,1
+3802,"Flame Breath - Midsummer","spells\flamebreathmff.mdx",0,0.8500000238418579
+3803,"Gaseous Form","Spells\GaseousForm.mdx",0,1
+3804,"Nature Precast Chest - 3.00","Spells\Nature_Precast_Chest.mdx",0,3
+3805,"Holiday - Midsummer - Toy - Petals Shower","spells\summerfest_roseshower_impact_base.mdx",0,1
+3806,"Flame Circle (0.80)","spells\flamecircleeffect.mdx",0,0.800000011920929
+3807,"Hunter's Mark State Head HOLD","spells\huntersmark_impact_head_hold.mdx",0,1
+3808,"Steam Impact, Billowing (x2.0)","Spells\WaterSteam_Impact.mdx",0,2
+3809,"Fireball Missile Low (x0.5)","Spells\Fireball_Missile_Low.mdx",0,0.5
+3810,"Mana Funnel Impact Chest (3x)","Spells\ManaFunnel_Impact_Chest.mdx",0,3
+3811,"Form Shadow Precast","Spells\Shadow_Form_Precast.mdx",0,1
+3812,"Form Fire Precast","Spells\Fire_Form_Precast.mdx",0,1
+3813,"Arcane Power State Chest - 8.00","spells\arcanepower_state_chest.mdx",0,8
+3814,"Seeping Gas (Fel) - 3.00","spells\SeepingGaseous_Fel_Nova.mdx",0,3
+3815,"Nature Precast Chest - 10.00","Spells\Nature_Precast_Chest.mdx",0,10
+3816,"Acid Cloud Breath - 2.00","spells\AcidCloudBreath.mdx",0,2
+3817,"Red Dust Cloud - 10.00","spells\RedDustCloud.mdx",0,10
+3818,"Radiation Fog (Blue-Green) - 3.00","spells\LargeBlueGreenRadiationFog.mdx",0,3
+3820,"Bomb Explosion (x1.5","Spells\Bomb_ExplosionA.mdx",0,1.5
+3821,"Torch (x1.5)","Spells\TorchSpell.mdx",0,1.5
+3822,"Bow Shot (Thori'dal)","Spells\ArcaneShot_Missile2.mdx",0,1
+3824,"Bonfire","World\Azeroth\BurningSteppes\PassiveDoodads\Bonfire\OrcBonFire.mdx",0,1
+3826,"Seeping Gaseous Fel Nova - 1.00","spells\SeepingGaseous_Fel_Nova.mdx",0,1
+3827,"Seeping Gaseous Fel Nova - 0.50","spells\SeepingGaseous_Fel_Nova.mdx",0,0.5
+3828,"Green Ground Fog - 1.00","World\Generic\PassiveDoodads\ParticleEmitters\GreenGroundFog.mdx",0,1
+3830,"TEMP","Creature\Cloud\CloudSwampGas.mdx",0,1
+3831,"Cloud: Green - 3.00","spells\greenradiationfog.mdx",0,3
+3832,"MoltenBlast Impact Chest (2x)","Spells\MoltenBlast_Impact_Chest.mdx",0,2
+3838,"Form Arcane Precast","Spells\Arcane_Form_Precast.mdx",0,1
+3841,"Fire Blast Impact Chest - 2.00","Spells\Fire_ImpactDD_Chest.mdx",0,2
+3842,"Incinerate Missile (Blue, 0.6x)","spells\incinerateblue_low_base.mdx",0,0.6000000238418579
+3843,"Seeping Gaseous Fel Nova - 0.5","spells\SeepingGaseous_Fel_Nova.mdx",0,0.5
+3845,"Acid Breath - 2.00","Spells\AcidBreath.mdx",0,2
+3846,"Grobbulus Poison Cloud - 2.00","Spells\Poison_Cloud_Grobbulus.mdx",0,2
+3847,"Flare Ground State (1.5x)","spells\flare_state_base.mdx",1056964608,1.5
+3848,"Flare Ground State (0.75x)","spells\flare_state_base.mdx",1061158912,0.75
+3850,"Missile: Shadowbolt - 4.00","Spells\Shadowbolt_Missile.mdx",0,4
+3851,"Missile: Snowball (3.0x)","spells\missile_snowball.mdx",0,3
+3852,"Frost Nova Area (0.2x)","Spells\Frost_Nova_area.mdx",0,0.20000000298023224
+3853,"Frost Reflect State Chest (3.0x)","spells\frostreflect_state_chest.mdx",0,3
+3854,"Missile: Snowball (6.0x)","spells\missile_snowball.mdx",0,6
+3855,"Portal: Boss Shadow - 0.50","Spells\Creature_SpellPortal_LargeShadow.mdx",0,0.5
+3860,"Portal: Boss Purple - 0.50","Spells\Creature_SpellPortalLarge_Purple.mdx",0,0.5
+3863,"Bread Slice (0.50)","world\generic\human\passive doodads\food\breadslice.mdx",0,0.5
+3864,"Void Zone - 0.60","creature\portalofkathune\portalofkathune.mdx",0,0.6000000238418579
+3865,"Dark Shade - 5.00","spells\darkshade.mdx",0,5
+3867,"Black Magic Precast Base - 2.00","spells\BlackMagic_Precast_Base.mdx",0,2
+3868,"Shadow Fury Impact - 0.50","spells\ShadowFury_Impact_Base.mdx",0,0.5
+3869,"Flamestrike Impact (0.5x)","Spells\Flamestrike_Impact.mdx",0,0.5
+3870,"Missile: Black Shot - 2.0","spells\blackshot_missile.mdx",0,20
+3871,"Arcane Bomb - 2.50","spells\arcanebomb_missle.mdx",0,2.5
+3873,"Abyssal Impact Base - 2.50","spells\abyssal_impact_base.mdx",0,2.5
+3874,"Flare Ground State (2.5x)","spells\flare_state_base.mdx",1075838976,2.5
+3875,"ShadowWord Death Impact - 3.00","spells\shadowword_death_impact.mdx",0,3
+3876,"Fire Precast Hand 8.0","Spells\Fire_Precast_Hand.mdx",0,8
+3877,"Fel Fireball Missile High (2.00)","spells\fel_fireball_missile_high.mdx",0,2
+3878,"ShadowWordDominate Chest - 3.00","Spells\ShadowWordDominate_Chest.mdx",0,3
+3879,"ShadowSnare Base - 3.00","Spells\Shadow_Snare_High_base.mdx",0,3
+3880,"zzOLD","Spells\Enchantments\BlackGlow_High.mdx",0,5
+3881,"Dark Shade - 3.00","spells\darkshade.mdx",0,3
+3882,"Frost Bolt Missile 5.0","Spells\Frostbolt.mdx",0,5
+3883,"Ice ImpactDD Uber Chest 2.0","Spells\Ice_ImpactDD_Uber_Chest.mdx",0,2
+3884,"Shadow Shield Impact Base - 1.50","spells\shadowshield_impact.mdx",0,1.5
+3885,"Frost Trap Aura NoMist","SPELLS\FrostTrap_Aura_noMist.M2",1065353216,1
+3886,"Frost Trap Aura NoMist 2.0","SPELLS\FrostTrap_Aura_noMist.M2",1065353216,2
+3887,"Dark Shade - 2.00","spells\darkshade.mdx",0,2
+3888,"Cripple State Chest - 2.00","Spells\Cripple_State_Chest.mdx",0,2
+3889,"Quest - Sunshatter Shield","Spells\ShellShield_State_Base.mdx",0,3
+3890,"Force Shield Fire (Red) 2.0","Spells\fireforceshield_red.mdx",0,2
+3891,"Fire Precast Hand 4.0","Spells\Fire_Precast_Hand.mdx",0,4
+3892,"Fire Rift","World\ENVIRONMENT\DOODAD\GENERALDOODADS\ElementalRifts\FireRift.mdx",0,1
+3893,"Flare Ground State (12.0x)","spells\flare_state_base.mdx",0,12
+3894,"Red Glow High 15.0","Spells\Enchantments\RedGlow_High.mdx",0,15
+3895,"Red Flame Low 5.0","Spells\Enchantments\RedFlame_Low.mdx",0,5
+3896,"Fireball Missile High 4.0","Spells\Fireball_Missile_High.mdx",0,4
+3897,"Immolate Impact Chest 5.0","Spells\Immolate_Impact_Chest.mdx",0,5
+3898,"Bomb Explosion (x4)","Spells\Bomb_ExplosionA.mdx",0,4
+3899,"Flames (0.35 scale)","world\lordaeron\stratholme\passivedoodads\fx\stratholmefiresmokeembers.mdx",0,0.3499999940395355
+3902,"Fire Precast Hand 2.0","Spells\Fire_Precast_Hand.mdx",0,2
+3903,"Acid Breath (Liquid) - 0.25","spells\acidliquidbreath.mdx",0,0.25
+3904,"Stratholme Fire Smoke Ember","World\Lordaeron\Stratholme\PassiveDoodads\FX\StratholmeFireSmokeEmberM.mdx",0,1
+3905,"Force Shield Arcane (Yellow)","spells\arcaneforceshield_yellow.mdx",0,1
+3906,"DivineShield Low Chest (x4.00)","Spells\DivineShield_Low_Chest.mdx",0,4
+3907,"DivineShield Low Base (x2.00)","Spells\DivineShield_Low_Base.mdx",0,2
+3908,"Fire_SmokeTrail","spells\fire_smoketrail.mdx",0,1
+3909,"Steam State 2x","spells\steam.mdx",0,2
+3910,"Shadow Nova Cast Non Projected - (0.10)","Spells\Shadow_Nova_area_noProjection.mdx",0,0.10000000149011612
+3911,"Frost Bolt Missile 2.5","Spells\Frostbolt.mdx",0,2.5
+3912,"Missile: Shadowbolt (No Ribbon) - 2.00","spells\ShadowBolt_Missile_NoRibbon.mdx",0,2
+3914,"Acid Cloud Breath Smoke - 2.00","spells\AcidCloudBreath_GroundSmoke.mdx",0,2
+3915,"Acid Cloud Breath (Fast)  - 2.00","spells\AcidCloudBreath_Fast.mdx",0,2
+3916,"Banish (Dark) - 2.00","spells\Banish_Chest_Dark.mdx",0,2
+3917,"Ice Precast Uber Hand 2.0x","Spells\Ice_Precast_Uber_Hand.mdx",0,2
+3918,"Ice Missile Uber 5.0x","Spells\Ice_Missile_Uber.mdx",0,5
+3919,"Ice Missile Low 5.0x","Spells\Ice_Missile_Low.mdx",0,5
+3920,"Flame Circle (0.50)","spells\flamecircleeffect.mdx",0,0.5
+3921,"Snowball Powder Impact (3.0)","spells\SnowballPowdery_Impact_Base.mdx",0,3
+3922,"Snow Powder Base","spells\SnowballPowdery_Impact_Base.mdx",0,1
+3923,"Snow Powder Base (0.75)","spells\SnowballPowdery_Impact_Base.mdx",0,0.75
+3924,"Frost Slash","Spells\FrostSlash_Base_Cast.mdx",0,1
+3925,"Fire Elemental Totem (2.0)","Creature\Spells\FireElementalTotem.mdx",0,2
+3928,"Fire Reflect State Chest (2.00)","spells\firereflect_state_chest.mdx",0,2
+3929,"Flames (0.25 scale)","world\lordaeron\stratholme\passivedoodads\fx\stratholmefiresmokeembers.mdx",0,0.25
+3930,"Holy Form Precast","spells\holy_form_precast.mdx",0,1
+3931,"Cheat Death Impact","Spells\Cheat_Death.mdx",0,1
+3932,"Cheat Death (New)","Spells\Cheat_Death.mdx",0,1
+3933,"Cheat Death State","Spells\Cheat_Death.mdx",0,1
+3934,"Banish (Blue) (2.0)","spells\banish_chest_blue.mdx",0,2
+3935,"Shadow Missile","Spells\ShadowMissile.mdx",0,1
+3937,"Shadow Missile (3.0)","Spells\ShadowMissile.mdx",1077936128,2
+3938,"Ice Cast Low Hand (10.0)","Spells\Ice_Precast_Low_Hand.mdx",0,10
+3940,"Sonic Wave Blast Cast - 2.00","spells\sonicwave_cast.mdx",0,2
+3941,"Frost Breath - 7.00","Spells\FrostBreath.mdx",0,7
+3942,"RitualSummoning PreCast Base (x2.00)","Spells\RitualSummoning_PreCast_Base.mdx",0,2
+3943,"Snowball Impact Chest (2.0)","spells\snowball_impact_chest.mdx",0,2
+3944,"Missile: Snowball (1.5x)","spells\missile_snowball.mdx",0,1.5
+3946,"Missile: Deathbolt Missile - 2.00","spells\deathbolt_missile_low.mdx",0,2
+3947,"Missile: Snowball (2.0x)","spells\missile_snowball.mdx",0,2
+3948,"Upper Deck - Weather Machine - Rain","spells\Goblin_Weather_Machine_Rain.mdx",0,1
+3949,"Upper Deck - Weather Machine - Lightning","spells\Goblin_Weather_Machine_Lightning.mdx",0,1
+3950,"Upper Deck - Weather Machine - Snow","spells\Goblin_Weather_Machine_Snow.mdx",0,1
+3951,"Upper Deck - Weather Machine - Sunny","spells\Goblin_Weather_Machine_Sunny.mdx",0,1
+3952,"Upper Deck - Weather Machine - Cloudy","spells\Goblin_Weather_Machine_Cloudy.mdx",0,1
+3953,"Force Shield and Explosion","spells\forceshield_andxplosion.mdx",0,1
+3954,"Sunwell Beam FX","spells\sunwell_beamfx.mdx",0,1
+3955,"Curse of Elements Impact Head (2.00)","Spells\CurseElements_Impact_Head.mdx",0,2
+3956,"Ice Block State - 4.00","spells\icebarrier_state.mdx",0,4
+3959,"Dark Fire Shield State","Spells\FireForceShield_Red.mdx",0,1
+3960,"Quest - Entropius Body","world\goober\g_jewelblack.mdx",0,3
+3962,"Quest - Sunwell Ignition!","spells\Sunwell_BeamFX.mdx",0,1
+3964,"Firework Roman Candle Impact","Spells\Firework_RomanCandle_Impact_Chest_01.mdx",0,1
+3965,"Fireworks Roman Candle Missile","spells\firework_romancandle_missle_01.mdx",0,1
+3966,"Firework Roman Candle Impact (2.0x)","Spells\Firework_RomanCandle_Impact_Chest_01.mdx",0,2
+3967,"Flame Circle (Blue) (0.75x)","spells\FlameCircleEffect_Blue.mdx",0,0.75
+3968,"Flame Patch (0.75x)","spells\archimonde_fire.mdx",0,0.75
+3972,"Missile: Sonic Wave - 2.00","spells\sonicwave_missile.mdx",0,2
+3973,"Portal: Boss Fel Green","Spells\Sunwell_Fel_Portal.mdx",0,1
+3974,"Cold Breath (1.5)","particles\ColdBreath.mdx",0,1.5
+3977,"Missile: Snowball (4.0x)","spells\missile_snowball.mdx",0,4
+3978,"ArcaneExplosion - 5.00","Spells\ArcaneExplosion_Base.mdx",0,5
+3982,"Missile: Pony Keg - 0.50","world\generic\human\passive doodads\beerkegs\beerkeg01_nocollide.mdx",1056964608,1
+3983,"Arcane Missile Lvl 4 (2.00)","Spells\Arcane_Missile_Lvl4.mdx",0,2
+3994,"Acid Breath (0.5x)","Spells\AcidBreath.mdx",0,0.5
+3995,"Steam Impact, Billowing (x0.5)","Spells\WaterSteam_Impact.mdx",0,0.5
+3996,"Missile: Goo Bolt (0.5x)","Spells\GooBolt_Missile_Low.mdx",0,0.5
+3997,"Keg, Dark Iron (0.3x)","World\Generic\DarkIronDwarf\Passive Doodads\Kegs\DarkIronKeg01.mdx",0,0.4000000059604645
+3998,"Mug Hit (bounce) (2x)","spells\mug_missile_hitbounce.mdx",0,2
+4010,"Aura: Red, Tall (1.00)","world\generic\passivedoodads\particleemitters\auraredtall.mdx",0,1
+4020,"MoonBeamRed_Impact_Base","spells\moonbeamred_impact_base.mdx",0,0.6000000238418579
+4094,"SunfireGlow_High","spells\enchantments\sunfireglow_high.mdx",0,1
+4125,"Item - Offhand Rose Bouquet","item\objectcomponents\weapon\offhand_rosebouquet_a_01.mdx",0,1
+4128,"Sparkle Trail","spells\sparktrail.mdx",0,1
+4129,"Sparkle","spells\enchantments\sparkle_a.mdx",0,1
+4143,"Goblin Rocket Cart (1.0)","world\generic\goblin\passivedoodads\goblinrocketcarts\goblinrocketcart_rc.mdx",0,1
+4144,"Stratholme Fire Smoke Ember (0.3)","World\Lordaeron\Stratholme\PassiveDoodads\FX\StratholmeFireSmokeEmberM.mdx",0,0.30000001192092896
+4147,"Stratholme Fire Smoke Ember (0.5)","World\Lordaeron\Stratholme\PassiveDoodads\FX\StratholmeFireSmokeEmberM.mdx",0,0.5
+4148,"Stratholme Fire Smoke Ember (0.15)","World\Lordaeron\Stratholme\PassiveDoodads\FX\StratholmeFireSmokeEmberM.mdx",0,0.15000000596046448
+4149,"Bomb Explosion - (0.25)","Spells\Bomb_ExplosionA.mdx",0,0.25
+4150,"DustCloud Land (0.5)","Spells\DustCloud_Land.mdx",0,0.5
+4153,"Goblin Rocket Cart (0.2)","world\generic\goblin\passivedoodads\goblinrocketcarts\goblinrocketcart_rc.mdx",0,0.20000000298023224
+4154,"Immolate State (4.0)","spells\immolate_state.mdx",0,4
+4155,"Flame Patch (0.20x)","spells\archimonde_fire.mdx",0,0.20000000298023224
+4156,"Goblin Control Panel (0.1)","world\generic\goblin\passivedoodads\controlpanel\goblincontrolpanel.mdx",0,0.10000000149011612
+4169,"Flame Breath","Spells\FlameBreath.mdx",0,0.5
+4176,"Magic Impact Chest","spells\magic_impact_chest.mdx",0,1
+4178,"Missile: Pine Cone (0.7)","world\kalimdor\mulgore\passivedoodads\pinecone\pinecone.mdx",0,0.699999988079071
+4180,"Acid Breath (0.2x)","Spells\AcidBreath.mdx",0,0.20000000298023224
+4181,"Arcane Bomb","spells\arcanebomb_missle.mdx",0,1.5
+4187,"Ghost_state (Green, x0.1)","spells\greenghost_state.mdx",0,0.10000000149011612
+4188,"Ghost_state (Red, x0.1)","spells\redghost_state.mdx",0,0.10000000149011612
+4189,"BOTM - Honey Brew - Bee Aura","Spells\GiantInsectSwarm_State_Ground.mdx",0,0.10000000149011612
+4191,"Brew Bubble State","creature\waterbubblecreature\waterbubblecreature.mdx",0,0.5
+4192,"BOTM - Bubble Brew - Bubble Breath Aura","particles\bubbles.mdx",0,1
+4207,"GreenFlame_Low","spells\enchantments\greenflame_low.mdx",0,4
+4208,"GreenFlame_Low","spells\enchantments\greenflame_low.mdx",0,6
+4210,"Fel FlamestrikeSmall Impact Base","spells\fel_flamestrikesmall_impact_base.mdx",0,1
+4211,"Fel Flame Patch - 0.15","spells\fel_archimonde_fire.mdx",0,0.15000000596046448
+4213,"Banish (Blue) - 0.5","spells\banish_chest_blue.mdx",0,0.5
+4214,"Banish (Red) 0.50","spells\bloodbolt_chest.mdx",0,0.5
+4217,"CallLightning Impact (Red)","spells\flamestrike_impactdd_med_base.mdx",0,0.3799999952316284
+4218,"Earth Burrow Cast (0.5)","Spells\BurrowEarth_Brown_Missile.mdx",0,0.5
+4221,"GreenGlow_High","spells\enchantments\greenglow_high.mdx",0,1
+4227,"Fireball_Blue_Missile_High","spells\fireball_blue_missile_high.mdx",0,1
+4235,"Gas Breath (0.5)","spells\acidcloudbreath.mdx",0,0.5
+4244,"DustCloud Land (Copy)","Spells\DustCloud_Land.mdx",0,0.30000001192092896
+4356,"UDE PVP Flag","world\generic\pvp\upperdeck\ud_pvptaunt.mdx",0,2
+4370,"Item - Bottle (Green) ","spells\tankardb_spellobject.mdx",0,1
+4393,"HellFire Area Base","Spells\HellFire_Area_Base.mdx",0,1
+4413,"Confetti Explosion","world\generic\upperdeck\ud_confetti_01.mdx",0,1
+4414,"Aspect Fox Impact Head","Spells\Hunter_AspectoftheFox_impact_01.mdx",0,1
+4415,"Aspect Turtle Impact Head","Spells\Hunter_AspectoftheTurtle_impact_01.mdx",0,1
+4416,"MagePortal: Stonard","Spells\MagePortal_Stonard.mdx",0,0
+4417,"MagePortal: Theramore","Spells\MagePortal_Theramore.mdx",0,0
+4418,"MagePortal: DarkPortal","Spells\MagePortal_StairofDestiny.mdx",0,0
+4419,"MagePortal: Silvermoon","Spells\MagePortal_Silvermoon.mdx",0,0
+4420,"MagePortal: Dalaran","Spells\MagePortal_Dalarn.mdx",0,0
+9000,"HellFire Impact Caster Base Green","Spells\HellFire_Impact_Caster_Base_Green.mdx",0,0
+9001,"HellFire Impact Base Green","Spells\HellFire_Impact_Base_Green.mdx",0,1
+9002,"Immolate Impact Chest Green","Spells\Immolate_Impact_Chest_Green.mdx",4,1
+9003,"Immolate State Base Green","Spells\Immolate_State_Base_Green.mdx",0,1
+9004,"Rain Of Fire Impact Base Green","Spells\RainOfFire_Impact_Base_Green.mdx",0,0
+9005,"Fire Precast Hand Green","Spells\Fire_Precast_Hand_Green.mdx",0,0
+9006,"Fire Precast Hand Green 2","Spells\Fire_Precast_Hand_Green.mdx",0,0
+9007,"JudgementImpactChestYellow","Spells\judgement_impact_chest.mdx",0,0
+9008,"TemplarsVerdictImpact","Spells\paladin_finalverdict_cast_01.mdx",0,0
+9009,"SealofJusticeImpact","Spells\sealofmight_impact_base.mdx",0,0
+9010,"SealofLightImpact","Spells\sealoflight_impact_base.mdx",0,0
+9011,"SealofWisdomImpact","Spells\sealofsacrifice_impact_base.mdx",0,0
+9012,"SealofRighteousnessImpact","Spells\sealofrighteous_impact_base.mdx",0,0
+9013,"SealoftheCrusaderImpact","Spells\sealofcrusader_impact.mdx",0,0
+9014,"SealofCommandImpact","Spells\sealofcommand_impact_base.mdx",0,0
+9015,"BlessingOfFreedomImpact","Spells\blessingoffreedom_impact.mdx",0,0
+9016,"BlessingOfFreedomState","Spells\blessingoffreedom_state.mdx",0,0
+9017,"BlessingOfKingsImpact","Spells\blessingofkings_base.mdx",0,0
+9018,"BlessingOfLightImpact","Spells\blessingoflight_impact.mdx",0,0
+9019,"BlessingOfMightImpact","Spells\blessingofmight_base.mdx",0,0
+9020,"BlessingOfSacrificeImpact","Spells\blessingofsacrifice_impact.mdx",0,0
+9021,"BlessingOfSalvationImpact","Spells\blessingofsalvation_impact.mdx",0,0
+9022,"BlessingOfSanctuary","Spells\blessingofsanctuary.mdx",0,0
+9023,"BlessingOfWisdomImpact","Spells\blessingofwisdom_base.mdx",0,0
+9024,"JudgementImpactBlue","Spells\judgement_impact_chest_blue.mdx",0,0
+9025,"JudgementImpactRed","Spells\judgement_impact_chest_red.mdx",0,0
