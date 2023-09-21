@@ -38,5 +38,5 @@ jobs:
         with:
           tag: ${{ steps.tag_version.outputs.new_tag }}
           body: ${{ steps.tag_version.outputs.changelog }}
-          artifacts: patch-A.mpq
+          artifacts: patch-Z.mpq
           artifactErrorsFailBuild: true
