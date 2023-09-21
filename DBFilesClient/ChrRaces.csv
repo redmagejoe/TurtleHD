@@ -1,0 +1,11 @@
+id,flags,factionId,explorationSoundId,maleDisplayId,femaleDisplayId,clientPrefix,mountScale,baseLanguage,creatureType,loginEffectSpellId,combatStunSpellId,resSicknessSpellId,splashSoundId,startingTaxiNodes,clientFileString,cinematicSequenceId,name_enUS,name_enGB,name_koKR,name_frFR,name_deDE,name_enCN,name_zhCN,name_enTW,nameMask,maleCustomization,femaleCustomization,hairCustomization
+1,12,1,4140,49,50,"Hu",1,7,7,836,1604,15007,1096,2,"Human",81,"Human","","","","","","","",8323199,"NORMAL","PIERCINGS","NORMAL"
+2,12,2,4141,51,52,"Or",1.100000023841858,1,7,836,1604,15007,1096,4194304,"Orc",21,"Orc","","","","","","","",8323199,"NORMAL","PIERCINGS","NORMAL"
+3,12,3,4147,53,54,"Dw",1,7,7,836,1604,15007,1090,32,"Dwarf",41,"Dwarf","","","","","","","",8323199,"NORMAL","PIERCINGS","NORMAL"
+4,4,4,4145,55,56,"Ni",1.2000000476837158,7,7,836,1604,15007,1096,100663296,"NightElf",61,"Night Elf","","","","","","","",8323199,"NORMAL","MARKINGS","NORMAL"
+5,12,5,4142,57,58,"Sc",1,1,7,836,1604,15007,1096,1024,"Scourge",2,"Undead","","","","","","","",8323199,"FEATURES","FEATURES","NORMAL"
+6,14,6,4143,59,60,"Ta",0.75,1,7,836,1604,15007,1096,2097152,"Tauren",141,"Tauren","","","","","","","",8323199,"NORMAL","HAIR","HORNS"
+7,12,115,4146,1563,1564,"Gn",0.800000011920929,7,7,836,1604,15007,1096,32,"Gnome",101,"Gnome","","","","","","","",8323198,"NORMAL","EARRINGS","NORMAL"
+8,14,116,4144,1478,1479,"Tr",1,1,7,836,1604,15007,1096,4194304,"Troll",121,"Troll","","","","","","","",8323198,"TUSKS","TUSKS","NORMAL"
+9,12,1609,4144,6894,6895,"Go",1,1,7,836,1604,15007,1096,4194304,"Goblin",164,"Goblin","","","","","","","",8323198,"NORMAL","FEATURES","NORMAL"
+10,12,1610,4142,15476,15475,"Be",1,7,7,836,1604,15007,1096,2,"BloodElf",162,"High Elf","","","","","","","",8323198,"NORMAL","EARRINGS","NORMAL"
