@@ -3,7 +3,7 @@ name: Package patch MPQ
 on:
   push:
     branches:
-      - 'test'
+      - 'main'
 
 jobs:
   package-patch-mpq:
@@ -16,8 +16,15 @@ jobs:
           lfs: true
           path: patch
 
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          cache: 'npm'
+          cache-dependency-path: 'patch/.github/workflows/package.yml'
+
       - name: Build
-        run: ./patch/.github/haax-mpq.exe ./patch ./patch-Z.MPQ
+        run: npx haax@0.1.13 build ./patch ./patch-A.mpq inPlace
 
       - name: Bump version and push tag
         id: tag_version
@@ -31,5 +38,5 @@ jobs:
         with:
           tag: ${{ steps.tag_version.outputs.new_tag }}
           body: ${{ steps.tag_version.outputs.changelog }}
-          artifacts: patch-Z.MPQ
+          artifacts: patch-A.mpq
           artifactErrorsFailBuild: true
