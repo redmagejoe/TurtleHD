@@ -1,0 +1,36 @@
+{
+	"fileDataID": 1113658,
+	"textures": [
+		{
+			"fileDataID": 1092414,
+			"file": "beam_01_sand.blp"
+		},
+		{
+			"fileDataID": 1092415,
+			"file": "comptex_visibilityscroll_expdown.blp"
+		},
+		{
+			"fileDataID": 1093455,
+			"file": "incense_brown_streakalpha.blp"
+		},
+		{
+			"fileDataID": 1113690,
+			"file": "t_vfx_water_borderwrap.blp"
+		},
+		{
+			"fileDataID": 1093456,
+			"file": "t_vfx_hero_circle_warriorwhirlwind.blp"
+		},
+		{
+			"fileDataID": 1093457,
+			"file": "comptex_visibilityscroll_expdown_blendadd.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1113691,
+			"file": "cfx_warrior_whirlwind_castbase00.skin"
+		}
+	],
+	"lodSkins": []
+}

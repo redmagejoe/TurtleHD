@@ -1,0 +1,32 @@
+{
+	"fileDataID": 1138008,
+	"textures": [
+		{
+			"fileDataID": 167072,
+			"file": "t_vfx_ring_bow_a.blp"
+		},
+		{
+			"fileDataID": 241073,
+			"file": "t_vfx_ring_bow_blured_acontrast.blp"
+		},
+		{
+			"fileDataID": 166230,
+			"file": "genericglow2c.blp"
+		},
+		{
+			"fileDataID": 397894,
+			"file": "glow_256.blp"
+		},
+		{
+			"fileDataID": 166848,
+			"file": "shockwave10.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1138018,
+			"file": "cfx_warrior_intimidatingshout_castbase00.skin"
+		}
+	],
+	"lodSkins": []
+}

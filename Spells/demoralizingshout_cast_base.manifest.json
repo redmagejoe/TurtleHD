@@ -1,0 +1,32 @@
+{
+	"fileDataID": 1138012,
+	"textures": [
+		{
+			"fileDataID": 1259905,
+			"file": "shockwave_smoke_01.blp"
+		},
+		{
+			"fileDataID": 942431,
+			"file": "cloud_wispysoft_brighter_mod4x.blp"
+		},
+		{
+			"fileDataID": 241073,
+			"file": "t_vfx_ring_bow_blured_acontrast.blp"
+		},
+		{
+			"fileDataID": 166230,
+			"file": "genericglow2c.blp"
+		},
+		{
+			"fileDataID": 166223,
+			"file": "genericglow2_64.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1138017,
+			"file": "cfx_warrior_demoralizingshout_castbase00.skin"
+		}
+	],
+	"lodSkins": []
+}

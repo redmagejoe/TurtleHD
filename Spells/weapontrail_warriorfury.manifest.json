@@ -1,0 +1,16 @@
+{
+	"fileDataID": 1003306,
+	"textures": [
+		{
+			"fileDataID": 1080935,
+			"file": "weapontrail_warriorfury_fa.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1003311,
+			"file": "weapontrail_warriorfury00.skin"
+		}
+	],
+	"lodSkins": []
+}

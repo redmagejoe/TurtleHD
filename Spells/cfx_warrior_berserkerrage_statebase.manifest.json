@@ -1,0 +1,32 @@
+{
+	"fileDataID": 1137985,
+	"textures": [
+		{
+			"fileDataID": 929282,
+			"file": "t_vfx_ring_bow_blured_wave.blp"
+		},
+		{
+			"fileDataID": 1041959,
+			"file": "blood_goo.blp"
+		},
+		{
+			"fileDataID": 1240494,
+			"file": "fog_puffy_mod.blp"
+		},
+		{
+			"fileDataID": 803805,
+			"file": "test5.blp"
+		},
+		{
+			"fileDataID": 773294,
+			"file": "t_vfx_smokeanim01_blured.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1137995,
+			"file": "cfx_warrior_berserkerrage_statebase00.skin"
+		}
+	],
+	"lodSkins": []
+}

@@ -1,0 +1,40 @@
+{
+	"fileDataID": 1137989,
+	"textures": [
+		{
+			"fileDataID": 1134056,
+			"file": "arc_center_wispy_sphere.blp"
+		},
+		{
+			"fileDataID": 1100325,
+			"file": "dirt_scroll_wispy_holy.blp"
+		},
+		{
+			"fileDataID": 1019943,
+			"file": "dirt_scroll_wispy_red.blp"
+		},
+		{
+			"fileDataID": 803897,
+			"file": "arcwave_line.blp"
+		},
+		{
+			"fileDataID": 165734,
+			"file": "bloodspurtsmall01.blp"
+		},
+		{
+			"fileDataID": 803805,
+			"file": "test5.blp"
+		},
+		{
+			"fileDataID": 1240495,
+			"file": "blood3_light.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1138002,
+			"file": "cfx_warrior_berserkerrage_statehands00.skin"
+		}
+	],
+	"lodSkins": []
+}

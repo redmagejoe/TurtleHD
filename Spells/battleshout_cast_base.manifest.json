@@ -1,0 +1,40 @@
+{
+	"fileDataID": 1138011,
+	"textures": [
+		{
+			"fileDataID": 460827,
+			"file": "shockwave10c2_a.blp"
+		},
+		{
+			"fileDataID": 1259902,
+			"file": "warrior_battleshout_spikedrings.blp"
+		},
+		{
+			"fileDataID": 1141425,
+			"file": "defile1_blood.blp"
+		},
+		{
+			"fileDataID": 397894,
+			"file": "glow_256.blp"
+		},
+		{
+			"fileDataID": 166230,
+			"file": "genericglow2c.blp"
+		},
+		{
+			"fileDataID": 241073,
+			"file": "t_vfx_ring_bow_blured_acontrast.blp"
+		},
+		{
+			"fileDataID": 166223,
+			"file": "genericglow2_64.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1138015,
+			"file": "cfx_warrior_battleshout_castbase00.skin"
+		}
+	],
+	"lodSkins": []
+}

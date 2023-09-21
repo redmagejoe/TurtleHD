@@ -1,0 +1,32 @@
+name: Update dbc csv
+
+on:
+  push:
+    paths:
+      - 'DBFilesClient/*.dbc'
+
+jobs:
+  decode-dbc-to-csv:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          cache: 'npm'
+          cache-dependency-path: '.github/workflows/dbc-decode.yml'
+
+      - name: Decode
+        run: npx haax@0.1.13 dbc-decode ./DBFilesClient
+
+      - name: Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'DBFilesClient'
+          message: 'DBC to CSV Update'
+          fetch: false

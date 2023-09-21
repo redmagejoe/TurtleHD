@@ -1,0 +1,36 @@
+{
+	"fileDataID": 1138013,
+	"textures": [
+		{
+			"fileDataID": 968225,
+			"file": "mage_frostorb_orb_a.blp"
+		},
+		{
+			"fileDataID": 1259906,
+			"file": "warrior_indimidatingshout_color.blp"
+		},
+		{
+			"fileDataID": 1101590,
+			"file": "t_vfx_psy_white_a.blp"
+		},
+		{
+			"fileDataID": 241073,
+			"file": "t_vfx_ring_bow_blured_acontrast.blp"
+		},
+		{
+			"fileDataID": 166230,
+			"file": "genericglow2c.blp"
+		},
+		{
+			"fileDataID": 166223,
+			"file": "genericglow2_64.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1138019,
+			"file": "cfx_warrior_piercinghowl_castbase00.skin"
+		}
+	],
+	"lodSkins": []
+}
