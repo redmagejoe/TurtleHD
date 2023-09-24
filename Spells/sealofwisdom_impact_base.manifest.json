@@ -1,0 +1,32 @@
+{
+	"fileDataID": 166781,
+	"textures": [
+		{
+			"fileDataID": 1043314,
+			"file": "ribbonblur1b.blp"
+		},
+		{
+			"fileDataID": 166726,
+			"file": "ribbonmagic2.blp"
+		},
+		{
+			"fileDataID": 166752,
+			"file": "rune8.blp"
+		},
+		{
+			"fileDataID": 999633,
+			"file": "blue_glow2.blp"
+		},
+		{
+			"fileDataID": 167095,
+			"file": "teleporttarget.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 493216,
+			"file": "sealofwisdom_impact_base00.skin"
+		}
+	],
+	"lodSkins": []
+}
