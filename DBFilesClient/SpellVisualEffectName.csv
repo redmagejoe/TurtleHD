@@ -321,7 +321,7 @@ id,name,fileName,areaEffectSize,scale
 372,"ProtectionFromNature Chest","Spells\ProtectionFromNature_Chest.mdx",0,0
 373,"ProtectionFromFire Chest","Spells\ProtectionFromFire_Chest.mdx",0,0
 374,"ResistFrost Chest","Spells\ResistFrost_Chest.mdx",0,0
-375,"BattleShout Cast Base","Spells\BattleShout_Cast_Base.mdx",0,0
+375,"BattleShout Cast Base","Spells\BattleShout_Cast_Base_old.mdx",0,0
 376,"IntimidatingShout Cast Base","Spells\IntimidatingShout_Cast_Base.mdx",0,0
 377,"DemoralizingShout Cast Base","Spells\DemoralizingShout_Cast_Base.mdx",0,0
 378,"Strike Cast Base","Spells\Strike_Cast_Chest.mdx",0,0
@@ -380,7 +380,7 @@ id,name,fileName,areaEffectSize,scale
 445,"Exorcism Impact Chest","Spells\Exorcism_Impact_Chest.mdx",0,0
 446,"Purge New Impact Chest","Spells\Purge_New_Impact_Chest.mdx",0,0
 447,"Holy Ward Impact","Spells\HolyWard_Impact_Chest.mdx",0,0
-448,"Rain Of Fire Impact Base","Spells\RainOfFire_Impact_Base.mdx",0,0
+448,"Rain Of Fire Impact Base","Spells\RainOfFire_Impact_Base_Green.mdx",0,0
 449,"Fire Resistance Impact Base","Spells\FireResistance_Impact_Base.mdx",0,0
 450,"Nature Resistance Impact Base","Spells\NatureResistance_Impact_Base.mdx",0,1
 451,"ArcaneSpirit Impact Base","Spells\ArcaneSpirit_Impact_Base.mdx",0,0
@@ -614,7 +614,7 @@ id,name,fileName,areaEffectSize,scale
 1882,"Wrath Precast Hand","spells\wrath_precast_hand.mdx",0,1
 1883,"Wrath Impact Chest","spells\wrath_impact_chest.mdx",0,1
 1884,"Missile: Wrath","spells\wrath_missile.mdx",0,1
-1885,"Moonfire Impact Base","spells\moonfire_impact_base.mdx",0,0.5
+1885,"Moonfire Impact Base","spells\moonfire_impact_base.mdx",0,0.019999999552965164
 1886,"Spell Portal: Creature","spells\creature_spellportal.mdx",0,1
 1902,"Starfire Area","spells\starfire_area.mdx",0,1
 1922,"Tranquility Impact","spells\tranquility_impact_base.mdx",0,1
@@ -1624,7 +1624,7 @@ id,name,fileName,areaEffectSize,scale
 9008,"TemplarsVerdictImpact","Spells\paladin_finalverdict_cast_01.mdx",0,0
 9009,"SealofJusticeImpact","Spells\sealofmight_impact_base.mdx",0,0
 9010,"SealofLightImpact","Spells\sealoflight_impact_base.mdx",0,0
-9011,"SealofWisdomImpact","Spells\sealofsacrifice_impact_base.mdx",0,0
+9011,"SealofWisdomImpact","Spells\sealofwisdom_impact_base.mdx",0,0
 9012,"SealofRighteousnessImpact","Spells\sealofrighteous_impact_base.mdx",0,0
 9013,"SealoftheCrusaderImpact","Spells\sealofcrusader_impact.mdx",0,0
 9014,"SealofCommandImpact","Spells\sealofcommand_impact_base.mdx",0,0
@@ -1639,3 +1639,4 @@ id,name,fileName,areaEffectSize,scale
 9023,"BlessingOfWisdomImpact","Spells\blessingofwisdom_base.mdx",0,0
 9024,"JudgementImpactBlue","Spells\judgement_impact_chest_blue.mdx",0,0
 9025,"JudgementImpactRed","Spells\judgement_impact_chest_red.mdx",0,0
+9026,"BattleShout Cast Base Revamp","Spells\BattleShout_Cast_Base.mdx",0,0
