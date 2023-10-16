@@ -12,8 +12,10 @@ patch-A includes the following:
 - Spell sounds and visuals
 - Equipment models and textures
 - Music
+
 patch-B: https://drive.google.com/file/d/1GQ932XSzsFMKozhGd-a8HPetQI79xcXb/view?usp=share_link
 - World and environment visual upgrade
+
 patch-C: https://drive.google.com/file/d/1LAldcTI2CFliAvMTYVbURDngHyqVTzCH/view
 - Autoattack weapon sound update
 
@@ -34,11 +36,13 @@ Delete the following:
 - The whole Sounds/Spells folder (not the whole Sounds folder, just the Spells one inside it)
 - This might mess up your dungeon entrance texture, but someone might figure out a solution to this soon
 - You CANNOT have the spell sounds update without the spell visuals update or vice versa. They are unfortunately tied together, so don't ask for this.
+  
 #### I want a certain race to be modern, but not others
 Sorry, this is way harder to do than you think. You'll have to edit DBCs for this one.
 #### I don't want the equipment visual changes
 - Delete the "Item" folder in patch-A
 - In the DBFilesClient folder, delete ItemDisplayInfo.dbc
+  
 #### The music isn't right in some areas. I'd prefer the vanilla versions
 - In the Sound folder, delete the Music folder
 
