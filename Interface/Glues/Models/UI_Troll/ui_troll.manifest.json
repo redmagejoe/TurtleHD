@@ -1,0 +1,132 @@
+{
+	"fileDataID": 429097,
+	"textures": [
+		{
+			"fileDataID": 1063599,
+			"file": "gradient5circle.blp"
+		},
+		{
+			"fileDataID": 429084,
+			"file": "ui_troll_bg01.blp"
+		},
+		{
+			"fileDataID": 429085,
+			"file": "ui_troll_bg02.blp"
+		},
+		{
+			"fileDataID": 429086,
+			"file": "ui_troll_bg03.blp"
+		},
+		{
+			"fileDataID": 429087,
+			"file": "ui_troll_bg06.blp"
+		},
+		{
+			"fileDataID": 429088,
+			"file": "ui_troll_bg05.blp"
+		},
+		{
+			"fileDataID": 429089,
+			"file": "ui_troll_bg04.blp"
+		},
+		{
+			"fileDataID": 429090,
+			"file": "ui_troll_sunglare.blp"
+		},
+		{
+			"fileDataID": 1063600,
+			"file": "badpalmfrond01.blp"
+		},
+		{
+			"fileDataID": 1063601,
+			"file": "badpalmfrond02.blp"
+		},
+		{
+			"fileDataID": 1063602,
+			"file": "badcoconut2.blp"
+		},
+		{
+			"fileDataID": 429091,
+			"file": "ui_troll_trunk01.blp"
+		},
+		{
+			"fileDataID": 429092,
+			"file": "ui_troll_bush01.blp"
+		},
+		{
+			"fileDataID": 1063603,
+			"file": "bm_troll_tiki03.blp"
+		},
+		{
+			"fileDataID": 1063604,
+			"file": "yellowbonewrope.blp"
+		},
+		{
+			"fileDataID": 1063605,
+			"file": "yellowskull01.blp"
+		},
+		{
+			"fileDataID": 1063606,
+			"file": "rope02.blp"
+		},
+		{
+			"fileDataID": 429093,
+			"file": "ui_troll_bush02.blp"
+		},
+		{
+			"fileDataID": 1063607,
+			"file": "wovenbasket01.blp"
+		},
+		{
+			"fileDataID": 429094,
+			"file": "ui_troll_sack01.blp"
+		},
+		{
+			"fileDataID": 1063608,
+			"file": "meal02.blp"
+		},
+		{
+			"fileDataID": 1063609,
+			"file": "club_1h_torch_a_01.blp"
+		},
+		{
+			"fileDataID": 1063610,
+			"file": "t_vfx_fire_anim02_128_full_desat.blp"
+		},
+		{
+			"fileDataID": 1063611,
+			"file": "t_vfx_door_black.blp"
+		},
+		{
+			"fileDataID": 1063612,
+			"file": "gloworange32.blp"
+		},
+		{
+			"fileDataID": 429095,
+			"file": "ui_troll_torch01.blp"
+		},
+		{
+			"fileDataID": 429096,
+			"file": "ui_troll_water01.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 481215,
+			"file": "ui_troll00.skin"
+		},
+		{
+			"fileDataID": 481217,
+			"file": "ui_troll01.skin"
+		},
+		{
+			"fileDataID": 481218,
+			"file": "ui_troll02.skin"
+		},
+		{
+			"fileDataID": 481216,
+			"file": "ui_troll03.skin"
+		}
+	],
+	"lodSkins": []
+}
