@@ -1,0 +1,140 @@
+{
+	"fileDataID": 319097,
+	"textures": [
+		{
+			"fileDataID": 1065446,
+			"file": "gradient5circle.blp"
+		},
+		{
+			"fileDataID": 319082,
+			"file": "ui_goblin_bg01.blp"
+		},
+		{
+			"fileDataID": 319083,
+			"file": "ui_goblin_bg02.blp"
+		},
+		{
+			"fileDataID": 319084,
+			"file": "ui_goblin_bg03.blp"
+		},
+		{
+			"fileDataID": 319085,
+			"file": "ui_goblin_bg06.blp"
+		},
+		{
+			"fileDataID": 319086,
+			"file": "ui_goblin_bg05.blp"
+		},
+		{
+			"fileDataID": 319087,
+			"file": "ui_goblin_bg04.blp"
+		},
+		{
+			"fileDataID": 319088,
+			"file": "lostisles_mammothtreefoggy01.blp"
+		},
+		{
+			"fileDataID": 319089,
+			"file": "lostisles_leavesfoggy01.blp"
+		},
+		{
+			"fileDataID": 1065447,
+			"file": "lostisles_detaildoodads.blp"
+		},
+		{
+			"fileDataID": 319090,
+			"file": "lostisles_leavesfogged.blp"
+		},
+		{
+			"fileDataID": 319091,
+			"file": "lostisles_trunkfogged.blp"
+		},
+		{
+			"fileDataID": 319092,
+			"file": "ui_goblin_sunglare.blp"
+		},
+		{
+			"fileDataID": 319542,
+			"file": "ui_goblin_flowersdark.blp"
+		},
+		{
+			"fileDataID": 319093,
+			"file": "ui_goblin_clouds01.blp"
+		},
+		{
+			"fileDataID": 319094,
+			"file": "ui_goblin_sky.blp"
+		},
+		{
+			"fileDataID": 319543,
+			"file": "ui_goblin_palmdark.blp"
+		},
+		{
+			"fileDataID": 319544,
+			"file": "ui_goblin_aloedark.blp"
+		},
+		{
+			"fileDataID": 1065448,
+			"file": "lostisles_palmleaf_01.blp"
+		},
+		{
+			"fileDataID": 1065449,
+			"file": "lostisles_mossyrock_01.blp"
+		},
+		{
+			"fileDataID": 1065450,
+			"file": "firefly01.blp"
+		},
+		{
+			"fileDataID": 1065451,
+			"file": "goblin_lightglobe_01.blp"
+		},
+		{
+			"fileDataID": 1065452,
+			"file": "goblin_bamboo_brown.blp"
+		},
+		{
+			"fileDataID": 1065453,
+			"file": "foliage.blp"
+		},
+		{
+			"fileDataID": 319096,
+			"file": "ui_goblin_bamboofogged.blp"
+		},
+		{
+			"fileDataID": 1065454,
+			"file": "seagull01.blp"
+		},
+		{
+			"fileDataID": 1065455,
+			"file": "lostisles_aloe_01.blp"
+		},
+		{
+			"fileDataID": 319545,
+			"file": "ui_goblin_godrays.blp"
+		},
+		{
+			"fileDataID": 319546,
+			"file": "ui_goblin_godraysmask.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 481174,
+			"file": "ui_goblin00.skin"
+		},
+		{
+			"fileDataID": 481175,
+			"file": "ui_goblin01.skin"
+		},
+		{
+			"fileDataID": 481176,
+			"file": "ui_goblin02.skin"
+		},
+		{
+			"fileDataID": 481177,
+			"file": "ui_goblin03.skin"
+		}
+	],
+	"lodSkins": []
+}

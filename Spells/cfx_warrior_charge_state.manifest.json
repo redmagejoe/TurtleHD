@@ -1,0 +1,40 @@
+{
+	"fileDataID": 1109884,
+	"textures": [
+		{
+			"fileDataID": 937000,
+			"file": "smoke_puffy_mask.blp"
+		},
+		{
+			"fileDataID": 1017687,
+			"file": "dirt_scroll_wispy.blp"
+		},
+		{
+			"fileDataID": 1017686,
+			"file": "smoke_puffy_mask_verysoft.blp"
+		},
+		{
+			"fileDataID": 1017688,
+			"file": "sand_scroll.blp"
+		},
+		{
+			"fileDataID": 1017689,
+			"file": "incense_brown.blp"
+		},
+		{
+			"fileDataID": 1109927,
+			"file": "starfield03_yc_a.blp"
+		},
+		{
+			"fileDataID": 1067508,
+			"file": "t_vfx_border_slide_blendadd.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 1109928,
+			"file": "cfx_warrior_charge_state00.skin"
+		}
+	],
+	"lodSkins": []
+}
