@@ -321,9 +321,9 @@ id,name,fileName,areaEffectSize,scale
 372,"ProtectionFromNature Chest","Spells\ProtectionFromNature_Chest.mdx",0,0
 373,"ProtectionFromFire Chest","Spells\ProtectionFromFire_Chest.mdx",0,0
 374,"ResistFrost Chest","Spells\ResistFrost_Chest.mdx",0,0
-375,"BattleShout Cast Base","Spells\BattleShout_Cast_Base_old.mdx",4,0
+375,"BattleShout Cast Base","Spells\BattleShout_Cast_Base_old.mdx",0,0
 376,"IntimidatingShout Cast Base","Spells\IntimidatingShout_Cast_Base.mdx",0,0
-377,"DemoralizingShout Cast Base","Spells\DemoralizingShout_Cast_Base.mdx",4,0
+377,"DemoralizingShout Cast Base","Spells\DemoralizingShout_Cast_Base.mdx",0,0
 378,"Strike Cast Base","Spells\Strike_Cast_Chest.mdx",0,0
 379,"FinishingBlow Impact Chest","Spells\Feint_Impact_Chest.mdx",0,0
 380,"SinisterStrike Base Cast","Spells\SinisterStrike_Base_Cast.mdx",0,0
@@ -684,9 +684,9 @@ id,name,fileName,areaEffectSize,scale
 2723,"Chargestate","Spells\cfx_warrior_charge_state.mdx",0,1
 2724,"wpntrail","Spells\weapontrail_warriorfury.mdx",0,1
 2725,"whirlwind","Spells\cfx_warrior_whirlwind_castbase.mdx",0,1
-2727,"Piercing Howl","Spells\piercinghowl_cast_base.mdx",4,1
+2727,"Piercing Howl","Spells\piercinghowl_cast_base.mdx",0,1
 2728,"berserker rage state base","Spells\cfx_warrior_berserkerrage_statebase.mdx",0,1
-2731,"Intimidating Shout","Spells\cfx_warrior_intimidatingshout_castbase.mdx",4,1
+2731,"Intimidating Shout","Spells\cfx_warrior_intimidatingshout_castbase.mdx",0,1
 2762,"Dragon Flame Breath Nefarian","spells\nefarianflamebreath.mdx",0,1
 2763,"Nefarian Breath Impact","spells\nefarianflamebreath_impact.mdx",0,1
 2782,"Vengeance State Hand","spells\vengeance_state_hand.mdx",0,1
@@ -1639,11 +1639,4 @@ id,name,fileName,areaEffectSize,scale
 9023,"BlessingOfWisdomImpact","Spells\blessingofwisdom_base.mdx",0,0
 9024,"JudgementImpactBlue","Spells\judgement_impact_chest_blue.mdx",0,0
 9025,"JudgementImpactRed","Spells\judgement_impact_chest_red.mdx",0,0
-9026,"BattleShout Cast Base Revamp","Spells\BattleShout_Cast_Base.mdx",4,0
-9027,"Rend","Spells\deathknight_bloodstrike_mirrored.mdx",0,0
-9028,"Overpower","Spells\deathknight_froststrike.mdx",0,0
-9029,"Bloodthirst","Spells\slash_orange.mdx",0,0
-9030,"Mortal Strike","Spells\slash_deepblue.mdx",0,0
-9031,"Overpower Impact","Spells\cfx_warrior_overpower_impact.mdx",0,0
-9032,"DEFUNCT","",0,0
-9033,"chargetrail2","Spells\cfx_warrior_charge_state.mdx",4,0
+9026,"BattleShout Cast Base Revamp","Spells\BattleShout_Cast_Base.mdx",0,0
