@@ -2000,7 +2000,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 1999,4,0,1,2,7,"Character\NightElf\Male\NightElfMaleFaceLower02_07.blp","Character\NightElf\Male\NightElfMaleFaceUpper02_07.blp","",0
 2000,4,0,1,2,8,"Character\NightElf\Male\NightElfMaleFaceLower02_08.blp","Character\NightElf\Male\NightElfMaleFaceUpper02_08.blp","",0
 2001,4,0,1,2,9,"Character\NightElf\Male\NightElfMaleFaceLower02_09.blp","Character\NightElf\Male\NightElfMaleFaceUpper02_09.blp","",0
-2002,4,0,1,2,8,"Character\NightElf\Male\NightElfMaleFaceLower02_08.blp","Character\NightElf\Male\NightElfMaleFaceUpper02_08.blp","",0
+2002,4,0,1,2,10,"Character\NightElf\Male\NightElfMaleFaceLower02_10.blp","Character\NightElf\Male\NightElfMaleFaceUpper02_10.blp","",0
 2003,4,0,1,3,0,"Character\NightElf\Male\NightElfMaleFaceLower03_00.blp","Character\NightElf\Male\NightElfMaleFaceUpper03_00.blp","",0
 2004,4,0,1,3,1,"Character\NightElf\Male\NightElfMaleFaceLower03_01.blp","Character\NightElf\Male\NightElfMaleFaceUpper03_01.blp","",0
 2005,4,0,1,3,2,"Character\NightElf\Male\NightElfMaleFaceLower03_02.blp","Character\NightElf\Male\NightElfMaleFaceUpper03_02.blp","",0
@@ -2575,7 +2575,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2574,5,0,0,0,3,"Character\Scourge\Male\ScourgeMaleSkin00_03.blp","Character\Scourge\Male\ScourgeMaleSkin00_03_Extra.blp","",0
 2575,5,0,0,0,4,"Character\Scourge\Male\ScourgeMaleSkin00_04.blp","Character\Scourge\Male\ScourgeMaleSkin00_04_Extra.blp","",0
 2576,5,0,0,0,5,"Character\Scourge\Male\ScourgeMaleSkin00_05.blp","Character\Scourge\Male\ScourgeMaleSkin00_05_Extra.blp","",0
-2577,5,0,0,0,0,"Character\Scourge\Male\DeathKnightMaleSkin00_00.blp","Character\Scourge\ScourgeEyeGlow.blp","",1
+2577,5,0,0,0,0,"Character\Scourge\Male\DeathKnightMaleSkin00_00.blp","Character\Scourge\Male\DeathKnightMaleSkin00_00_Extra.blp","",1
 2578,5,0,1,0,0,"Character\Scourge\Male\ScourgeMaleFaceLower00_00.blp","Character\Scourge\Male\ScourgeMaleFaceUpper00_00.blp","",0
 2579,5,0,1,0,1,"Character\Scourge\Male\ScourgeMaleFaceLower00_01.blp","Character\Scourge\Male\ScourgeMaleFaceUpper00_01.blp","",0
 2580,5,0,1,0,2,"Character\Scourge\Male\ScourgeMaleFaceLower00_02.blp","Character\Scourge\Male\ScourgeMaleFaceUpper00_02.blp","",0
@@ -2678,7 +2678,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2677,5,0,2,2,7,"","","",0
 2678,5,0,2,2,8,"","","",0
 2679,5,0,2,2,9,"","","",0
-2680,5,0,2,2,10,"Character\Scourge\FacialLowerHair01_00.blp","Character\Scourge\FacialUpperHair01_00.blp","",0
+2680,5,0,2,2,10,"","","",0
 2681,5,0,2,3,0,"","","",0
 2682,5,0,2,3,1,"","","",0
 2683,5,0,2,3,2,"","","",0
@@ -2689,7 +2689,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2688,5,0,2,3,7,"","","",0
 2689,5,0,2,3,8,"","","",0
 2690,5,0,2,3,9,"","","",0
-2691,5,0,2,3,10,"Character\Scourge\FacialLowerHair01_00.blp","Character\Scourge\FacialUpperHair01_00.blp","",0
+2691,5,0,2,3,10,"","","",0
 2692,5,0,2,4,0,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2693,5,0,2,4,1,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2694,5,0,2,4,2,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
@@ -2700,7 +2700,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2699,5,0,2,4,7,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2700,5,0,2,4,8,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2701,5,0,2,4,9,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
-2702,5,0,2,4,10,"Character\Scourge\FacialLowerHair01_00.blp","Character\Scourge\FacialUpperHair01_00.blp","",0
+2702,5,0,2,4,10,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2703,5,0,2,5,0,"","","",0
 2704,5,0,2,5,1,"","","",0
 2705,5,0,2,5,2,"","","",0
@@ -2711,7 +2711,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2710,5,0,2,5,7,"","","",0
 2711,5,0,2,5,8,"","","",0
 2712,5,0,2,5,9,"","","",0
-2713,5,0,2,5,10,"Character\Scourge\FacialLowerHair02_00.blp","Character\Scourge\FacialUpperHair02_00.blp","",0
+2713,5,0,2,5,10,"","","",0
 2714,5,0,2,6,0,"","","",0
 2715,5,0,2,6,1,"","","",0
 2716,5,0,2,6,2,"","","",0
@@ -2722,7 +2722,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2721,5,0,2,6,7,"","","",0
 2722,5,0,2,6,8,"","","",0
 2723,5,0,2,6,9,"","","",0
-2724,5,0,2,6,10,"Character\Scourge\FacialLowerHair02_00.blp","Character\Scourge\FacialUpperHair02_00.blp","",0
+2724,5,0,2,6,10,"","","",0
 2725,5,0,2,7,0,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2726,5,0,2,7,1,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2727,5,0,2,7,2,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
@@ -2733,7 +2733,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2732,5,0,2,7,7,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2733,5,0,2,7,8,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2734,5,0,2,7,9,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
-2735,5,0,2,7,10,"Character\Scourge\FacialLowerHair02_00.blp","Character\Scourge\FacialUpperHair02_00.blp","",0
+2735,5,0,2,7,10,"Character\Scourge\FacialLowerHair07_00.blp","Character\Scourge\FacialUpperHair07_00.blp","",0
 2736,5,0,2,8,0,"Character\Scourge\FacialLowerHair03_00.blp","Character\Scourge\FacialUpperHair03_00.blp","",0
 2737,5,0,2,8,1,"Character\Scourge\FacialLowerHair03_00.blp","Character\Scourge\FacialUpperHair03_00.blp","",0
 2738,5,0,2,8,2,"Character\Scourge\FacialLowerHair03_00.blp","Character\Scourge\FacialUpperHair03_00.blp","",0
@@ -2788,7 +2788,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2787,5,0,2,12,7,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2788,5,0,2,12,8,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2789,5,0,2,12,9,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
-2790,5,0,2,12,10,"Character\Scourge\FacialLowerHair05_00.blp","Character\Scourge\FacialUpperHair05_00.blp","",0
+2790,5,0,2,12,10,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2791,5,0,2,13,0,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2792,5,0,2,13,1,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2793,5,0,2,13,2,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
@@ -2799,7 +2799,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2798,5,0,2,13,7,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2799,5,0,2,13,8,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2800,5,0,2,13,9,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
-2801,5,0,2,13,10,"Character\Scourge\FacialLowerHair05_00.blp","Character\Scourge\FacialUpperHair05_00.blp","",0
+2801,5,0,2,13,10,"Character\Scourge\FacialLowerMaleHair05_00.blp","Character\Scourge\FacialUpperMaleHair05_00.blp","",0
 2802,5,0,2,14,0,"","","",0
 2803,5,0,2,14,1,"","","",0
 2804,5,0,2,14,2,"","","",0
@@ -2810,7 +2810,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2809,5,0,2,14,7,"","","",0
 2810,5,0,2,14,8,"","","",0
 2811,5,0,2,14,9,"","","",0
-2812,5,0,2,14,10,"Character\Scourge\FacialLowerHair06_00.blp","Character\Scourge\FacialUpperHair06_00.blp","",0
+2812,5,0,2,14,10,"","","",0
 2813,5,0,2,15,0,"","","",0
 2814,5,0,2,15,1,"","","",0
 2815,5,0,2,15,2,"","","",0
@@ -2821,7 +2821,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2820,5,0,2,15,7,"","","",0
 2821,5,0,2,15,8,"","","",0
 2822,5,0,2,15,9,"","","",0
-2823,5,0,2,15,10,"Character\Scourge\FacialLowerHair06_00.blp","Character\Scourge\FacialUpperHair06_00.blp","",0
+2823,5,0,2,15,10,"","","",0
 2824,5,0,2,16,0,"Character\Scourge\FacialLowerHair07_03.blp","Character\Scourge\FacialUpperHair07_03.blp","",0
 2825,5,0,2,16,1,"Character\Scourge\FacialLowerHair07_03.blp","Character\Scourge\FacialUpperHair07_03.blp","",0
 2826,5,0,2,16,2,"Character\Scourge\FacialLowerHair07_03.blp","Character\Scourge\FacialUpperHair07_03.blp","",0
@@ -2832,7 +2832,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2831,5,0,2,16,7,"Character\Scourge\FacialLowerHair07_03.blp","Character\Scourge\FacialUpperHair07_03.blp","",0
 2832,5,0,2,16,8,"Character\Scourge\FacialLowerHair07_03.blp","Character\Scourge\FacialUpperHair07_03.blp","",0
 2833,5,0,2,16,9,"Character\Scourge\FacialLowerHair07_03.blp","Character\Scourge\FacialUpperHair07_03.blp","",0
-2834,5,0,2,16,10,"Character\Scourge\FacialLowerHair06_00.blp","Character\Scourge\FacialUpperHair06_00.blp","",0
+2834,5,0,2,16,10,"Character\Scourge\FacialLowerHair07_03.blp","Character\Scourge\FacialUpperHair07_03.blp","",0
 2835,5,0,3,0,0,"","","",0
 2836,5,0,3,0,1,"","","",0
 2837,5,0,3,0,2,"","","",0
@@ -2865,7 +2865,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2864,5,0,3,2,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair02_07.blp","Character\Scourge\ScalpUpperHair02_07.blp",0
 2865,5,0,3,2,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair02_08.blp","Character\Scourge\ScalpUpperHair02_08.blp",0
 2866,5,0,3,2,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair02_09.blp","Character\Scourge\ScalpUpperHair02_09.blp",0
-2867,5,0,3,2,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+2867,5,0,3,2,10,"Character\Scourge\Hair00_10.blp","","",0
 2868,5,0,3,3,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair03_00.blp","Character\Scourge\ScalpUpperHair03_00.blp",0
 2869,5,0,3,3,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair03_01.blp","Character\Scourge\ScalpUpperHair03_01.blp",0
 2870,5,0,3,3,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair03_02.blp","Character\Scourge\ScalpUpperHair03_02.blp",0
@@ -2909,7 +2909,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2908,5,0,3,6,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair06_07.blp","Character\Scourge\ScalpUpperHair06_07.blp",0
 2909,5,0,3,6,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair06_08.blp","Character\Scourge\ScalpUpperHair06_08.blp",0
 2910,5,0,3,6,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair06_09.blp","Character\Scourge\ScalpUpperHair06_09.blp",0
-2911,5,0,3,6,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair01_10.blp","Character\Scourge\ScalpUpperHair01_10.blp",0
+2911,5,0,3,6,10,"Character\Scourge\Hair00_10.blp","","",0
 2912,5,0,3,7,0,"Character\Scourge\Hair00_00.blp","","",0
 2913,5,0,3,7,1,"Character\Scourge\Hair00_01.blp","","",0
 2914,5,0,3,7,2,"Character\Scourge\Hair00_02.blp","","",0
@@ -2920,7 +2920,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2919,5,0,3,7,7,"Character\Scourge\Hair00_07.blp","","",0
 2920,5,0,3,7,8,"Character\Scourge\Hair00_08.blp","","",0
 2921,5,0,3,7,9,"Character\Scourge\Hair00_09.blp","","",0
-2922,5,0,3,7,10,"Character\Scourge\Hair01_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+2922,5,0,3,7,10,"Character\Scourge\Hair00_10.blp","","",0
 2923,5,0,3,8,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair07_00.blp","Character\Scourge\ScalpUpperHair07_00.blp",0
 2924,5,0,3,8,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair07_01.blp","Character\Scourge\ScalpUpperHair07_01.blp",0
 2925,5,0,3,8,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair07_02.blp","Character\Scourge\ScalpUpperHair07_02.blp",0
@@ -2942,7 +2942,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2941,5,0,3,9,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair09_07.blp","Character\Scourge\ScalpUpperHair09_07.blp",0
 2942,5,0,3,9,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair09_08.blp","Character\Scourge\ScalpUpperHair09_08.blp",0
 2943,5,0,3,9,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair09_09.blp","Character\Scourge\ScalpUpperHair09_09.blp",0
-2944,5,0,3,9,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+2944,5,0,3,9,10,"Character\Scourge\Hair00_10.blp","","",0
 2945,5,0,4,0,0,"Character\Scourge\Male\ScourgeMaleNakedPelvisSkin00_00.blp","","",0
 2946,5,0,4,0,1,"Character\Scourge\Male\ScourgeMaleNakedPelvisSkin00_01.blp","","",0
 2947,5,0,4,0,2,"Character\Scourge\Male\ScourgeMaleNakedPelvisSkin00_02.blp","","",0
@@ -2955,7 +2955,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 2954,5,1,0,0,3,"Character\Scourge\Female\ScourgeFemaleSkin00_03.blp","Character\Scourge\Female\ScourgeFemaleSkin00_03_Extra.blp","",0
 2955,5,1,0,0,4,"Character\Scourge\Female\ScourgeFemaleSkin00_04.blp","Character\Scourge\Female\ScourgeFemaleSkin00_04_Extra.blp","",0
 2956,5,1,0,0,5,"Character\Scourge\Female\ScourgeFemaleSkin00_05.blp","Character\Scourge\Female\ScourgeFemaleSkin00_05_Extra.blp","",0
-2957,5,1,0,0,0,"Character\Scourge\Female\ScourgeBloodWidowSkin00_00.blp","Character\Scourge\ScourgeEyeGlow.blp","",1
+2957,5,1,0,0,0,"Character\Scourge\Female\ScourgeBloodWidowSkin00_00.blp","Character\Scourge\Female\ScourgeBloodWidowSkin00_00_Extra.blp","",1
 2958,5,1,1,0,0,"Character\Scourge\Female\ScourgeFemaleFaceLower00_00.blp","Character\Scourge\Female\ScourgeFemaleFaceUpper06_00.blp","",0
 2959,5,1,1,0,1,"Character\Scourge\Female\ScourgeFemaleFaceLower00_01.blp","Character\Scourge\Female\ScourgeFemaleFaceUpper00_01.blp","",0
 2960,5,1,1,0,2,"Character\Scourge\Female\ScourgeFemaleFaceLower00_02.blp","Character\Scourge\Female\ScourgeFemaleFaceUpper00_02.blp","",0
@@ -3047,7 +3047,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3046,5,1,2,1,7,"Character\Scourge\FacialFemaleLowerHair00_00.blp","","",0
 3047,5,1,2,1,8,"Character\Scourge\FacialFemaleLowerHair00_00.blp","","",0
 3048,5,1,2,1,9,"Character\Scourge\FacialFemaleLowerHair00_00.blp","","",0
-3049,5,1,2,1,10,"Character\Scourge\FacialLowerHair00_00.blp","Character\Scourge\FacialUpperHair00_00.blp","",0
+3049,5,1,2,1,10,"Character\Scourge\FacialFemaleLowerHair00_00.blp","","",0
 3050,5,1,2,2,0,"","","",0
 3051,5,1,2,2,1,"","","",0
 3052,5,1,2,2,2,"","","",0
@@ -3058,7 +3058,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3057,5,1,2,2,7,"","","",0
 3058,5,1,2,2,8,"","","",0
 3059,5,1,2,2,9,"","","",0
-3060,5,1,2,2,10,"Character\Scourge\FacialLowerHair01_00.blp","Character\Scourge\FacialUpperHair01_00.blp","",0
+3060,5,1,2,2,10,"","","",0
 3061,5,1,2,3,0,"","","",0
 3062,5,1,2,3,1,"","","",0
 3063,5,1,2,3,2,"","","",0
@@ -3069,7 +3069,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3068,5,1,2,3,7,"","","",0
 3069,5,1,2,3,8,"","","",0
 3070,5,1,2,3,9,"","","",0
-3071,5,1,2,3,10,"Character\Scourge\FacialLowerHair02_00.blp","Character\Scourge\FacialUpperHair02_00.blp","",0
+3071,5,1,2,3,10,"","","",0
 3072,5,1,2,4,0,"Character\Scourge\FacialFemaleLowerHair03_00.blp","","",0
 3073,5,1,2,4,1,"Character\Scourge\FacialFemaleLowerHair03_00.blp","","",0
 3074,5,1,2,4,2,"Character\Scourge\FacialFemaleLowerHair03_00.blp","","",0
@@ -3080,7 +3080,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3079,5,1,2,4,7,"Character\Scourge\FacialFemaleLowerHair03_00.blp","","",0
 3080,5,1,2,4,8,"Character\Scourge\FacialFemaleLowerHair03_00.blp","","",0
 3081,5,1,2,4,9,"Character\Scourge\FacialFemaleLowerHair03_00.blp","","",0
-3082,5,1,2,4,10,"Character\Scourge\FacialLowerHair03_00.blp","Character\Scourge\FacialUpperHair03_00.blp","",0
+3082,5,1,2,4,10,"Character\Scourge\FacialFemaleLowerHair03_00.blp","","",0
 3083,5,1,2,5,0,"Character\Scourge\FacialFemaleLowerHair04_00.blp","","",0
 3084,5,1,2,5,1,"Character\Scourge\FacialFemaleLowerHair04_00.blp","","",0
 3085,5,1,2,5,2,"Character\Scourge\FacialFemaleLowerHair04_00.blp","","",0
@@ -3091,7 +3091,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3090,5,1,2,5,7,"Character\Scourge\FacialFemaleLowerHair04_00.blp","","",0
 3091,5,1,2,5,8,"Character\Scourge\FacialFemaleLowerHair04_00.blp","","",0
 3092,5,1,2,5,9,"Character\Scourge\FacialFemaleLowerHair04_00.blp","","",0
-3093,5,1,2,5,10,"Character\Scourge\FacialLowerHair04_00.blp","Character\Scourge\FacialUpperHair04_00.blp","",0
+3093,5,1,2,5,10,"Character\Scourge\FacialFemaleLowerHair04_00.blp","","",0
 3094,5,1,2,6,0,"Character\Scourge\FacialFemaleLowerHair05_00.blp","","",0
 3095,5,1,2,6,1,"Character\Scourge\FacialFemaleLowerHair05_00.blp","","",0
 3096,5,1,2,6,2,"Character\Scourge\FacialFemaleLowerHair05_00.blp","","",0
@@ -3102,7 +3102,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3101,5,1,2,6,7,"Character\Scourge\FacialFemaleLowerHair05_00.blp","","",0
 3102,5,1,2,6,8,"Character\Scourge\FacialFemaleLowerHair05_00.blp","","",0
 3103,5,1,2,6,9,"Character\Scourge\FacialFemaleLowerHair05_00.blp","","",0
-3104,5,1,2,6,10,"Character\Scourge\FacialLowerHair05_00.blp","Character\Scourge\FacialUpperHair05_00.blp","",0
+3104,5,1,2,6,10,"Character\Scourge\FacialFemaleLowerHair05_00.blp","","",0
 3105,5,1,2,7,0,"","","",0
 3106,5,1,2,7,1,"","","",0
 3107,5,1,2,7,2,"","","",0
@@ -3113,7 +3113,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3112,5,1,2,7,7,"","","",0
 3113,5,1,2,7,8,"","","",0
 3114,5,1,2,7,9,"","","",0
-3115,5,1,2,7,10,"Character\Scourge\FacialLowerHair06_00.blp","Character\Scourge\FacialUpperHair06_00.blp","",0
+3115,5,1,2,7,10,"","","",0
 3116,5,1,3,0,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair00_00.blp","Character\Scourge\ScalpUpperHair00_00.blp",0
 3117,5,1,3,0,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair00_01.blp","Character\Scourge\ScalpUpperHair00_01.blp",0
 3118,5,1,3,0,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair00_02.blp","Character\Scourge\ScalpUpperHair00_02.blp",0
@@ -3124,7 +3124,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3123,5,1,3,0,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair00_07.blp","Character\Scourge\ScalpUpperHair00_07.blp",0
 3124,5,1,3,0,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair00_08.blp","Character\Scourge\ScalpUpperHair00_08.blp",0
 3125,5,1,3,0,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair00_09.blp","Character\Scourge\ScalpUpperHair00_09.blp",0
-3126,5,1,3,0,10,"Character\Scourge\Hair01_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+3126,5,1,3,0,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
 3127,5,1,3,1,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair00_00.blp","Character\Scourge\ScalpUpperHair00_00.blp",0
 3128,5,1,3,1,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair00_01.blp","Character\Scourge\ScalpUpperHair00_01.blp",0
 3129,5,1,3,1,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair00_02.blp","Character\Scourge\ScalpUpperHair00_02.blp",0
@@ -3135,7 +3135,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3134,5,1,3,1,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair00_07.blp","Character\Scourge\ScalpUpperHair00_07.blp",0
 3135,5,1,3,1,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair00_08.blp","Character\Scourge\ScalpUpperHair00_08.blp",0
 3136,5,1,3,1,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair00_09.blp","Character\Scourge\ScalpUpperHair00_09.blp",0
-3137,5,1,3,1,10,"Character\Scourge\Hair01_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+3137,5,1,3,1,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
 3138,5,1,3,2,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair00_00.blp","Character\Scourge\ScalpUpperHair00_00.blp",0
 3139,5,1,3,2,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair00_01.blp","Character\Scourge\ScalpUpperHair00_01.blp",0
 3140,5,1,3,2,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair00_02.blp","Character\Scourge\ScalpUpperHair00_02.blp",0
@@ -3190,7 +3190,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3189,5,1,3,6,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair00_07.blp","Character\Scourge\ScalpUpperHair00_07.blp",0
 3190,5,1,3,6,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair00_08.blp","Character\Scourge\ScalpUpperHair00_08.blp",0
 3191,5,1,3,6,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair00_09.blp","Character\Scourge\ScalpUpperHair00_09.blp",0
-3192,5,1,3,6,10,"Character\Scourge\Hair01_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+3192,5,1,3,6,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
 3193,5,1,3,7,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair00_00.blp","Character\Scourge\ScalpUpperHair00_00.blp",0
 3194,5,1,3,7,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair00_01.blp","Character\Scourge\ScalpUpperHair00_01.blp",0
 3195,5,1,3,7,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair00_02.blp","Character\Scourge\ScalpUpperHair00_02.blp",0
@@ -3201,7 +3201,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3200,5,1,3,7,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair00_07.blp","Character\Scourge\ScalpUpperHair00_07.blp",0
 3201,5,1,3,7,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair00_08.blp","Character\Scourge\ScalpUpperHair00_08.blp",0
 3202,5,1,3,7,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair00_09.blp","Character\Scourge\ScalpUpperHair00_09.blp",0
-3203,5,1,3,7,10,"Character\Scourge\Hair01_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+3203,5,1,3,7,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
 3204,5,1,3,8,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair00_00.blp","Character\Scourge\ScalpUpperHair00_00.blp",0
 3205,5,1,3,8,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair00_01.blp","Character\Scourge\ScalpUpperHair00_01.blp",0
 3206,5,1,3,8,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair00_02.blp","Character\Scourge\ScalpUpperHair00_02.blp",0
@@ -3212,7 +3212,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3211,5,1,3,8,7,"Character\Scourge\Hair00_07.blp","Character\Scourge\ScalpLowerHair00_07.blp","Character\Scourge\ScalpUpperHair00_07.blp",0
 3212,5,1,3,8,8,"Character\Scourge\Hair00_08.blp","Character\Scourge\ScalpLowerHair00_08.blp","Character\Scourge\ScalpUpperHair00_08.blp",0
 3213,5,1,3,8,9,"Character\Scourge\Hair00_09.blp","Character\Scourge\ScalpLowerHair00_09.blp","Character\Scourge\ScalpUpperHair00_09.blp",0
-3214,5,1,3,8,10,"Character\Scourge\Hair01_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
+3214,5,1,3,8,10,"Character\Scourge\Hair00_10.blp","Character\Scourge\ScalpLowerHair00_10.blp","Character\Scourge\ScalpUpperHair00_10.blp",0
 3215,5,1,3,9,0,"Character\Scourge\Hair00_00.blp","Character\Scourge\ScalpLowerHair00_00.blp","Character\Scourge\ScalpUpperHair00_00.blp",0
 3216,5,1,3,9,1,"Character\Scourge\Hair00_01.blp","Character\Scourge\ScalpLowerHair00_01.blp","Character\Scourge\ScalpUpperHair00_01.blp",0
 3217,5,1,3,9,2,"Character\Scourge\Hair00_02.blp","Character\Scourge\ScalpLowerHair00_02.blp","Character\Scourge\ScalpUpperHair00_02.blp",0
@@ -3773,7 +3773,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3772,7,0,3,1,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpLowerHair00_06.blp","Character\Gnome\ScalpUpperHair00_06.blp",0
 3773,7,0,3,1,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpLowerHair00_07.blp","Character\Gnome\ScalpUpperHair00_07.blp",0
 3774,7,0,3,1,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpLowerHair00_08.blp","Character\Gnome\ScalpUpperHair00_08.blp",0
-3775,7,0,3,1,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair01_09.blp","Character\Gnome\ScalpUpperHair01_09.blp",0
+3775,7,0,3,1,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
 3776,7,0,3,2,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpLowerHair01_00.blp","Character\Gnome\ScalpUpperHair01_00.blp",0
 3777,7,0,3,2,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpLowerHair01_01.blp","Character\Gnome\ScalpUpperHair01_01.blp",0
 3778,7,0,3,2,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpLowerHair01_02.blp","Character\Gnome\ScalpUpperHair01_02.blp",0
@@ -3783,7 +3783,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3782,7,0,3,2,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpLowerHair01_06.blp","Character\Gnome\ScalpUpperHair01_06.blp",0
 3783,7,0,3,2,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpLowerHair01_07.blp","Character\Gnome\ScalpUpperHair01_07.blp",0
 3784,7,0,3,2,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpLowerHair01_08.blp","Character\Gnome\ScalpUpperHair01_08.blp",0
-3785,7,0,3,2,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair02_09.blp","Character\Gnome\ScalpUpperHair02_09.blp",0
+3785,7,0,3,2,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair01_09.blp","Character\Gnome\ScalpUpperHair01_09.blp",0
 3786,7,0,3,3,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpLowerHair02_00.blp","Character\Gnome\ScalpUpperHair02_00.blp",0
 3787,7,0,3,3,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpLowerHair02_01.blp","Character\Gnome\ScalpUpperHair02_01.blp",0
 3788,7,0,3,3,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpLowerHair02_02.blp","Character\Gnome\ScalpUpperHair02_02.blp",0
@@ -3793,7 +3793,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3792,7,0,3,3,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpLowerHair02_06.blp","Character\Gnome\ScalpUpperHair02_06.blp",0
 3793,7,0,3,3,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpLowerHair02_07.blp","Character\Gnome\ScalpUpperHair02_07.blp",0
 3794,7,0,3,3,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpLowerHair02_08.blp","Character\Gnome\ScalpUpperHair02_08.blp",0
-3795,7,0,3,3,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair03_09.blp","Character\Gnome\ScalpUpperHair03_09.blp",0
+3795,7,0,3,3,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair02_09.blp","Character\Gnome\ScalpUpperHair02_09.blp",0
 3796,7,0,3,4,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpLowerHair02_00.blp","Character\Gnome\ScalpUpperHair02_00.blp",0
 3797,7,0,3,4,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpLowerHair02_01.blp","Character\Gnome\ScalpUpperHair02_01.blp",0
 3798,7,0,3,4,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpLowerHair02_02.blp","Character\Gnome\ScalpUpperHair02_02.blp",0
@@ -3803,7 +3803,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3802,7,0,3,4,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpLowerHair02_06.blp","Character\Gnome\ScalpUpperHair02_06.blp",0
 3803,7,0,3,4,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpLowerHair02_07.blp","Character\Gnome\ScalpUpperHair02_07.blp",0
 3804,7,0,3,4,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpLowerHair02_08.blp","Character\Gnome\ScalpUpperHair02_08.blp",0
-3805,7,0,3,4,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair04_09.blp","Character\Gnome\ScalpUpperHair04_09.blp",0
+3805,7,0,3,4,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair02_09.blp","Character\Gnome\ScalpUpperHair02_09.blp",0
 3806,7,0,3,5,0,"Character\Gnome\Hair00_00.blp","","Character\Gnome\ScalpUpperHair03_00.blp",0
 3807,7,0,3,5,1,"Character\Gnome\Hair00_01.blp","","Character\Gnome\ScalpUpperHair03_01.blp",0
 3808,7,0,3,5,2,"Character\Gnome\Hair00_02.blp","","Character\Gnome\ScalpUpperHair03_02.blp",0
@@ -3813,7 +3813,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3812,7,0,3,5,6,"Character\Gnome\Hair00_06.blp","","Character\Gnome\ScalpUpperHair03_06.blp",0
 3813,7,0,3,5,7,"Character\Gnome\Hair00_07.blp","","Character\Gnome\ScalpUpperHair03_07.blp",0
 3814,7,0,3,5,8,"Character\Gnome\Hair00_08.blp","","Character\Gnome\ScalpUpperHair03_08.blp",0
-3815,7,0,3,5,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair05_09.blp","Character\Gnome\ScalpUpperHair05_09.blp",0
+3815,7,0,3,5,9,"Character\Gnome\Hair00_09.blp","","Character\Gnome\ScalpUpperHair03_09.blp",0
 3816,7,0,3,6,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpLowerHair04_00.blp","Character\Gnome\ScalpUpperHair04_00.blp",0
 3817,7,0,3,6,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpLowerHair04_01.blp","Character\Gnome\ScalpUpperHair04_01.blp",0
 3818,7,0,3,6,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpLowerHair04_02.blp","Character\Gnome\ScalpUpperHair04_02.blp",0
@@ -3823,7 +3823,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3822,7,0,3,6,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpLowerHair04_06.blp","Character\Gnome\ScalpUpperHair04_06.blp",0
 3823,7,0,3,6,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpLowerHair04_07.blp","Character\Gnome\ScalpUpperHair04_07.blp",0
 3824,7,0,3,6,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpLowerHair04_08.blp","Character\Gnome\ScalpUpperHair04_08.blp",0
-3825,7,0,3,6,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair06_09.blp","Character\Gnome\ScalpUpperHair06_09.blp",0
+3825,7,0,3,6,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair04_09.blp","Character\Gnome\ScalpUpperHair04_09.blp",0
 3826,7,0,4,0,0,"Character\Gnome\Male\GnomeMaleNakedPelvisSkin00_00.blp","","",0
 3827,7,0,4,0,1,"Character\Gnome\Male\GnomeMaleNakedPelvisSkin00_01.blp","","",0
 3828,7,0,4,0,2,"Character\Gnome\Male\GnomeMaleNakedPelvisSkin00_02.blp","","",0
@@ -3890,7 +3890,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3889,7,1,3,0,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpFemaleLowerHair00_06.blp","Character\Gnome\ScalpFemaleUpperHair00_06.blp",0
 3890,7,1,3,0,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpFemaleLowerHair00_07.blp","Character\Gnome\ScalpFemaleUpperHair00_07.blp",0
 3891,7,1,3,0,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpFemaleLowerHair00_08.blp","Character\Gnome\ScalpFemaleUpperHair00_08.blp",0
-3892,7,1,3,0,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
+3892,7,1,3,0,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpFemaleLowerHair00_09.blp","Character\Gnome\ScalpFemaleUpperHair00_09.blp",0
 3893,7,1,3,1,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpFemaleLowerHair00_00.blp","Character\Gnome\ScalpFemaleUpperHair00_00.blp",0
 3894,7,1,3,1,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpFemaleLowerHair00_01.blp","Character\Gnome\ScalpFemaleUpperHair00_01.blp",0
 3895,7,1,3,1,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpFemaleLowerHair00_02.blp","Character\Gnome\ScalpFemaleUpperHair00_02.blp",0
@@ -3900,7 +3900,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3899,7,1,3,1,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpFemaleLowerHair00_06.blp","Character\Gnome\ScalpFemaleUpperHair00_06.blp",0
 3900,7,1,3,1,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpFemaleLowerHair00_07.blp","Character\Gnome\ScalpFemaleUpperHair00_07.blp",0
 3901,7,1,3,1,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpFemaleLowerHair00_08.blp","Character\Gnome\ScalpFemaleUpperHair00_08.blp",0
-3902,7,1,3,1,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
+3902,7,1,3,1,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpFemaleLowerHair00_09.blp","Character\Gnome\ScalpFemaleUpperHair00_09.blp",0
 3903,7,1,3,2,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpFemaleLowerHair00_00.blp","Character\Gnome\ScalpFemaleUpperHair00_00.blp",0
 3904,7,1,3,2,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpFemaleLowerHair00_01.blp","Character\Gnome\ScalpFemaleUpperHair00_01.blp",0
 3905,7,1,3,2,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpFemaleLowerHair00_02.blp","Character\Gnome\ScalpFemaleUpperHair00_02.blp",0
@@ -3910,7 +3910,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3909,7,1,3,2,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpFemaleLowerHair00_06.blp","Character\Gnome\ScalpFemaleUpperHair00_06.blp",0
 3910,7,1,3,2,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpFemaleLowerHair00_07.blp","Character\Gnome\ScalpFemaleUpperHair00_07.blp",0
 3911,7,1,3,2,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpFemaleLowerHair00_08.blp","Character\Gnome\ScalpFemaleUpperHair00_08.blp",0
-3912,7,1,3,2,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
+3912,7,1,3,2,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpFemaleLowerHair00_09.blp","Character\Gnome\ScalpFemaleUpperHair00_09.blp",0
 3913,7,1,3,3,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpFemaleLowerHair00_00.blp","Character\Gnome\ScalpFemaleUpperHair00_00.blp",0
 3914,7,1,3,3,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpFemaleLowerHair00_01.blp","Character\Gnome\ScalpFemaleUpperHair00_01.blp",0
 3915,7,1,3,3,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpFemaleLowerHair00_02.blp","Character\Gnome\ScalpFemaleUpperHair00_02.blp",0
@@ -3920,7 +3920,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3919,7,1,3,3,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpFemaleLowerHair00_06.blp","Character\Gnome\ScalpFemaleUpperHair00_06.blp",0
 3920,7,1,3,3,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpFemaleLowerHair00_07.blp","Character\Gnome\ScalpFemaleUpperHair00_07.blp",0
 3921,7,1,3,3,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpFemaleLowerHair00_08.blp","Character\Gnome\ScalpFemaleUpperHair00_08.blp",0
-3922,7,1,3,3,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
+3922,7,1,3,3,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpFemaleLowerHair00_09.blp","Character\Gnome\ScalpFemaleUpperHair00_09.blp",0
 3923,7,1,3,4,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpFemaleLowerHair00_00.blp","Character\Gnome\ScalpFemaleUpperHair00_00.blp",0
 3924,7,1,3,4,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpFemaleLowerHair00_01.blp","Character\Gnome\ScalpFemaleUpperHair00_01.blp",0
 3925,7,1,3,4,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpFemaleLowerHair00_02.blp","Character\Gnome\ScalpFemaleUpperHair00_02.blp",0
@@ -3930,7 +3930,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3929,7,1,3,4,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpFemaleLowerHair00_06.blp","Character\Gnome\ScalpFemaleUpperHair00_06.blp",0
 3930,7,1,3,4,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpFemaleLowerHair00_07.blp","Character\Gnome\ScalpFemaleUpperHair00_07.blp",0
 3931,7,1,3,4,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpFemaleLowerHair00_08.blp","Character\Gnome\ScalpFemaleUpperHair00_08.blp",0
-3932,7,1,3,4,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
+3932,7,1,3,4,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpFemaleLowerHair00_09.blp","Character\Gnome\ScalpFemaleUpperHair00_09.blp",0
 3933,7,1,3,5,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpFemaleLowerHair00_00.blp","Character\Gnome\ScalpFemaleUpperHair00_00.blp",0
 3934,7,1,3,5,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpFemaleLowerHair00_01.blp","Character\Gnome\ScalpFemaleUpperHair00_01.blp",0
 3935,7,1,3,5,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpFemaleLowerHair00_02.blp","Character\Gnome\ScalpFemaleUpperHair00_02.blp",0
@@ -3940,7 +3940,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3939,7,1,3,5,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpFemaleLowerHair00_06.blp","Character\Gnome\ScalpFemaleUpperHair00_06.blp",0
 3940,7,1,3,5,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpFemaleLowerHair00_07.blp","Character\Gnome\ScalpFemaleUpperHair00_07.blp",0
 3941,7,1,3,5,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpFemaleLowerHair00_08.blp","Character\Gnome\ScalpFemaleUpperHair00_08.blp",0
-3942,7,1,3,5,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
+3942,7,1,3,5,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpFemaleLowerHair00_09.blp","Character\Gnome\ScalpFemaleUpperHair00_09.blp",0
 3943,7,1,3,6,0,"Character\Gnome\Hair00_00.blp","Character\Gnome\ScalpFemaleLowerHair00_00.blp","Character\Gnome\ScalpFemaleUpperHair00_00.blp",0
 3944,7,1,3,6,1,"Character\Gnome\Hair00_01.blp","Character\Gnome\ScalpFemaleLowerHair00_01.blp","Character\Gnome\ScalpFemaleUpperHair00_01.blp",0
 3945,7,1,3,6,2,"Character\Gnome\Hair00_02.blp","Character\Gnome\ScalpFemaleLowerHair00_02.blp","Character\Gnome\ScalpFemaleUpperHair00_02.blp",0
@@ -3950,7 +3950,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 3949,7,1,3,6,6,"Character\Gnome\Hair00_06.blp","Character\Gnome\ScalpFemaleLowerHair00_06.blp","Character\Gnome\ScalpFemaleUpperHair00_06.blp",0
 3950,7,1,3,6,7,"Character\Gnome\Hair00_07.blp","Character\Gnome\ScalpFemaleLowerHair00_07.blp","Character\Gnome\ScalpFemaleUpperHair00_07.blp",0
 3951,7,1,3,6,8,"Character\Gnome\Hair00_08.blp","Character\Gnome\ScalpFemaleLowerHair00_08.blp","Character\Gnome\ScalpFemaleUpperHair00_08.blp",0
-3952,7,1,3,6,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpLowerHair00_09.blp","Character\Gnome\ScalpUpperHair00_09.blp",0
+3952,7,1,3,6,9,"Character\Gnome\Hair00_09.blp","Character\Gnome\ScalpFemaleLowerHair00_09.blp","Character\Gnome\ScalpFemaleUpperHair00_09.blp",0
 3953,7,1,4,0,0,"Character\Gnome\Female\GnomeFemaleNakedPelvisSkin00_00.blp","Character\Gnome\Female\GnomeFemaleNakedTorsoSkin00_00.blp","",0
 3954,7,1,4,0,1,"Character\Gnome\Female\GnomeFemaleNakedPelvisSkin00_01.blp","Character\Gnome\Female\GnomeFemaleNakedTorsoSkin00_01.blp","",0
 3955,7,1,4,0,2,"Character\Gnome\Female\GnomeFemaleNakedPelvisSkin00_02.blp","Character\Gnome\Female\GnomeFemaleNakedTorsoSkin00_02.blp","",0
@@ -4160,15 +4160,15 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 4159,8,0,2,11,8,"Character\Troll\FacialLowerHair06_00.blp","Character\Troll\FacialUpperHair06_00.blp","",0
 4160,8,0,2,11,9,"Character\Troll\FacialLowerHair06_00.blp","Character\Troll\FacialUpperHair06_00.blp","",0
 4161,8,0,2,12,0,"Character\Troll\FacialLowerHair07_00.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4162,8,0,2,12,1,"Character\Troll\FacialLowerHair07_01.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4163,8,0,2,12,2,"Character\Troll\FacialLowerHair07_02.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4164,8,0,2,12,3,"Character\Troll\FacialLowerHair07_03.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4165,8,0,2,12,4,"Character\Troll\FacialLowerHair07_04.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4166,8,0,2,12,5,"Character\Troll\FacialLowerHair07_05.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4167,8,0,2,12,6,"Character\Troll\FacialLowerHair07_06.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4168,8,0,2,12,7,"Character\Troll\FacialLowerHair07_07.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4169,8,0,2,12,8,"Character\Troll\FacialLowerHair07_08.blp","Character\Troll\FacialUpperHair07_00.blp","",0
-4170,8,0,2,12,9,"Character\Troll\FacialLowerHair07_09.blp","Character\Troll\FacialUpperHair07_00.blp","",0
+4162,8,0,2,12,1,"Character\Troll\FacialLowerHair07_01.blp","Character\Troll\FacialUpperHair07_01.blp","",0
+4163,8,0,2,12,2,"Character\Troll\FacialLowerHair07_02.blp","Character\Troll\FacialUpperHair07_02.blp","",0
+4164,8,0,2,12,3,"Character\Troll\FacialLowerHair07_03.blp","Character\Troll\FacialUpperHair07_03.blp","",0
+4165,8,0,2,12,4,"Character\Troll\FacialLowerHair07_04.blp","Character\Troll\FacialUpperHair07_04.blp","",0
+4166,8,0,2,12,5,"Character\Troll\FacialLowerHair07_05.blp","Character\Troll\FacialUpperHair07_05.blp","",0
+4167,8,0,2,12,6,"Character\Troll\FacialLowerHair07_06.blp","Character\Troll\FacialUpperHair07_06.blp","",0
+4168,8,0,2,12,7,"Character\Troll\FacialLowerHair07_07.blp","Character\Troll\FacialUpperHair07_07.blp","",0
+4169,8,0,2,12,8,"Character\Troll\FacialLowerHair07_08.blp","Character\Troll\FacialUpperHair07_08.blp","",0
+4170,8,0,2,12,9,"Character\Troll\FacialLowerHair07_09.blp","Character\Troll\FacialUpperHair07_09.blp","",0
 4171,8,0,2,13,0,"Character\Troll\FacialLowerHair08_00.blp","Character\Troll\FacialUpperHair08_00.blp","",0
 4172,8,0,2,13,1,"Character\Troll\FacialLowerHair08_00.blp","Character\Troll\FacialUpperHair08_00.blp","",0
 4173,8,0,2,13,2,"Character\Troll\FacialLowerHair08_00.blp","Character\Troll\FacialUpperHair08_00.blp","",0
@@ -4737,7 +4737,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 4736,10,0,0,0,7,"Character\BloodElf\Male\BloodElfMaleSkin00_07.blp","Character\BloodElf\Male\BloodElfMaleSkin00_07_Extra.blp","",0
 4737,10,0,0,0,8,"Character\BloodElf\Male\BloodElfMaleSkin00_08.blp","Character\BloodElf\Male\BloodElfMaleSkin00_08_Extra.blp","",0
 4738,10,0,0,0,9,"Character\BloodElf\Male\BloodElfMaleSkin00_09.blp","Character\BloodElf\Male\BloodElfMaleSkin00_09_Extra.blp","",0
-4739,10,0,0,0,10,"Character\BloodElf\Male\BloodElfMaleSkin00_10.blp","","",0
+4739,10,0,0,0,10,"Character\BloodElf\Male\BloodElfMaleSkin00_10.blp","Character\BloodElf\Male\BloodElfMaleSkin00_10_Extra.blp","",0
 4740,10,0,0,0,0,"Character\BloodElf\Male\BloodElfMaleSkin00_100.blp","Character\BloodElf\Male\BloodElfMaleSkin00_100_Extra.blp","",1
 4741,10,0,0,0,1,"Character\BloodElf\Male\BloodElfMaleSkin00_101.blp","Character\BloodElf\Male\BloodElfMaleSkin00_101_Extra.blp","",1
 4742,10,0,0,0,2,"Character\BloodElf\Male\BloodElfMaleSkin00_102.blp","Character\BloodElf\Male\BloodElfMaleSkin00_102_Extra.blp","",1
@@ -5153,7 +5153,7 @@ id,raceId,sexId,baseSection,variationIndex,colorIndex,textureName_1,textureName_
 5152,10,1,0,0,7,"Character\BloodElf\Female\BloodElfFemaleSkin00_07.blp","Character\BloodElf\Female\BloodElfFemaleSkin00_07_Extra.blp","",0
 5153,10,1,0,0,8,"Character\BloodElf\Female\BloodElfFemaleSkin00_08.blp","Character\BloodElf\Female\BloodElfFemaleSkin00_08_Extra.blp","",0
 5154,10,1,0,0,9,"Character\BloodElf\Female\BloodElfFemaleSkin00_09.blp","Character\BloodElf\Female\BloodElfFemaleSkin00_09_Extra.blp","",0
-5155,10,1,0,0,10,"Character\BloodElf\Female\BloodElfFemaleSkin00_10.blp","","",0
+5155,10,1,0,0,10,"Character\BloodElf\Female\BloodElfFemaleSkin00_10.blp","Character\BloodElf\Female\BloodElfFemaleSkin00_10_Extra.blp","",0
 5156,10,1,0,0,0,"Character\BloodElf\Female\BloodElfFemaleSkin00_100.blp","Character\BloodElf\Female\BloodElfFemaleSkin00_100_Extra.blp","",1
 5157,10,1,0,0,1,"Character\BloodElf\Female\BloodElfFemaleSkin00_101.blp","Character\BloodElf\Female\BloodElfFemaleSkin00_101_Extra.blp","",1
 5158,10,1,0,0,2,"Character\BloodElf\Female\BloodElfFemaleSkin00_102.blp","Character\BloodElf\Female\BloodElfFemaleSkin00_102_Extra.blp","",1
