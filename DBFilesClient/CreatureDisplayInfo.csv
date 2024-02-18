@@ -12242,7 +12242,7 @@ id,modelId,soundId,extendedDisplayInfoId,modelScale,modelAlpha,textureVariant_1,
 20502,2554,0,0,1,3.5733110840282835e-43,"SahauginskinWhite","","",1,0,0
 20503,2555,0,0,1,3.5733110840282835e-43,"witheredking","witheredkingCloak","witheredkingHair",0,0,0
 20504,66,0,0,1,3.5733110840282835e-43,"BoarSkinQuel","","",0,0,0
-20505,77,0,0,1,3.5733110840282835e-43,"AutumnDryad","","",0,0,0
+20505,77,0,0,1,3.5733110840282835e-43,"DryadSkin","DryadEyeGlow","ArmorReflect2",0,0,0
 20506,134,0,0,1,3.5733110840282835e-43,"SquirrelQuel","","",0,0,0
 20507,194,0,0,1,3.5733110840282835e-43,"WapitiSkinArctic","","",0,0,0
 20508,2557,0,0,1,3.5733110840282835e-43,"AncientofArcaneSkin","AncientofArcaneCrystal","AncientofArcaneCrystalTrans",0,0,0
