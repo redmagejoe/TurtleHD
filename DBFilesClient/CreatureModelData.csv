@@ -583,6 +583,11 @@ id,flags,modelName,sizeClass,modelScale,bloodId,footprintTextureId,footprintText
 2551,4,"Character\Worgen\Female\WorgenFemale.mdx",1,1,1,7,18,12,1,0,0,0,6.165713243029195e-44,1.1109999418258667,2.125999927520752
 2553,1,"Creature\Raven\Raven.mdx",1,1,1,1,18,12,1,0,0,0,4.90454462513686e-43,0.6944000124931335,2.0829999446868896
 2554,0,"Creature\Murloc\DeepMurloc.mdx",1,1,1,4,18,12,1,0,0,0,4.344025239406933e-44,0.6944000124931335,1.3890000581741333
+2555,0,"Creature\Kaelthas_Broken\witheredking.mdx",1,1,1,1,18,12,1,0,0,0,7.01069621701706e-42,0.5848000049591064,2.0280001163482666
+2556,0,"Creature\Manawurm\manawurm.mdx",0,1,-1,-1,0,0,0,0,0,0,3.0141929967626815e-42,0,0
+2557,8,"Creature\AncientOfarcane\Ancientofarcane.mdx",4,1,-1,1,18,12,1,0,2,11,2.5083242511414226e-43,0.6944000124931335,2.0829999446868896
+2558,2,"Creature\Hawkstrider\Hawkstrider.mdx",1,1,1,5,18,12,1,0,0,0,5.324934164434305e-44,0.6944000124931335,2.0829999446868896
+2559,0,"Creature\bloodelfguard\highelfelfmale_guard.mdx",1,1,1,1,18,12,1,0,0,0,7.01069621701706e-42,0.5848000049591064,2.0280001163482666
 2600,0,"Creature\LadySylvanasWindrunner\LadySylvanasWindrunner.mdx",0,1,3,4,18,12,1,0,0,0,4.06096294961332e-42,0,0
 2601,0,"Creature\Voljin\Voljin.mdx",1,1,1,1,12,0,0,0,0,0,0,0,0
 2602,0,"Creature\Jaina\Jaina.mdx",1,1,1,1,12,0,0,0,0,0,0,0,0
