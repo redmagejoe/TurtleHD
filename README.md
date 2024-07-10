@@ -53,10 +53,7 @@ Probably. I (Astricon) am on the TWoW team, so I have access to their client cha
 I think so. Try making your own branch and see if it works. Otherwise, contact me on Discord. I use the same name there (Astricon)
 
 ## Known Issues
-- Sheath animation is broken for most race/sex models. This is difficult to fix and may never be, so I suggest you unbind your sheath/unsheath keybind and live with it.
-- Many TWoW custom mounts have messed up textures
 - Infernal, Deer, Sea Giant, Hydra, and Pterodactyl models are giant. This is difficult to fix currently but I am always exploring what can be done about this.
-- Wyverns are missing the death animation and Gryphons are missing the attack animation. Gryphons can be fixed soon, but Wyverns might have to be reverted to their old model.
 - High Elf eye glow is weak, doesn't react to blinking very well, and remains blue for the premium Blood Elf and Dark Ranger skins. This may not be fixable, so I may just remove the glow altogether or there may be a workaround in the future.
 - Rain of Fire is a very temperamental spell, and my efforts to change its fire to green like all other Warlock Fire Spells have failed thus far. You will notice a single green fireball falling every wave. Yeah.
 - Moonfire's visual effect is very oversized. Not sure how to fix this yet but it's probably doable eventually.
@@ -64,5 +61,4 @@ I think so. Try making your own branch and see if it works. Otherwise, contact m
 
 ## TO-DO List
 Including the Known Issues, here are some updates you might see in the future
-- New models for Boar, Quillboar, Gnoll, Kobold, Nightsaber, Unicorn, Level 40 Paladin Class Mount, Totem, Rams
 - More spell effect and sounds updates, as usual.
